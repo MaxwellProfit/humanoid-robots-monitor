@@ -220,7 +220,7 @@ def render_page(title: str, subtitle: str, body_html: str, day_links: List[Tuple
         <div class="sub">{html_escape(subtitle)}</div>
       </div>
       <div class="nav">
-        <a class="pill" href="../index.html">Latest</a>
+        <a class="pill" href="/humanoid-robots-monitor/">Latest</a>
         <a class="pill" href="https://github.com/">Repo</a>
       </div>
     </div>
