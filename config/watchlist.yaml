@@ -1,0 +1,68 @@
+# config/watchlist.yaml
+# Add new people/companies by adding another block under `entities`.
+# Keep queries conservative; you can expand later once dedupe is working well.
+
+settings:
+  timezone: "America/Chicago"
+  lookback_days: 2            # how far back to accept items (prevents old articles resurfacing)
+  max_items_per_entity: 25    # safety cap per run
+
+sources:
+  # Google News RSS template. We'll URL-encode {query} in code later.
+  google_news_rss_template: "https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+
+entities:
+  - id: "tesla_optimus"
+    display_name: "Tesla Optimus"
+    keywords:
+      - "Tesla Optimus"
+      - "Optimus robot"
+      - "Tesla humanoid robot"
+      - "Tesla bot"
+    google_news_query: '("Tesla" AND (Optimus OR "Tesla robot" OR "Tesla humanoid"))'
+
+  - id: "elon_musk_optimus"
+    display_name: "Elon Musk + Optimus"
+    keywords:
+      - "Elon Musk Optimus"
+      - "Musk Optimus"
+      - "Musk Tesla robot"
+    google_news_query: '("Elon Musk" AND (Optimus OR "Tesla robot" OR "humanoid robot"))'
+
+  - id: "figure_ai"
+    display_name: "Figure AI (Figure 02)"
+    keywords:
+      - "Figure AI"
+      - "Figure 03"
+      - "Figure 02"
+      - "Figure 01"
+    google_news_query: '("Figure AI" OR "Figure 03" OR "Figure 02" OR "Figure 01") AND (humanoid OR robot)'
+
+  - id: "apptronik"
+    display_name: "Apptronik (Apollo)"
+    keywords:
+      - "Apptronik"
+      - "Apollo robot"
+    google_news_query: '(Apptronik OR "Apollo robot") AND (humanoid OR robot)'
+
+  - id: "boston_dynamics_atlas"
+    display_name: "Boston Dynamics (Atlas)"
+    keywords:
+      - "Boston Dynamics"
+      - "Atlas robot"
+    google_news_query: '("Boston Dynamics" AND (Atlas OR humanoid OR robot))'
+
+  - id: "sanctuary_ai_phoenix"
+    display_name: "Sanctuary AI (Phoenix)"
+    keywords:
+      - "Sanctuary AI"
+      - "Phoenix robot"
+    google_news_query: '("Sanctuary AI" AND (Phoenix OR humanoid OR robot))'
+    
+  - id: "unitree_china"
+    display_name: "Unitree (China)"
+    keywords:
+      - "Unitree"
+      - "Unitree H1 robot"
+      - "Unitree H2 robot"
+    google_news_query: '("Unitree" AND (H1 OR H2 OR robot))'
