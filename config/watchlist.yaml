@@ -10,6 +10,7 @@ settings:
 sources:
   # Google News RSS template. We'll URL-encode {query} in code later.
   google_news_rss_template: "https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+  youtube_channel_rss_template: "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
 
 entities:
   - id: "tesla_optimus"
@@ -28,6 +29,12 @@ entities:
       - "Musk Optimus"
       - "Musk Tesla robot"
     google_news_query: '("Elon Musk" AND (Optimus OR "Tesla robot" OR "humanoid robot"))'
+    youtube_channel_ids: []
+    official_sitemaps:
+      - "https://www.tesla.com/sitemap.xml"
+    official_pages:
+      - "https://www.tesla.com/"
+      - "https://www.tesla.com/blog"
 
   - id: "figure_ai"
     display_name: "Figure AI (Figure 02)"
@@ -37,6 +44,17 @@ entities:
       - "Figure 02"
       - "Figure 01"
     google_news_query: '("Figure AI" OR "Figure 03" OR "Figure 02" OR "Figure 01") AND (humanoid OR robot)'
+    youtube_channel_ids: []
+    official_sitemaps:
+      - "https://www.tesla.com/sitemap.xml"
+    official_pages:
+      - "https://www.tesla.com/"
+      - "https://www.tesla.com/blog"
+      - "https://www.tesla.com/AI"
+      - "https://www.tesla.com/about"
+      - "https://ir.tesla.com/#quarterly-disclosure"
+      - "https://ir.tesla.com/press"
+      - "https://ir.tesla.com/sec-filings"
 
   - id: "apptronik"
     display_name: "Apptronik (Apollo)"
@@ -44,6 +62,16 @@ entities:
       - "Apptronik"
       - "Apollo robot"
     google_news_query: '(Apptronik OR "Apollo robot") AND (humanoid OR robot)'
+    youtube_channel_ids: []
+    official_sitemaps:
+      - "https://apptronik.com/sitemap.xml"
+    official_pages:
+      - "https://apptronik.com/"
+      - "https://apptronik.com/videos"
+      - "https://apptronik.com/apollo"
+      - "https://apptronik.com/press-release"
+      - "https://apptronik.com/news2"
+      - "https://x.com/Tesla_Optimus"
 
   - id: "boston_dynamics_atlas"
     display_name: "Boston Dynamics (Atlas)"
@@ -51,6 +79,15 @@ entities:
       - "Boston Dynamics"
       - "Atlas robot"
     google_news_query: '("Boston Dynamics" AND (Atlas OR humanoid OR robot))'
+    youtube_channel_ids: []
+    official_sitemaps:
+      - "https://bostondynamics.com/sitemap.xml"
+    official_pages:
+      - "https://bostondynamics.com/"
+      - "https://bostondynamics.com/news/"
+      - "https://bostondynamics.com/events/"
+      - "https://bostondynamics.com/blog/"
+      - "https://x.com/BostonDynamics"
 
   - id: "sanctuary_ai_phoenix"
     display_name: "Sanctuary AI (Phoenix)"
@@ -58,6 +95,15 @@ entities:
       - "Sanctuary AI"
       - "Phoenix robot"
     google_news_query: '("Sanctuary AI" AND (Phoenix OR humanoid OR robot))'
+    youtube_channel_ids: []
+    official_sitemaps:
+      - "https://www.sanctuary.ai/sitemap.xml"
+    official_pages:
+      - "https://www.sanctuary.ai/"
+      - "https://www.sanctuary.ai/technology"
+      - "https://www.sanctuary.ai/about"
+      - "https://www.sanctuary.ai/news"
+      - "https://x.com/TheSanctuaryAI"
     
   - id: "unitree_china"
     display_name: "Unitree (China)"
@@ -66,3 +112,10 @@ entities:
       - "Unitree H1 robot"
       - "Unitree H2 robot"
     google_news_query: '("Unitree" AND (H1 OR H2 OR robot))'
+    youtube_channel_ids: []
+    official_sitemaps:
+      - "https://www.k-robotic.com/sitemap.xml"
+    official_pages:
+      - "https://www.k-robotic.com/collections/humanoid-robots"
+      - "https://www.k-robotic.com/blogs/product-support"
+      - "https://x.com/UnitreeRobotics"
