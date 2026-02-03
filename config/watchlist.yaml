@@ -55,7 +55,7 @@ entities:
       - "https://www.figure.ai/news"
       - "https://www.figure.ai/company"
       - "https://www.figure.ai/helix"
-      - "https://x.com/Figure_robot"
+      # - "https://x.com/Figure_robot"
 
   - id: "apptronik"
     display_name: "Apptronik (Apollo)"
@@ -73,7 +73,7 @@ entities:
       - "https://apptronik.com/apollo"
       - "https://apptronik.com/press-release"
       - "https://apptronik.com/news2"
-      - "https://x.com/Tesla_Optimus"
+      # - "https://x.com/Tesla_Optimus"
 
   - id: "boston_dynamics_atlas"
     display_name: "Boston Dynamics (Atlas)"
@@ -94,7 +94,7 @@ entities:
       - "https://bostondynamics.com/news/"
       - "https://bostondynamics.com/events/"
       - "https://bostondynamics.com/blog/"
-      - "https://x.com/BostonDynamics"
+      # - "https://x.com/BostonDynamics"
 
   - id: "sanctuary_ai_phoenix"
     display_name: "Sanctuary AI (Phoenix)"
@@ -111,7 +111,7 @@ entities:
       - "https://www.sanctuary.ai/technology"
       - "https://www.sanctuary.ai/about"
       - "https://www.sanctuary.ai/news"
-      - "https://x.com/TheSanctuaryAI"
+      # - "https://x.com/TheSanctuaryAI"
     
   - id: "unitree_china"
     display_name: "Unitree (China)"
@@ -128,4 +128,4 @@ entities:
     official_pages:
       - "https://www.k-robotic.com/collections/humanoid-robots"
       - "https://www.k-robotic.com/blogs/product-support"
-      - "https://x.com/UnitreeRobotics"
+      # - "https://x.com/UnitreeRobotics"
