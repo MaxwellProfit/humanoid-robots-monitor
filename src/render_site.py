@@ -274,7 +274,7 @@ def render_digest_body(day: str, items: List[DigestItem]) -> str:
 def main() -> None:
     repo_root = Path(__file__).resolve().parents[1]
     digest_dir = repo_root / "data" / "digest"
-    site_dir = repo_root / "site"
+    site_dir = repo_root / "docs"
     days_dir = site_dir / "days"
     site_dir.mkdir(parents=True, exist_ok=True)
     days_dir.mkdir(parents=True, exist_ok=True)
