@@ -29,6 +29,14 @@ jobs:
         run: |
           python src/collect_news.py
 
+      - name: Run YouTube collector
+        run: |
+          python src/collect_youtube.py
+
+      - name: Run official site monitor
+        run: |
+          python src/collect_official_sites.py
+    
       - name: Dedupe into digest
         run: |
           python src/dedupe_digest.py
