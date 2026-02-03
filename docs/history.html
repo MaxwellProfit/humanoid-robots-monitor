@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>History</title>
+  <style>
+:root {
+  --bg: #0b0f14;
+  --card: #111824;
+  --text: #e6edf3;
+  --muted: #9fb0c0;
+  --link: #7dd3fc;
+  --border: #1f2a3a;
+  --chip: #0f2233;
+  --good: #22c55e;
+  --warn: #f59e0b;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: var(--bg);
+  color: var(--text);
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 18px 60px;
+}
+.header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.brand {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+}
+.sub {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 2px;
+}
+.nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.pill {
+  background: var(--chip);
+  border: 1px solid var(--border);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  color: var(--text);
+}
+.pill.active { outline: 2px solid rgba(125, 211, 252, 0.35); }
+
+.h1 {
+  font-size: 28px;
+  font-weight: 800;
+  margin: 16px 0 6px;
+}
+.small { font-size: 12px; color: var(--muted); line-height: 1.2rem; }
+
+.controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin: 14px 0 18px;
+}
+@media (min-width: 780px) {
+  .controls { grid-template-columns: 1.2fr 1fr; }
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px;
+  margin: 10px 0;
+}
+.kpi {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.kpi .pill { cursor: default; }
+.input {
+  width: 100%;
+  background: #0f1622;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+}
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.chk {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+  cursor: pointer;
+  user-select: none;
+  font-size: 12px;
+}
+.chk input { accent-color: #7dd3fc; }
+.section-title {
+  font-size: 16px;
+  font-weight: 800;
+  margin: 20px 0 10px;
+}
+.item-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  line-height: 1.25rem;
+}
+.meta {
+  font-size: 12px;
+  color: var(--muted);
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+}
+.badge.t1 { border-color: rgba(34,197,94,.35); }
+.badge.t2 { border-color: rgba(34,197,94,.22); }
+.badge.t3 { border-color: rgba(245,158,11,.25); }
+.footer {
+  margin-top: 30px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.daylist {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.hidden { display:none; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div>
+        <div class="brand">Humanoid Robots Monitor</div>
+        <div class="sub">Browse previous daily digests</div>
+      </div>
+      <div class="nav">
+        <a class="pill" href="/humanoid-robots-monitor/index.html">Latest</a>
+        <a class="pill" href="/humanoid-robots-monitor/history.html">History</a>
+        <a class="pill" href="https://github.com/" target="_blank" rel="noopener noreferrer">Repo</a>
+      </div>
+    </div>
+
+    <div class="h1">History</div>
+
+    
+<div class="card">
+  <div class="small">Recent days (last 1)</div>
+  <div class="daylist" style="margin-top:12px;"><a class="pill" href="/humanoid-robots-monitor/days/2026-02-02.html">2026-02-02</a></div>
+</div>
+
+
+    <div class="footer">Generated automatically.</div>
+  </div>
+
+<script>
+function applyFilters() {
+  const q = (document.getElementById('q')?.value || '').toLowerCase().trim();
+  const checked = Array.from(document.querySelectorAll('input[name="entity"]:checked')).map(x => x.value);
+  const items = Array.from(document.querySelectorAll('[data-entity]'));
+
+  let shown = 0;
+  for (const el of items) {
+    const ent = el.getAttribute('data-entity');
+    const text = el.getAttribute('data-text');
+    const entOk = (checked.length === 0) || checked.includes(ent);
+    const qOk = (!q) || (text && text.includes(q));
+    const ok = entOk && qOk;
+    el.classList.toggle('hidden', !ok);
+    if (ok) shown += 1;
+  }
+  const counter = document.getElementById('shownCount');
+  if (counter) counter.textContent = String(shown);
+}
+
+document.addEventListener('input', (e) => {
+  if (e.target && (e.target.id === 'q' || e.target.name === 'entity')) {
+    applyFilters();
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  applyFilters();
+});
+</script>
+
+</body>
+</html>

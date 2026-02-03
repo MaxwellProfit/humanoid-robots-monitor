@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Daily Digest — 2026-02-02</title>
+  <title>Robot Digest — 2026-02-02</title>
   <style>
 :root {
   --bg: #0b0f14;
@@ -13,6 +13,8 @@
   --link: #7dd3fc;
   --border: #1f2a3a;
   --chip: #0f2233;
+  --good: #22c55e;
+  --warn: #f59e0b;
 }
 
 * { box-sizing: border-box; }
@@ -26,31 +28,33 @@ a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .container {
-  max-width: 980px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 28px 18px 60px;
 }
 .header {
   display: flex;
   gap: 16px;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
   margin-bottom: 18px;
 }
 .brand {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: 0.2px;
 }
 .sub {
   color: var(--muted);
   font-size: 13px;
+  margin-top: 2px;
 }
 .nav {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+  align-items: center;
 }
 .pill {
   background: var(--chip);
@@ -60,17 +64,23 @@ a:hover { text-decoration: underline; }
   font-size: 12px;
   color: var(--text);
 }
+.pill.active { outline: 2px solid rgba(125, 211, 252, 0.35); }
 
 .h1 {
   font-size: 28px;
-  font-weight: 750;
-  margin: 18px 0 10px;
+  font-weight: 800;
+  margin: 16px 0 6px;
 }
-.h2 {
-  font-size: 16px;
-  font-weight: 700;
-  margin: 24px 0 10px;
-  color: var(--text);
+.small { font-size: 12px; color: var(--muted); line-height: 1.2rem; }
+
+.controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin: 14px 0 18px;
+}
+@media (min-width: 780px) {
+  .controls { grid-template-columns: 1.2fr 1fr; }
 }
 .card {
   background: var(--card);
@@ -79,9 +89,48 @@ a:hover { text-decoration: underline; }
   padding: 14px;
   margin: 10px 0;
 }
+.kpi {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.kpi .pill { cursor: default; }
+.input {
+  width: 100%;
+  background: #0f1622;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+}
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.chk {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+  cursor: pointer;
+  user-select: none;
+  font-size: 12px;
+}
+.chk input { accent-color: #7dd3fc; }
+.section-title {
+  font-size: 16px;
+  font-weight: 800;
+  margin: 20px 0 10px;
+}
 .item-title {
   font-size: 14px;
-  font-weight: 650;
+  font-weight: 700;
   margin: 0 0 6px;
   line-height: 1.25rem;
 }
@@ -92,12 +141,15 @@ a:hover { text-decoration: underline; }
   gap: 10px;
   flex-wrap: wrap;
 }
-.small {
-  font-size: 12px;
-  color: var(--muted);
-  margin-top: 8px;
-  line-height: 1.2rem;
+.badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
 }
+.badge.t1 { border-color: rgba(34,197,94,.35); }
+.badge.t2 { border-color: rgba(34,197,94,.22); }
+.badge.t3 { border-color: rgba(245,158,11,.25); }
 .footer {
   margin-top: 30px;
   color: var(--muted);
@@ -109,6 +161,7 @@ a:hover { text-decoration: underline; }
   flex-wrap: wrap;
   margin-top: 10px;
 }
+.hidden { display:none; }
 </style>
 </head>
 <body>
@@ -116,45 +169,105 @@ a:hover { text-decoration: underline; }
     <div class="header">
       <div>
         <div class="brand">Humanoid Robots Monitor</div>
-        <div class="sub">Daily links and coverage across tracked entities</div>
+        <div class="sub">Daily coverage across tracked humanoid-robot entities</div>
       </div>
       <div class="nav">
-        <a class="pill" href="/humanoid-robots-monitor/">Latest</a>
-        <a class="pill" href="https://github.com/">Repo</a>
+        <a class="pill" href="/humanoid-robots-monitor/index.html">Latest</a>
+        <a class="pill" href="/humanoid-robots-monitor/history.html">History</a>
+        <a class="pill" href="https://github.com/" target="_blank" rel="noopener noreferrer">Repo</a>
       </div>
     </div>
 
-    <div class="h1">Daily Digest — 2026-02-02</div>
-
-    <div class="small">2 items • 2026-02-02</div>
-<div class="h2">Tesla Optimus <span class="small">(2)</span></div>
-
-                <div class="card">
-                  <div class="item-title"><a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxOc2pEZ1RDclQ3X1RxSy1fdFdHUVRCZ0FNQkNlVUtEWEJvdXREVF9EWnMtTUlndG1xU1NLSUhGM3ZnemFqMlRqd3U4SlJ5NVZyQjQ0YjFQWTluTkNWTTVkbUVCZC1NTE0wa3lsRkNPQ25QaWctOHJTQmxMWkxlN28xT3lVV0xldTZPUG5UR3JBd0V3ejdWS0FNdzdSNVdrUDREVnc5Y1lLeEpaZFdlWXpjTHZWN3NBRWRFUDZTRFE0dUphXzhuaS0xUmUyZGtPWWRaSkpkN19oQmU2bDRJRUNhMHJSbkhlV3JkbHBiYXVFN0ZKSFpUMm5mVExTTnZoZzhfeXNkNGtVeDZZcU12Tjh0UG5HR09uQVQyS0pQWXQwN3k?oc=5" target="_blank" rel="noopener noreferrer">Elon Musk&#039;s plan to redesign the world&#039;s factories... and perhaps the planet too: humanoid robots that work 12 hours a day, never rest, and use artificial intelligence - ECOticias.com</a></div>
-                  <div class="meta">
-                    <span>2026-02-01 05:30</span>
-                    <span>news.google.com</span>
-                  </div>
-                  <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMioAJBVV95cUxOc2pEZ1RDclQ3X1RxSy1fdFdHUVRCZ0FNQkNlVUtEWEJvdXREVF9EWnMtTUlndG1xU1NLSUhGM3ZnemFqMlRqd3U4SlJ5NVZyQjQ0YjFQWTluTkNWTTVkbUVCZC1NTE0wa3lsRkNPQ25QaWctOHJTQmxMWkxlN28xT3lVV0xldTZPUG5UR3JBd0V3ejdWS0FNdzdSNVdrUDREVnc5Y1lLeEpaZFdlWXpjTHZWN3NBRWRFUDZTRFE0dUphXzhuaS0xUmUyZGtPWWRaSkpkN19oQmU2bDRJRUNhMHJSbkhlV3JkbHBiYXVFN0ZKSFpUMm5mVExTTnZoZzhfeXNkNGtVeDZZcU12Tjh0UG5HR09uQVQyS0pQWXQwN3k?oc=5&quot; target=&quot;_blank&quot;&gt;Elon Musk&#039;s plan to redesign the world&#039;s factories... and perhaps the planet too: humanoid robots that work 12 hours a day, never rest, and use artificial intelligence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;ECOticias.com&lt;/font&gt;</div>
-                </div>
-                
-
-                <div class="card">
-                  <div class="item-title"><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOOFluc0tUS1pab251RjRnNWliQ2d3NVQ0bl8yczdOSk5kYk5SNlhobkNKMk9EajMyVnhqTVdXQjFPUW5RSXVYd2xVT0pIb3l1UEltMjlfNmxDazh4MGRWWU5yMDZUUUE4VHFjRGUyc3RhYVZ4R3p0T0ZIT2JRUUtQNFdhT0RJMUxJcWJ4OGJkNHlLSXFfQ0hOejJ6ZDR6NHlLQXUtbXR1cklHanBpQ0J2aFRoa0dObk1jWUJRSEtpZWJxMXdTcldLRmFmOEjSAcwBQVVfeXFMUHVCU0dOeWc0alpXNlFCLWRPc2dXNHNfa2dqU3AzYm9EcVdLbUk0NGI3OHVJbUszNXd2R1VLTlJtNEhla00zdTdtU3Zla0Zua2cxRGhWVVZlQmpDNTJWNzlVTEtObHZGemlEcU5nRG9ONUhKT1UwZ2diWmtaaUVUUjQxY3Z4eExxQUFEaEItNFVVSVFZcWhHWWJBQTlMdjBUV2Q1cGVfV3pMNXNaZFlGRThsNkdhTjB4TWhULTBMMXlQYURoTVcweldPb0RY?oc=5" target="_blank" rel="noopener noreferrer">‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans - South China Morning Post</a></div>
-                  <div class="meta">
-                    <span>2026-02-01 00:00</span>
-                    <span>news.google.com</span>
-                  </div>
-                  <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMizAFBVV95cUxOOFluc0tUS1pab251RjRnNWliQ2d3NVQ0bl8yczdOSk5kYk5SNlhobkNKMk9EajMyVnhqTVdXQjFPUW5RSXVYd2xVT0pIb3l1UEltMjlfNmxDazh4MGRWWU5yMDZUUUE4VHFjRGUyc3RhYVZ4R3p0T0ZIT2JRUUtQNFdhT0RJMUxJcWJ4OGJkNHlLSXFfQ0hOejJ6ZDR6NHlLQXUtbXR1cklHanBpQ0J2aFRoa0dObk1jWUJRSEtpZWJxMXdTcldLRmFmOEjSAcwBQVVfeXFMUHVCU0dOeWc0alpXNlFCLWRPc2dXNHNfa2dqU3AzYm9EcVdLbUk0NGI3OHVJbUszNXd2R1VLTlJtNEhla00zdTdtU3Zla0Zua2cxRGhWVVZlQmpDNTJWNzlVTEtObHZGemlEcU5nRG9ONUhKT1UwZ2diWmtaaUVUUjQxY3Z4eExxQUFEaEItNFVVSVFZcWhHWWJBQTlMdjBUV2Q1cGVfV3pMNXNaZFlGRThsNkdhTjB4TWhULTBMMXlQYURoTVcweldPb0RY?oc=5&quot; target=&quot;_blank&quot;&gt;‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;South China Morning Post&lt;/font&gt;</div>
-                </div>
-                
+    <div class="h1">Robot Digest — 2026-02-02</div>
 
     
-        <div class="h2">Recent days</div>
-        <div class="daylist"><a class="pill" href="days/2026-02-02.html">2026-02-02</a></div>
-        
+<div class="card">
+  <div class="kpi">
+    <span class="pill">Items shown: <strong id="shownCount">0</strong></span>
+    <span class="pill">Total items: <strong>2</strong></span>
+  </div>
+  <div class="controls">
+    <div>
+      <div class="small">Search titles/domains</div>
+      <input id="q" class="input" type="text" placeholder="e.g., Optimus, Figure 02, Atlas, funding, demo..." />
+      <div class="small" style="margin-top:8px;">Filter by entity (leave all unchecked to show everything)</div>
+      <div class="filters">
+        <label class="chk"><input type="checkbox" name="entity" value="tesla_optimus"/> Tesla Optimus <span class="badge">2</span></label>
+      </div>
+    </div>
+    <div>
+      <div class="small">Summary (free)</div>
+      <div class="small" style="margin-top:8px; color: var(--text); line-height: 1.35rem;">
+        Entity activity: Tesla Optimus (2). Top sources: news.google.com (2). Common themes in titles: humanoid, elon, musks, plan, redesign, worlds.
+      </div>
+      <div class="small" style="margin-top:10px;">(Optional AI summaries can be added later.)</div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="small">Top sources today</div>
+  <div class="filters" style="margin-top:10px;"><span class="pill">news.google.com <strong>(2)</strong></span></div>
+</div>
+<div class="section-title">All items</div>
+
+            <div class="card" data-entity="tesla_optimus" data-text="elon musk&#039;s plan to redesign the world&#039;s factories... and perhaps the planet too: humanoid robots that work 12 hours a day, never rest, and use artificial intelligence - ecoticias.com news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxOc2pEZ1RDclQ3X1RxSy1fdFdHUVRCZ0FNQkNlVUtEWEJvdXREVF9EWnMtTUlndG1xU1NLSUhGM3ZnemFqMlRqd3U4SlJ5NVZyQjQ0YjFQWTluTkNWTTVkbUVCZC1NTE0wa3lsRkNPQ25QaWctOHJTQmxMWkxlN28xT3lVV0xldTZPUG5UR3JBd0V3ejdWS0FNdzdSNVdrUDREVnc5Y1lLeEpaZFdlWXpjTHZWN3NBRWRFUDZTRFE0dUphXzhuaS0xUmUyZGtPWWRaSkpkN19oQmU2bDRJRUNhMHJSbkhlV3JkbHBiYXVFN0ZKSFpUMm5mVExTTnZoZzhfeXNkNGtVeDZZcU12Tjh0UG5HR09uQVQyS0pQWXQwN3k?oc=5" target="_blank" rel="noopener noreferrer">Elon Musk&#039;s plan to redesign the world&#039;s factories... and perhaps the planet too: humanoid robots that work 12 hours a day, never rest, and use artificial intelligence - ECOticias.com</a></div>
+              <div class="meta">
+                <span>2026-02-01 05:30</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMioAJBVV95cUxOc2pEZ1RDclQ3X1RxSy1fdFdHUVRCZ0FNQkNlVUtEWEJvdXREVF9EWnMtTUlndG1xU1NLSUhGM3ZnemFqMlRqd3U4SlJ5NVZyQjQ0YjFQWTluTkNWTTVkbUVCZC1NTE0wa3lsRkNPQ25QaWctOHJTQmxMWkxlN28xT3lVV0xldTZPUG5UR3JBd0V3ejdWS0FNdzdSNVdrUDREVnc5Y1lLeEpaZFdlWXpjTHZWN3NBRWRFUDZTRFE0dUphXzhuaS0xUmUyZGtPWWRaSkpkN19oQmU2bDRJRUNhMHJSbkhlV3JkbHBiYXVFN0ZKSFpUMm5mVExTTnZoZzhfeXNkNGtVeDZZcU12Tjh0UG5HR09uQVQyS0pQWXQwN3k?oc=5&quot; target=&quot;_blank&quot;&gt;Elon Musk&#039;s plan to redesign the world&#039;s factories... and perhaps the planet too: humanoid robots that work 12 hours a day, never rest, and use artificial intelligence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;ECOticias.com&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="tesla_optimus" data-text="‘optimus chain’: chinese suppliers form backbone of tesla’s humanoid robot plans - south china morning post news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOOFluc0tUS1pab251RjRnNWliQ2d3NVQ0bl8yczdOSk5kYk5SNlhobkNKMk9EajMyVnhqTVdXQjFPUW5RSXVYd2xVT0pIb3l1UEltMjlfNmxDazh4MGRWWU5yMDZUUUE4VHFjRGUyc3RhYVZ4R3p0T0ZIT2JRUUtQNFdhT0RJMUxJcWJ4OGJkNHlLSXFfQ0hOejJ6ZDR6NHlLQXUtbXR1cklHanBpQ0J2aFRoa0dObk1jWUJRSEtpZWJxMXdTcldLRmFmOEjSAcwBQVVfeXFMUHVCU0dOeWc0alpXNlFCLWRPc2dXNHNfa2dqU3AzYm9EcVdLbUk0NGI3OHVJbUszNXd2R1VLTlJtNEhla00zdTdtU3Zla0Zua2cxRGhWVVZlQmpDNTJWNzlVTEtObHZGemlEcU5nRG9ONUhKT1UwZ2diWmtaaUVUUjQxY3Z4eExxQUFEaEItNFVVSVFZcWhHWWJBQTlMdjBUV2Q1cGVfV3pMNXNaZFlGRThsNkdhTjB4TWhULTBMMXlQYURoTVcweldPb0RY?oc=5" target="_blank" rel="noopener noreferrer">‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans - South China Morning Post</a></div>
+              <div class="meta">
+                <span>2026-02-01 00:00</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMizAFBVV95cUxOOFluc0tUS1pab251RjRnNWliQ2d3NVQ0bl8yczdOSk5kYk5SNlhobkNKMk9EajMyVnhqTVdXQjFPUW5RSXVYd2xVT0pIb3l1UEltMjlfNmxDazh4MGRWWU5yMDZUUUE4VHFjRGUyc3RhYVZ4R3p0T0ZIT2JRUUtQNFdhT0RJMUxJcWJ4OGJkNHlLSXFfQ0hOejJ6ZDR6NHlLQXUtbXR1cklHanBpQ0J2aFRoa0dObk1jWUJRSEtpZWJxMXdTcldLRmFmOEjSAcwBQVVfeXFMUHVCU0dOeWc0alpXNlFCLWRPc2dXNHNfa2dqU3AzYm9EcVdLbUk0NGI3OHVJbUszNXd2R1VLTlJtNEhla00zdTdtU3Zla0Zua2cxRGhWVVZlQmpDNTJWNzlVTEtObHZGemlEcU5nRG9ONUhKT1UwZ2diWmtaaUVUUjQxY3Z4eExxQUFEaEItNFVVSVFZcWhHWWJBQTlMdjBUV2Q1cGVfV3pMNXNaZFlGRThsNkdhTjB4TWhULTBMMXlQYURoTVcweldPb0RY?oc=5&quot; target=&quot;_blank&quot;&gt;‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;South China Morning Post&lt;/font&gt;</div>
+            </div>
+            
 
     <div class="footer">Generated automatically.</div>
   </div>
+
+<script>
+function applyFilters() {
+  const q = (document.getElementById('q')?.value || '').toLowerCase().trim();
+  const checked = Array.from(document.querySelectorAll('input[name="entity"]:checked')).map(x => x.value);
+  const items = Array.from(document.querySelectorAll('[data-entity]'));
+
+  let shown = 0;
+  for (const el of items) {
+    const ent = el.getAttribute('data-entity');
+    const text = el.getAttribute('data-text');
+    const entOk = (checked.length === 0) || checked.includes(ent);
+    const qOk = (!q) || (text && text.includes(q));
+    const ok = entOk && qOk;
+    el.classList.toggle('hidden', !ok);
+    if (ok) shown += 1;
+  }
+  const counter = document.getElementById('shownCount');
+  if (counter) counter.textContent = String(shown);
+}
+
+document.addEventListener('input', (e) => {
+  if (e.target && (e.target.id === 'q' || e.target.name === 'entity')) {
+    applyFilters();
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  applyFilters();
+});
+</script>
+
 </body>
 </html>
