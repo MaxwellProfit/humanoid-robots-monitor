@@ -46,15 +46,13 @@ entities:
     google_news_query: '("Figure AI" OR "Figure 03" OR "Figure 02" OR "Figure 01") AND (humanoid OR robot)'
     youtube_channel_ids: []
     official_sitemaps:
-      - "https://www.tesla.com/sitemap.xml"
+      - "https://www.figure.ai/sitemap.xml"
     official_pages:
-      - "https://www.tesla.com/"
-      - "https://www.tesla.com/blog"
-      - "https://www.tesla.com/AI"
-      - "https://www.tesla.com/about"
-      - "https://ir.tesla.com/#quarterly-disclosure"
-      - "https://ir.tesla.com/press"
-      - "https://ir.tesla.com/sec-filings"
+      - "https://www.figure.ai"
+      - "https://www.figure.ai/figure"
+      - "https://www.figure.ai/news"
+      - "https://www.figure.ai/company"
+      - "https://x.com/Figure_robot"
 
   - id: "apptronik"
     display_name: "Apptronik (Apollo)"
