@@ -10,6 +10,16 @@
     "source_feed": "google_news"
   },
   {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "title": "World's First: Unitree Humanoid Robot Autonomous Walking Challenge in −47.4°C Extreme Cold",
+    "url": "https://www.youtube.com/watch?v=SX4WKUHAP4E",
+    "domain": "www.youtube.com",
+    "published": "2026-02-02T05:05:19-06:00",
+    "summary": "−47.4°C, 130,000 steps, 89.75°E, 47.21°N… On the extremely cold snowfields of Altay, the birthplace of human skiing, Unitree's humanoid robot G1 left behind a unique set of marks.",
+    "source_feed": "youtube"
+  },
+  {
     "entity_id": "tesla_optimus",
     "entity_name": "Tesla Optimus",
     "title": "Tesla says its production-ready 3rd-gen humanoid robot to debut soon - CnEVPost",
@@ -17,16 +27,6 @@
     "domain": "news.google.com",
     "published": "2026-02-01T23:55:00-06:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlV6Q2hYLVpOaDlZd3hBMWlDSUhZZEYzaDBGckM5cTUxZlNjV3htRExmRnRnSkdTN0c3dV95MnpZWTNTeUlqQkhaTGluN281aFI3OHlVU2pzSVNONHY2ckJfRVNOZGdneU5Od2pXUlhyeFV2dUx4bWZ1ajJ1UHh6VQ?oc=5\" target=\"_blank\">Tesla says its production-ready 3rd-gen humanoid robot to debut soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CnEVPost</font>",
-    "source_feed": "google_news"
-  },
-  {
-    "entity_id": "tesla_optimus",
-    "entity_name": "Tesla Optimus",
-    "title": "Why Tesla Stock Could Double as Optimus Reaches Human-Level Proficiency This Year - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGZCTk9sd2I4UDJ5dHlja3ZSTmM3cTk3RzRvR2NnMVJOSGRlcVhzdXdoWXRKb0pnRlZoMEZuNnphNXotbmxoOGVQS003MFlGQnNjMjlXNm1DZTNsTnBaNzF1UExpUjA4R21xN1hmNE5tQUpaTU5mZXM3Q3JCZS03NHk5c3lpM3FYRUFocndrR0FXOUk?oc=5",
-    "domain": "news.google.com",
-    "published": "2026-02-01T13:10:00-06:00",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGZCTk9sd2I4UDJ5dHlja3ZSTmM3cTk3RzRvR2NnMVJOSGRlcVhzdXdoWXRKb0pnRlZoMEZuNnphNXotbmxoOGVQS003MFlGQnNjMjlXNm1DZTNsTnBaNzF1UExpUjA4R21xN1hmNE5tQUpaTU5mZXM3Q3JCZS03NHk5c3lpM3FYRUFocndrR0FXOUk?oc=5\" target=\"_blank\">Why Tesla Stock Could Double as Optimus Reaches Human-Level Proficiency This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
     "source_feed": "google_news"
   }
 ]
