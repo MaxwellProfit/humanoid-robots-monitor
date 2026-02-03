@@ -2,7 +2,7 @@ name: Daily Humanoid Robotics Digest
 
 on:
   schedule:
-    - cron: "20 12 * * *"  # daily at 12:20 UTC (adjust later if you want)
+    - cron: "20 14 * * *"  # daily at 14:20 UTC (adjust later if you want)
   workflow_dispatch: {}     # allows manual run from Actions tab
 
 permissions:
