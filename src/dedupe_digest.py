@@ -218,15 +218,15 @@ def ensure_dir(p: Path) -> None:
 
 
 def main() -> None:
-    repo_root = Path(__file__).resolve().parents[1]
-    raw_dir = repo_root / "data" / "raw"
-    digest_dir = repo_root / "data" / "digest"
-    ensure_dir(digest_dir)
+   repo_root = Path(__file__).resolve().parents[1]
+   raw_dir = repo_root / "data" / "raw"
+   digest_dir = repo_root / "data" / "digest"
+   ensure_dir(digest_dir)
 
-    # Default: process today’s file if present; otherwise process the newest raw file.
+   # Default: process today’s file if present; otherwise process the newest raw file.
    raw_files = sorted(raw_dir.glob("*.json"))
    if not raw_files:
-       raise SystemExit("No raw JSON files found in data/raw/. Run collectors first.")
+      raise SystemExit("No raw JSON files found in data/raw/. Run collectors first.")
    
    # Determine "day" by newest file's leading date
    newest = raw_files[-1].name
@@ -234,32 +234,32 @@ def main() -> None:
    
    day_files = sorted(raw_dir.glob(f"{day}*.json"))
    if not day_files:
-       raise SystemExit(f"No raw files found for day {day}")
+      raise SystemExit(f"No raw files found for day {day}")
    
    items = []
    for p in day_files:
-       items.extend(load_items(p))
+      items.extend(load_items(p))
 
-    before = len(items)
+   before = len(items)
 
-    items = dedupe_exact(items)
-    after_exact = len(items)
+   items = dedupe_exact(items)
+   after_exact = len(items)
 
-    items = dedupe_fuzzy_within_entity(items, threshold=92)
-    after_fuzzy = len(items)
+   items = dedupe_fuzzy_within_entity(items, threshold=92)
+   after_fuzzy = len(items)
 
-    # Sort output for stable display: newest first, then entity.
-    items = sorted(
-        items,
-        key=lambda x: (parse_dt_safe(x.published), x.entity_name.lower(), x.domain),
-        reverse=True,
+   # Sort output for stable display: newest first, then entity.
+   items = sorted(
+      items,
+         key=lambda x: (parse_dt_safe(x.published), x.entity_name.lower(), x.domain),
+         reverse=True,
     )
 
-    out_path = digest_dir / f"{day}.json"
-    out_path.write_text(json.dumps(to_json(items), ensure_ascii=False, indent=2), encoding="utf-8")
+   out_path = digest_dir / f"{day}.json"
+   out_path.write_text(json.dumps(to_json(items), ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print(
-        f"Raw: {before} | After exact: {after_exact} | After fuzzy: {after_fuzzy} | Wrote {out_path}"
+   print(
+      f"Raw: {before} | After exact: {after_exact} | After fuzzy: {after_fuzzy} | Wrote {out_path}"
     )
 
 
