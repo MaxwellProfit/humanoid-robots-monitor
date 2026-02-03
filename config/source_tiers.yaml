@@ -1,0 +1,31 @@
+# Higher tier = show earlier in the day view.
+# Add/remove domains anytime.
+
+tiers:
+  1:
+    - "tesla.com"
+    - "figure.ai"
+    - "apptronik.com"
+    - "bostondynamics.com"
+    - "sanctuary.ai"
+    - "sec.gov"
+  2:
+    - "ieee.org"
+    - "spectrum.ieee.org"
+    - "arxiv.org"
+    - "nature.com"
+    - "science.org"
+  3:
+    - "reuters.com"
+    - "bloomberg.com"
+    - "wsj.com"
+    - "ft.com"
+    - "theverge.com"
+    - "techcrunch.com"
+    - "wired.com"
+  4:
+    - "youtube.com"
+    - "podcasts.apple.com"
+    - "open.spotify.com"
+  5:
+    - "*"   # everything else
