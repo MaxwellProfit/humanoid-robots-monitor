@@ -81,7 +81,11 @@ entities:
     google_news_query: '("Boston Dynamics" AND (Atlas OR humanoid OR robot))'
     youtube_channel_ids: []
     official_sitemaps:
-      - "https://bostondynamics.com/sitemap.xml"
+      - "https://bostondynamics.com/whitepaper_ebook-sitemap.xml"
+      - "https://bostondynamics.com/video-sitemap.xml"
+      - "https://bostondynamics.com/event-sitemap.xml"
+      - "https://bostondynamics.com/news-sitemap.xml"
+      - "https://bostondynamics.com/blog-sitemap.xml"
     official_pages:
       - "https://bostondynamics.com/"
       - "https://bostondynamics.com/news/"
@@ -114,7 +118,8 @@ entities:
     google_news_query: '("Unitree" AND (H1 OR H2 OR robot))'
     youtube_channel_ids: []
     official_sitemaps:
-      - "https://www.k-robotic.com/sitemap.xml"
+      - "https://www.k-robotic.com/sitemap_blogs_1.xml"
+      - "https://www.k-robotic.com/sitemap_products_1.xml?from=14724945936756&to=96923712856436"
     official_pages:
       - "https://www.k-robotic.com/collections/humanoid-robots"
       - "https://www.k-robotic.com/blogs/product-support"
