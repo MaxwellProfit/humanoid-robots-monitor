@@ -40,6 +40,7 @@ entities:
     display_name: "Figure AI (Figure 02)"
     keywords:
       - "Figure AI"
+      - "Figure Helix"
       - "Figure 03"
       - "Figure 02"
       - "Figure 01"
@@ -52,6 +53,7 @@ entities:
       - "https://www.figure.ai/figure"
       - "https://www.figure.ai/news"
       - "https://www.figure.ai/company"
+      - "https://www.figure.ai/helix"
       - "https://x.com/Figure_robot"
 
   - id: "apptronik"
