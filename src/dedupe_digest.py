@@ -224,14 +224,22 @@ def main() -> None:
     ensure_dir(digest_dir)
 
     # Default: process today’s file if present; otherwise process the newest raw file.
-    raw_files = sorted(raw_dir.glob("*.json"))
-    if not raw_files:
-        raise SystemExit("No raw JSON files found in data/raw/. Run collect_news.py first.")
+   raw_files = sorted(raw_dir.glob("*.json"))
+   if not raw_files:
+       raise SystemExit("No raw JSON files found in data/raw/. Run collectors first.")
+   
+   # Determine "day" by newest file's leading date
+   newest = raw_files[-1].name
+   day = newest.split(".")[0]  # YYYY-MM-DD from YYYY-MM-DD[.suffix].json
+   
+   day_files = sorted(raw_dir.glob(f"{day}*.json"))
+   if not day_files:
+       raise SystemExit(f"No raw files found for day {day}")
+   
+   items = []
+   for p in day_files:
+       items.extend(load_items(p))
 
-    raw_path = raw_files[-1]
-    day = raw_path.stem
-
-    items = load_items(raw_path)
     before = len(items)
 
     items = dedupe_exact(items)
