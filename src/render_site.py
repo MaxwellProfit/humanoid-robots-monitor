@@ -494,7 +494,7 @@ def main() -> None:
 
     # Hardcode these two to avoid asking you again:
     # Update repo_url to YOUR repo URL once if you want.
-    repo_url = "https://github.com/"
+    repo_url = "repo_url = "https://github.com/maxwellprofit/humanoid-robots-monitor"
     base_path = "/humanoid-robots-monitor/"  # must match repo name for GitHub Pages
 
     digest_files = sorted(digest_dir.glob("*.json"))

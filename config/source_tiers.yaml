@@ -16,6 +16,8 @@ tiers:
     - "nature.com"
     - "science.org"
   3:
+    - "x.com"
+    - "youtube.com"
     - "reuters.com"
     - "bloomberg.com"
     - "wsj.com"
@@ -24,7 +26,6 @@ tiers:
     - "techcrunch.com"
     - "wired.com"
   4:
-    - "youtube.com"
     - "podcasts.apple.com"
     - "open.spotify.com"
   5:
