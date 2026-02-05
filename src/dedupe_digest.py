@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import json
 import re
+import hashlib
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -59,7 +60,11 @@ class Item:
     published: str
     summary: str
     domain: str
+   
 
+def fingerprint(item: Item) -> str:
+    key = f"{item.url}||{normalize_title(item.title)}"
+    return hashlib.sha256(key.encode("utf-8")).hexdigest()
 
 def canonicalize_url(url: str) -> str:
     try:
@@ -217,6 +222,16 @@ def ensure_dir(p: Path) -> None:
     p.mkdir(parents=True, exist_ok=True)
 
 
+def load_seen(path: Path) -> Dict[str, str]:
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def save_seen(path: Path, data: Dict[str, str]) -> None:
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def main() -> None:
    repo_root = Path(__file__).resolve().parents[1]
    raw_dir = repo_root / "data" / "raw"
@@ -248,6 +263,26 @@ def main() -> None:
    items = dedupe_fuzzy_within_entity(items, threshold=92)
    after_fuzzy = len(items)
 
+   # -------- GLOBAL CROSS-DAY DEDUPE --------
+   state_dir = repo_root / "data" / "state"
+   ensure_dir(state_dir)
+
+   seen_path = state_dir / "global_seen.json"
+   seen = load_seen(seen_path)
+
+   new_items: List[Item] = []
+   for it in items:
+        fp = fingerprint(it)
+        if fp in seen:
+            continue
+        new_items.append(it)
+        seen[fp] = day  # store first-seen day
+
+   items = new_items
+   after_global = len(items)
+
+   save_seen(seen_path, seen)
+
    # Sort output for stable display: newest first, then entity.
    items = sorted(
       items,
@@ -259,9 +294,8 @@ def main() -> None:
    out_path.write_text(json.dumps(to_json(items), ensure_ascii=False, indent=2), encoding="utf-8")
 
    print(
-      f"Raw: {before} | After exact: {after_exact} | After fuzzy: {after_fuzzy} | Wrote {out_path}"
-    )
-
+    f"Raw: {before} | Exact: {after_exact} | Fuzzy: {after_fuzzy} | New vs history: {after_global} | Wrote {out_path}"
+   )
 
 if __name__ == "__main__":
     main()
