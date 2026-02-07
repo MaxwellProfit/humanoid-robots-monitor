@@ -140,7 +140,7 @@ entities:
     youtube_channel_ids: 
       - "UCoHslVexR2q57wUoCRfdUsg"
     official_sitemaps:
-      # -
+      - "https://www.1x.tech/sitemap.xml"
     official_pages:
       - "https://www.1x.tech"
       - "https://www.1x.tech/discover/category/research"
