@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Tesla is now in Africa | Morocco launch",
+    "url": "https://www.youtube.com/shorts/wqATgTmPA8M",
+    "published": "2026-02-06T13:50:13-06:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Cyber skijoring",
+    "url": "https://www.youtube.com/shorts/uEv9OHv3pnw",
+    "published": "2026-02-05T12:21:36-06:00",
+    "summary": "(Trained professionals – Don't try this at home)"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Atlas Airborne | Boston Dynamics & @rai-inst",
+    "url": "https://www.youtube.com/watch?v=UNorxwlZlFk",
+    "published": "2026-02-07T08:00:51-06:00",
+    "summary": "Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made one final push to test the limits of full-body control and mobility, with help from the RAI Institute."
+  }
+]
