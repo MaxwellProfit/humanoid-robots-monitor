@@ -129,3 +129,22 @@ entities:
       - "https://www.k-robotic.com/collections/humanoid-robots"
       - "https://www.k-robotic.com/blogs/product-support"
       # - "https://x.com/UnitreeRobotics"
+
+  - id: "1x"
+    display_name: "1x"
+    keywords:
+      - "1x"
+      - "Neo robot"
+      - "1x Neo"
+    google_news_query: '("1x" AND (Neo OR robot))'
+    youtube_channel_ids: 
+      - "UCoHslVexR2q57wUoCRfdUsg"
+    official_sitemaps:
+      # -
+    official_pages:
+      - "https://www.1x.tech"
+      - "https://www.1x.tech/discover/category/research"
+      - "https://www.1x.tech/careers"
+      - "https://www.1x.tech/discover/category/company"
+      - "https://www.1x.tech/about"
+      - "https://www.1x.tech/order"
