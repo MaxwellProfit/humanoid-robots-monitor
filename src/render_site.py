@@ -384,23 +384,6 @@ def render_controls(items: List[DigestItem], entities_ordered: List[str]) -> str
     <span class="pill">Items shown: <strong id="shownCount">0</strong></span>
     # <span class="pill">Total items: <strong>{len(items)}</strong></span>
   </div>
-  # <div class="controls">
-  #   <div>
-  #     <div class="small">Search titles / domains</div>
-  #     <input id="q" class="input" type="text" placeholder="e.g., Optimus, Figure 02, Atlas, funding, demo..." />
-  #     <div class="small" style="margin-top:8px;">Filter by entity (leave all unchecked to show everything)</div>
-  #     <div class="filters">
-  #       {''.join(chk_html)}
-  #     </div>
-  #   </div>
-  #   <div>
-  #     <div class="small">Summary (free)</div>
-  #     <div class="small" style="margin-top:8px; color: var(--text); line-height: 1.35rem;">
-  #       {html_escape(heuristic_summary(items))}
-  #     </div>
-  #     <div class="small" style="margin-top:10px;">(Optional AI summaries can be added later.)</div>
-  #   </div>
-  # </div>
 </div>
 """
 
