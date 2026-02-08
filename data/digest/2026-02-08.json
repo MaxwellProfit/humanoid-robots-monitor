@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "title": "Apptronik",
+    "url": "https://apptronik.com/",
+    "domain": "apptronik.com",
+    "published": "2026-02-08T08:32:23.669915-06:00",
+    "summary": "Apollo is a general purpose humanoid robot designed to work in the real world.",
+    "source_feed": "official_site"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Boston Dynamics’ new Atlas humanoid robot pulls off backflip with cartwheel - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21JME9zQzAyZmpLNHhoN010OFRpcjBPS1BkV09Hc1ZJX1hLVEVHQkR4b1BHSDZrcTl6SGszOEowdG5zWHlOYTJxQWNJcFE0OGFMLUdkOV8ycG1Dajl5Y3Jxek5xcVJNb1djaVoxa1pBbUFRRFl2Vkhnck5LbGNYTWZFRHRKamlVMWlWYkJNX3U2YkhYRG9GN0VyaDRZQkI3bENiTjhSbGtLc1VjQVpRN2tDMjAwUGRCUXF3?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-02-07T20:24:00-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21JME9zQzAyZmpLNHhoN010OFRpcjBPS1BkV09Hc1ZJX1hLVEVHQkR4b1BHSDZrcTl6SGszOEowdG5zWHlOYTJxQWNJcFE0OGFMLUdkOV8ycG1Dajl5Y3Jxek5xcVJNb1djaVoxa1pBbUFRRFl2Vkhnck5LbGNYTWZFRHRKamlVMWlWYkJNX3U2YkhYRG9GN0VyaDRZQkI3bENiTjhSbGtLc1VjQVpRN2tDMjAwUGRCUXF3?oc=5\" target=\"_blank\">Boston Dynamics’ new Atlas humanoid robot pulls off backflip with cartwheel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font>",
+    "source_feed": "google_news"
+  }
+]
