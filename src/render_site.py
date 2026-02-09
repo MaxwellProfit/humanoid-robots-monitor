@@ -382,7 +382,6 @@ def render_controls(items: List[DigestItem], entities_ordered: List[str]) -> str
 <div class="card">
   <div class="kpi">
     <span class="pill">Items shown: <strong id="shownCount">0</strong></span>
-    # <span class="pill">Total items: <strong>{len(items)}</strong></span>
   </div>
 </div>
 """
