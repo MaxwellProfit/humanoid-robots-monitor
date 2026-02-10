@@ -1,0 +1,32 @@
+[
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "title": "1X | Home Robots",
+    "url": "https://www.1x.tech",
+    "domain": "www.1x.tech",
+    "published": "2026-02-10T08:44:29.445559-06:00",
+    "summary": "",
+    "source_feed": "official_site"
+  },
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "title": "Sleep flat with CyberTent",
+    "url": "https://www.youtube.com/shorts/wZ1QDXeYb6M",
+    "domain": "www.youtube.com",
+    "published": "2026-02-09T12:31:30-06:00",
+    "summary": "",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Video: US humanoid robot hits perfect cartwheel and backflip with steady balance - Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQW1NOUdLcEtYVTVlZ0hCdHpEa2VSZ2t0aVFrUHhpa3dZQTRPVFo0LVpXVWs3QW00VkVaV3QzbkhYSWhQZG56bEVPbHdWZjJxWDBoclNaV0hoYnM3akdPVTl1WWJvVThKV3lJZ251UVZ6bUJXMnRyWXcwNzZzRWxQRnQ2NUFXQ3RBQTFJMmY1UTV2V0FDYXRWWTJtYw?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-02-09T06:48:00-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQW1NOUdLcEtYVTVlZ0hCdHpEa2VSZ2t0aVFrUHhpa3dZQTRPVFo0LVpXVWs3QW00VkVaV3QzbkhYSWhQZG56bEVPbHdWZjJxWDBoclNaV0hoYnM3akdPVTl1WWJvVThKV3lJZ251UVZ6bUJXMnRyWXcwNzZzRWxQRnQ2NUFXQ3RBQTFJMmY1UTV2V0FDYXRWWTJtYw?oc=5\" target=\"_blank\">Video: US humanoid robot hits perfect cartwheel and backflip with steady balance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+    "source_feed": "google_news"
+  }
+]
