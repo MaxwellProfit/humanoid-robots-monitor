@@ -1,0 +1,101 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure",
+    "url": "https://www.figure.ai",
+    "published": "2026-02-16T08:35:16.221243-06:00",
+    "summary": "Figure 03 is a general purpose humanoid robot for every day."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure 03 | Figure",
+    "url": "https://www.figure.ai/figure",
+    "published": "2026-02-16T08:35:16.393407-06:00",
+    "summary": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "News | Figure",
+    "url": "https://www.figure.ai/news",
+    "published": "2026-02-16T08:35:16.615441-06:00",
+    "summary": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Company | Figure",
+    "url": "https://www.figure.ai/company",
+    "published": "2026-02-16T08:35:16.823358-06:00",
+    "summary": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Helix | Figure",
+    "url": "https://www.figure.ai/helix",
+    "published": "2026-02-16T08:35:16.998735-06:00",
+    "summary": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "Sanctuary AI",
+    "url": "https://www.sanctuary.ai/",
+    "published": "2026-02-16T08:35:21.644262-06:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "Technology — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/technology",
+    "published": "2026-02-16T08:35:21.788043-06:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "About — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/about",
+    "published": "2026-02-16T08:35:21.889744-06:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "News — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/news",
+    "published": "2026-02-16T08:35:22.003529-06:00",
+    "summary": "Sanctuary AI has demonstrated advanced manipulation skills that showcase our industry-leading ability to train dexterous policies for our unique, high-performance hydraulic hands…"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Humanoid Robots\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/collections/humanoid-robots",
+    "published": "2026-02-16T08:35:22.486859-06:00",
+    "summary": "Need other robots? Universities, law enforcement, individuals—reach out."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Product support\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/blogs/product-support",
+    "published": "2026-02-16T08:35:23.241736-06:00",
+    "summary": "Need other robots? Universities, law enforcement, individuals—reach out."
+  }
+]
