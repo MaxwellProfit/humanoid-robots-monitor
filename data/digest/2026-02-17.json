@@ -1,0 +1,42 @@
+[
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "News — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/news",
+    "domain": "www.sanctuary.ai",
+    "published": "2026-02-17T08:36:46.795110-06:00",
+    "summary": "Sanctuary AI has demonstrated advanced manipulation skills that showcase our industry-leading ability to train dexterous policies for our unique, high-performance hydraulic hands…",
+    "source_feed": "official_site"
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "title": "B Capital Joins $935M Extended Series A for Humanoid Robot-Maker Apptronik - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGxNZEI2OE1MVnQ0LWJWcm9qTDh3YnV6Nm90MHZTRzIzQURvRW9KWnVxM0F3azZwTTNycE0zY2pUVWpQbUFQM2lLMW5EV0l0UDZzVDY2VXhobTdodkVqaFFIc0cxY1JBTE9EaG1TVnRzQnhHQ2ZpcEdLM0FjNnNMS1A1NVl1aWwzUmVQcVNXNW90dmF4OUFSNHJlSjlLeE40NUM5TS1DMzUxV1puTjZmeGxn?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-02-17T03:44:12-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGxNZEI2OE1MVnQ0LWJWcm9qTDh3YnV6Nm90MHZTRzIzQURvRW9KWnVxM0F3azZwTTNycE0zY2pUVWpQbUFQM2lLMW5EV0l0UDZzVDY2VXhobTdodkVqaFFIc0cxY1JBTE9EaG1TVnRzQnhHQ2ZpcEdLM0FjNnNMS1A1NVl1aWwzUmVQcVNXNW90dmF4OUFSNHJlSjlLeE40NUM5TS1DMzUxV1puTjZmeGxn?oc=5\" target=\"_blank\">B Capital Joins $935M Extended Series A for Humanoid Robot-Maker Apptronik</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "title": "Apptronik Raises Series A Funding to Nearly $1 Billion to Advance Humanoid Robotics - Machine Maker",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1l4a0RfaFZDWlo1RmZPUUtrZERGUDdXaUcwWW1vblUxVExTYXpabDlJdEg5cGRSMkcyLTVMZmc0cHFFZXVXNlcwUUM1N1RnYmVENmNhemc1TXA5UF80VmJDUHJUQ3hCRHBqWVZNU0FvLXdKZWtZZkhYdVh4cnIxSzdqdDQzdnlxeFRTQU9NT1pGb0xzOGtVN1lMLWE1V2NtS2F0c0tyeUlxbW5XbUd3NHpXSnA4UWc?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-02-17T00:44:16-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1l4a0RfaFZDWlo1RmZPUUtrZERGUDdXaUcwWW1vblUxVExTYXpabDlJdEg5cGRSMkcyLTVMZmc0cHFFZXVXNlcwUUM1N1RnYmVENmNhemc1TXA5UF80VmJDUHJUQ3hCRHBqWVZNU0FvLXdKZWtZZkhYdVh4cnIxSzdqdDQzdnlxeFRTQU9NT1pGb0xzOGtVN1lMLWE1V2NtS2F0c0tyeUlxbW5XbUd3NHpXSnA4UWc?oc=5\" target=\"_blank\">Apptronik Raises Series A Funding to Nearly $1 Billion to Advance Humanoid Robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Machine Maker</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "title": "Unitree Spring Festival Gala Robots —a Full Release of Additional Details",
+    "url": "https://www.youtube.com/watch?v=Ykiuz1ZdGBc",
+    "domain": "www.youtube.com",
+    "published": "2026-02-16T10:29:51-06:00",
+    "summary": "Dozens of G1 robots achieved the world’s first fully autonomous humanoid robot cluster Kung Fu performance (with quick movement), pushing motion limits and setting multiple world firsts! H2 made striking appearances at both the Beijing main venue and the Yiwu sub-venue, clad in the Monkey King’s heavy armor and riding a “somersault cloud” played by B2W quadruped robot dogs, delivering New Year blessings from the clouds.",
+    "source_feed": "youtube"
+  }
+]
