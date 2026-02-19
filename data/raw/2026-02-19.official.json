@@ -1,0 +1,155 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure",
+    "url": "https://www.figure.ai",
+    "published": "2026-02-19T08:38:04.072538-06:00",
+    "summary": "Figure 03 is a general purpose humanoid robot for every day."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure 03 | Figure",
+    "url": "https://www.figure.ai/figure",
+    "published": "2026-02-19T08:38:04.135165-06:00",
+    "summary": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "News | Figure",
+    "url": "https://www.figure.ai/news",
+    "published": "2026-02-19T08:38:04.236941-06:00",
+    "summary": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Company | Figure",
+    "url": "https://www.figure.ai/company",
+    "published": "2026-02-19T08:38:04.318836-06:00",
+    "summary": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Helix | Figure",
+    "url": "https://www.figure.ai/helix",
+    "published": "2026-02-19T08:38:04.417459-06:00",
+    "summary": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills."
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Apptronik",
+    "url": "https://apptronik.com/",
+    "published": "2026-02-19T08:38:04.635641-06:00",
+    "summary": "Apollo is a general purpose humanoid robot designed to work in the real world."
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Videos",
+    "url": "https://apptronik.com/videos",
+    "published": "2026-02-19T08:38:04.802068-06:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Apollo",
+    "url": "https://apptronik.com/apollo",
+    "published": "2026-02-19T08:38:04.958840-06:00",
+    "summary": "Apollo is modular and can be mounted to any mobility platform, stationary, or fully mobile with legs."
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Press Release",
+    "url": "https://apptronik.com/press-release",
+    "published": "2026-02-19T08:38:05.139877-06:00",
+    "summary": "Repeat investors including B Capital, Google, Mercedes-Benz and PEAK6, alongside new investors including AT&T Ventures, John Deere and QIA, back Apptronik to scale production and deployment of Apollo™ humanoid robots"
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "In the News",
+    "url": "https://apptronik.com/news2",
+    "published": "2026-02-19T08:38:05.265539-06:00",
+    "summary": "Apptronik has raised $520 million in funding at a $5 billion valuation as the startup aims to commercialize its humanoid Apollo robots, potentially beating Chinese competitors and Tesla’s Optimus to the market."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "Sanctuary AI",
+    "url": "https://www.sanctuary.ai/",
+    "published": "2026-02-19T08:38:07.403100-06:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "Technology — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/technology",
+    "published": "2026-02-19T08:38:07.472047-06:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "About — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/about",
+    "published": "2026-02-19T08:38:07.535285-06:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "News — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/news",
+    "published": "2026-02-19T08:38:07.589622-06:00",
+    "summary": "Sanctuary AI has demonstrated advanced manipulation skills that showcase our industry-leading ability to train dexterous policies for our unique, high-performance hydraulic hands…"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Humanoid Robots\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/collections/humanoid-robots",
+    "published": "2026-02-19T08:38:07.981686-06:00",
+    "summary": "Need other robots? Universities, law enforcement, individuals—reach out."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Product support\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/blogs/product-support",
+    "published": "2026-02-19T08:38:08.942717-06:00",
+    "summary": "Need other robots? Universities, law enforcement, individuals—reach out."
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "official_site",
+    "title": "1X | Home Robots",
+    "url": "https://www.1x.tech",
+    "published": "2026-02-19T08:38:09.592338-06:00",
+    "summary": ""
+  }
+]

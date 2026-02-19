@@ -1,0 +1,12 @@
+[
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "ST Engineering MRAS | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=mH4NLGI64MM",
+    "domain": "www.youtube.com",
+    "published": "2026-02-18T08:47:42-06:00",
+    "summary": "Data powers an organization's digital transformation, and ST Engineering MRAS is leveraging Spot to get a full view of critical equipment and facility. Working autonomously, Spot collects information about machine health - and now, thanks to an integration of the Leica BLK ARC for reality capture, detailed and accurate point cloud data for their digital twin. \n\nLearn more: https://bostondynamics.com/case-studies/spot-at-st-engineering-mras/\n\n#DigitalTwin #Spot #BostonDynamics",
+    "source_feed": "youtube"
+  }
+]
