@@ -1,0 +1,11 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "Helix 02 Living Room Tidy",
+    "url": "https://www.youtube.com/watch?v=CAdTjePDBfc",
+    "published": "2026-03-09T10:58:29-05:00",
+    "summary": "A little over a month ago we released Helix 02, a single neural system that controls the full body directly from pixels, enabling dexterous, long horizon autonomy across an entire room. After cleaning up a kitchen, Helix 02 is now taking on another everyday task: tidying up a living room."
+  }
+]
