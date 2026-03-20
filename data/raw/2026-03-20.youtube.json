@@ -1,0 +1,11 @@
+[
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Form & Function of Enterprise Humanoid Design | Boston Dynamics Tech Talk | Atlas",
+    "url": "https://www.youtube.com/watch?v=wL0-Pu_8F0U",
+    "published": "2026-03-18T15:06:23-05:00",
+    "summary": "The production version of Atlas is a departure from the typical humanoid form factor, favoring industrial utility over human likeness. Intended for purposeful work in an industrial setting, Atlas has a form factor that signals its role as a machine rather than a companion or friendly assistant. Join two lead hardware engineers and our head of industrial design for a technical discussion of how key product requirements, ranging from passive thermal management to a modular architecture, dictated a bold new vision for a humanoid.\n\nRead more about Atlas’ Evolution From Research Robot to Industrial Humanoid: https://bostondynamics.com/blog/atlas-evolution-from-research-robot-to-industrial-humanoid/\n\nPresenters:\n\nChris Thorne, Director - Hardware Innovation\nAaron Abroff, Head of Industrial Design\nJames Cuseo, Technical Director - Compute and Sensing"
+  }
+]
