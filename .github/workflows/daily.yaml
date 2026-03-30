@@ -2,12 +2,11 @@ name: Daily Humanoid Robotics Digest
 
 on:
   schedule:
-    # CST (Nov–Mar roughly)
-    - cron: "0 13 * 11-3 *"
-    # CDT (Mar–Nov roughly)
-    - cron: "0 12 * 3-11 *"  
-  workflow_dispatch: {}     # allows manual run from Actions tab
-
+    # CST (Nov–Dec + Jan–Feb)
+    - cron: "0 13 * 11,12,1,2 *"
+    # CDT (Mar–Oct)
+    - cron: "0 12 * 3-10 *"
+  workflow_dispatch: {}
 
 permissions:
   contents: write
