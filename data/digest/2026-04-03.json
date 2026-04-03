@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation - The Robot Report",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-04-02T13:03:26-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5\" target=\"_blank\">Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "Sanctuary AI In-Hand Reorientation Policy with Letter Cube",
+    "url": "https://www.youtube.com/watch?v=X16Ht1ERjHk",
+    "domain": "www.youtube.com",
+    "published": "2026-04-01T11:19:05-05:00",
+    "summary": "Sanctuary AI has once again demonstrated its industry-leading approach to training dexterous manipulation policies for its advanced hydraulic hands. In this video, their proprietary hydraulic hand autonomously manipulates a lettered cube, continuously reorienting it to match a specified goal (displayed in the bottom-left corner of the video).\n\nWe're hiring! Explore open positions: https://www.sanctuary.ai/careers",
+    "source_feed": "youtube"
+  }
+]
