@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Figure AI Demonstrates Humanoid Robot Mobility - Let's Data Science",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzFvXzQtcEtrSFYxQnQxNktTNDZOWXhnMFpybXRMNk00eUZZLUdSeWZkRllMR0RIZGhkNDdXNGVMeG5wV0NHM1FlWVFUTGdWUUlacjctV2NIOUJDQ3Z4ZFZiamR2eWFzV0JTUjNOVVNiVmxWZk1iSXE4MURaNzZWZWZXLVppQnZGMjh1eVNaam1nZw?oc=5",
+    "published": "2026-04-02T08:12:53-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzFvXzQtcEtrSFYxQnQxNktTNDZOWXhnMFpybXRMNk00eUZZLUdSeWZkRllMR0RIZGhkNDdXNGVMeG5wV0NHM1FlWVFUTGdWUUlacjctV2NIOUJDQ3Z4ZFZiamR2eWFzV0JTUjNOVVNiVmxWZk1iSXE4MURaNzZWZWZXLVppQnZGMjh1eVNaam1nZw?oc=5\" target=\"_blank\">Figure AI Demonstrates Humanoid Robot Mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "google_news",
+    "title": "Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation - The Robot Report",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5",
+    "published": "2026-04-02T13:03:26-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5\" target=\"_blank\">Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>"
+  }
+]
