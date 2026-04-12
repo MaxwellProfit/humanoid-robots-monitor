@@ -1,0 +1,42 @@
+[
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Blogs | Boston Dynamics",
+    "url": "https://bostondynamics.com/blog/",
+    "domain": "bostondynamics.com",
+    "published": "2026-04-12T07:10:24.908586-05:00",
+    "summary": "Stay up-to-date on the latest robotics trends and industry insights from the Boston Dynamics blog.",
+    "source_feed": "official_site"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Events | Boston Dynamics",
+    "url": "https://bostondynamics.com/events/",
+    "domain": "bostondynamics.com",
+    "published": "2026-04-12T07:10:24.622029-05:00",
+    "summary": "Find upcoming events to connect with our team, see live product demos, and discover how our solutions are changing the way we work.",
+    "source_feed": "official_site"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "News | Boston Dynamics",
+    "url": "https://bostondynamics.com/news/",
+    "domain": "bostondynamics.com",
+    "published": "2026-04-12T07:10:24.395934-05:00",
+    "summary": "Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on.",
+    "source_feed": "official_site"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "The World’s Leading Robotics Company | Boston Dynamics",
+    "url": "https://bostondynamics.com/",
+    "domain": "bostondynamics.com",
+    "published": "2026-04-12T07:10:24.023087-05:00",
+    "summary": "Discover practical robotics solutions designed to tackle today's and tomorrow's toughest automation challenges.",
+    "source_feed": "official_site"
+  }
+]
