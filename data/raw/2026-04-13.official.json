@@ -1,0 +1,182 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure",
+    "url": "https://www.figure.ai",
+    "published": "2026-04-13T07:21:34.146861-05:00",
+    "summary": "Figure 03 is a general purpose humanoid robot for every day."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure 03 | Figure",
+    "url": "https://www.figure.ai/figure",
+    "published": "2026-04-13T07:21:34.279139-05:00",
+    "summary": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "News | Figure",
+    "url": "https://www.figure.ai/news",
+    "published": "2026-04-13T07:21:34.428857-05:00",
+    "summary": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Company | Figure",
+    "url": "https://www.figure.ai/company",
+    "published": "2026-04-13T07:21:34.581754-05:00",
+    "summary": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Helix | Figure",
+    "url": "https://www.figure.ai/helix",
+    "published": "2026-04-13T07:21:34.766070-05:00",
+    "summary": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills."
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "official_site",
+    "title": "The World’s Leading Robotics Company | Boston Dynamics",
+    "url": "https://bostondynamics.com/",
+    "published": "2026-04-13T07:21:37.019755-05:00",
+    "summary": "Discover practical robotics solutions designed to tackle today's and tomorrow's toughest automation challenges."
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "official_site",
+    "title": "News | Boston Dynamics",
+    "url": "https://bostondynamics.com/news/",
+    "published": "2026-04-13T07:21:37.225094-05:00",
+    "summary": "Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on."
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "official_site",
+    "title": "Events | Boston Dynamics",
+    "url": "https://bostondynamics.com/events/",
+    "published": "2026-04-13T07:21:37.517682-05:00",
+    "summary": "Find upcoming events to connect with our team, see live product demos, and discover how our solutions are changing the way we work."
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "official_site",
+    "title": "Blogs | Boston Dynamics",
+    "url": "https://bostondynamics.com/blog/",
+    "published": "2026-04-13T07:21:37.715539-05:00",
+    "summary": "Stay up-to-date on the latest robotics trends and industry insights from the Boston Dynamics blog."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "Sanctuary AI",
+    "url": "https://www.sanctuary.ai/",
+    "published": "2026-04-13T07:21:38.121189-05:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "Technology — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/technology",
+    "published": "2026-04-13T07:21:38.285049-05:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "About — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/about",
+    "published": "2026-04-13T07:21:38.421855-05:00",
+    "summary": "Sanctuary AI is on a mission to create and deploy millions of industrial-grade humanoid robots to help address growing labor challenges."
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "official_site",
+    "title": "News — Sanctuary AI",
+    "url": "https://www.sanctuary.ai/news",
+    "published": "2026-04-13T07:21:38.543818-05:00",
+    "summary": "Hannover Messe is one of the world’s largest industrial tradeshows, showcasing innovations in manufacturing, automation, energy, and digitalization. Sanctuary AI had the pleasure of accompanying Microsoft to Messe 2025 …"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Humanoid Robots\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/collections/humanoid-robots",
+    "published": "2026-04-13T07:21:39.046881-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Product support\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/blogs/product-support",
+    "published": "2026-04-13T07:21:39.622245-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "official_site",
+    "title": "1X | Home Robots",
+    "url": "https://www.1x.tech",
+    "published": "2026-04-13T07:21:40.423160-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "official_site",
+    "title": "Discover | 1X",
+    "url": "https://www.1x.tech/discover/category/research",
+    "published": "2026-04-13T07:21:40.443019-05:00",
+    "summary": "The 1X World Model now serves as NEO’s cognitive core—enabling generalization to unseen tasks. Ask NEO anything and watch it attempt the task entirely autonomously."
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "official_site",
+    "title": "Discover | 1X",
+    "url": "https://www.1x.tech/discover/category/company",
+    "published": "2026-04-13T07:21:40.492076-05:00",
+    "summary": "1X is excited to announce that Mohi Khansari has been appointed Head of Robot Learning, expanding his role after more than a year as Distinguished AI Engineer at the company."
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "official_site",
+    "title": "About",
+    "url": "https://www.1x.tech/about",
+    "published": "2026-04-13T07:21:40.967019-05:00",
+    "summary": "We’re an AI and robotics company based in Palo Alto, California, on a mission to build a truly abundant society through general-purpose robots capable of performing any kind of work autonomously. We believe that to truly understand the worl"
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "official_site",
+    "title": "Order NEO",
+    "url": "https://www.1x.tech/order",
+    "published": "2026-04-13T07:21:40.999576-05:00",
+    "summary": "NEO uses Redwood AI—1X’s Generalist AI model—for learning and repeating tasks. NEO arrives with basic autonomy for early owners and grows in capability overtime."
+  }
+]
