@@ -3,137 +3,137 @@
     "https://www.tesla.com/": {
       "etag": null,
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:26.827295-05:00"
+      "seen_at": "2026-04-21T07:20:39.784209-05:00"
     },
     "https://www.tesla.com/blog": {
       "etag": null,
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:26.900326-05:00"
+      "seen_at": "2026-04-21T07:20:39.820853-05:00"
     },
     "https://www.figure.ai": {
-      "etag": "\"vetkes5zpvu5z\"",
+      "etag": "\"101skliouotu5x\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:27.186916-05:00"
+      "seen_at": "2026-04-21T07:20:39.931605-05:00"
     },
     "https://www.figure.ai/figure": {
-      "etag": "\"q4lzz79ukdwfa\"",
+      "etag": "\"15iiiqcrnkbwf8\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:27.356204-05:00"
+      "seen_at": "2026-04-21T07:20:39.978500-05:00"
     },
     "https://www.figure.ai/news": {
-      "etag": "\"5nj25hfcdvyd0\"",
+      "etag": "\"r5gbbhndioyd0\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:27.563033-05:00"
+      "seen_at": "2026-04-21T07:20:40.002853-05:00"
     },
     "https://www.figure.ai/company": {
-      "etag": "\"wwqrz50z9g174m\"",
+      "etag": "\"w1ovcwgpl9174q\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:27.759759-05:00"
+      "seen_at": "2026-04-21T07:20:40.058200-05:00"
     },
     "https://www.figure.ai/helix": {
-      "etag": "\"4e59sv8mgx2le0\"",
+      "etag": "\"88lpeyaidb2ldc\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:27.952734-05:00"
+      "seen_at": "2026-04-21T07:20:40.112593-05:00"
     },
     "https://apptronik.com/": {
       "etag": null,
-      "last_modified": "Tue, 14 Apr 2026 22:03:26 GMT",
-      "seen_at": "2026-04-20T07:23:28.298080-05:00"
+      "last_modified": "Fri, 17 Apr 2026 02:32:28 GMT",
+      "seen_at": "2026-04-21T07:20:40.445686-05:00"
     },
     "https://apptronik.com/videos": {
       "etag": null,
-      "last_modified": "Thu, 09 Apr 2026 22:05:12 GMT",
-      "seen_at": "2026-04-20T07:23:28.339046-05:00"
+      "last_modified": "Tue, 14 Apr 2026 22:35:04 GMT",
+      "seen_at": "2026-04-21T07:20:40.552029-05:00"
     },
     "https://apptronik.com/apollo": {
       "etag": null,
-      "last_modified": "Thu, 09 Apr 2026 22:09:52 GMT",
-      "seen_at": "2026-04-20T07:23:28.417072-05:00"
+      "last_modified": "Tue, 21 Apr 2026 12:20:41 GMT",
+      "seen_at": "2026-04-21T07:20:41.127110-05:00"
     },
     "https://apptronik.com/press-release": {
       "etag": null,
       "last_modified": "Sat, 18 Apr 2026 16:25:12 GMT",
-      "seen_at": "2026-04-20T07:23:28.454414-05:00"
+      "seen_at": "2026-04-21T07:20:41.215624-05:00"
     },
     "https://apptronik.com/news2": {
       "etag": null,
-      "last_modified": "Tue, 14 Apr 2026 17:21:06 GMT",
-      "seen_at": "2026-04-20T07:23:28.536028-05:00"
+      "last_modified": "Sun, 19 Apr 2026 18:14:59 GMT",
+      "seen_at": "2026-04-21T07:20:41.263048-05:00"
     },
     "https://bostondynamics.com/": {
       "etag": null,
-      "last_modified": "Mon, 20 Apr 2026 11:41:00 GMT",
-      "seen_at": "2026-04-20T07:23:30.791969-05:00"
+      "last_modified": "Mon, 20 Apr 2026 17:28:12 GMT",
+      "seen_at": "2026-04-21T07:20:43.280955-05:00"
     },
     "https://bostondynamics.com/news/": {
       "etag": null,
-      "last_modified": "Mon, 20 Apr 2026 11:44:09 GMT",
-      "seen_at": "2026-04-20T07:23:31.093499-05:00"
+      "last_modified": "Mon, 20 Apr 2026 17:30:05 GMT",
+      "seen_at": "2026-04-21T07:20:43.396076-05:00"
     },
     "https://bostondynamics.com/events/": {
       "etag": null,
-      "last_modified": "Mon, 20 Apr 2026 12:16:42 GMT",
-      "seen_at": "2026-04-20T07:23:31.280763-05:00"
+      "last_modified": "Mon, 20 Apr 2026 17:33:00 GMT",
+      "seen_at": "2026-04-21T07:20:43.487316-05:00"
     },
     "https://bostondynamics.com/blog/": {
       "etag": null,
-      "last_modified": "Mon, 20 Apr 2026 11:41:04 GMT",
-      "seen_at": "2026-04-20T07:23:31.461559-05:00"
+      "last_modified": "Mon, 20 Apr 2026 17:28:01 GMT",
+      "seen_at": "2026-04-21T07:20:43.579261-05:00"
     },
     "https://www.sanctuary.ai/": {
-      "etag": "W/\"633b327900c818c61d2bc4c1dc8740a6\"",
+      "etag": "W/\"f17b3c7680d67b44b055cceae0b62476\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:31.927323-05:00"
+      "seen_at": "2026-04-21T07:20:43.957590-05:00"
     },
     "https://www.sanctuary.ai/technology": {
-      "etag": "W/\"9265e8f166a12927d6024a8e2a4c7b4c--gzip\"",
+      "etag": "W/\"f9d439649d73131b4d8df2c7cb95d32b\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:31.960612-05:00"
+      "seen_at": "2026-04-21T07:20:44.015545-05:00"
     },
     "https://www.sanctuary.ai/about": {
-      "etag": "W/\"d9cdbdaee0ec976d31590993c52d8740\"",
+      "etag": "W/\"3564d1d5647129f1519a40459fccc283--gzip\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:31.996211-05:00"
+      "seen_at": "2026-04-21T07:20:44.060966-05:00"
     },
     "https://www.sanctuary.ai/news": {
-      "etag": "W/\"2fc99a0d895445e4163639aa8803c547\"",
+      "etag": "W/\"d2a9910ba6016ca3267e835b4e52ca12\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:32.094835-05:00"
+      "seen_at": "2026-04-21T07:20:44.107392-05:00"
     },
     "https://www.k-robotic.com/collections/humanoid-robots": {
-      "etag": "W/\"page_cache:90456195444:CollectionDetailsController:823cb9bd9c2241ae352daebc5d3f6941\"",
+      "etag": "W/\"page_cache:90456195444:CollectionDetailsController:d2e925c6de0ecc3b651ec3886f46e623\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:32.994094-05:00"
+      "seen_at": "2026-04-21T07:20:45.155480-05:00"
     },
     "https://www.k-robotic.com/blogs/product-support": {
-      "etag": "W/\"page_cache:90456195444:BlogDetailsController:cf62105a0f79db29f1bd701025f4a21a\"",
+      "etag": "W/\"page_cache:90456195444:BlogDetailsController:5cda2cc82fa5229417e7dd7069e930d6\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:33.685163-05:00"
+      "seen_at": "2026-04-21T07:20:46.087562-05:00"
     },
     "https://www.1x.tech": {
-      "etag": "\"a86f06148d9ee1d9773670c3b40ffc49\"",
+      "etag": "\"eb1biktsa4loh\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:34.232575-05:00"
+      "seen_at": "2026-04-21T07:20:46.610950-05:00"
     },
     "https://www.1x.tech/discover/category/research": {
       "etag": "\"7f355550a3db3802ca3d915236744673\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:34.670515-05:00"
+      "seen_at": "2026-04-21T07:20:46.765539-05:00"
     },
     "https://www.1x.tech/discover/category/company": {
       "etag": "\"c8e79690de29babede31e42c1fa4366a\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:35.722449-05:00"
+      "seen_at": "2026-04-21T07:20:46.777822-05:00"
     },
     "https://www.1x.tech/about": {
       "etag": "\"0e0b72f6cd0751e5e0bf6cc7fb657f53\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:35.828711-05:00"
+      "seen_at": "2026-04-21T07:20:46.793650-05:00"
     },
     "https://www.1x.tech/order": {
       "etag": "\"6ew5rldyjn2nig\"",
       "last_modified": null,
-      "seen_at": "2026-04-20T07:23:36.032834-05:00"
+      "seen_at": "2026-04-21T07:20:46.828621-05:00"
     }
   }
 }
