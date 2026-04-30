@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "BotQ Ramping F.03 Production",
+    "url": "https://www.youtube.com/watch?v=YZH1csMhnDo",
+    "published": "2026-04-29T10:35:49-05:00",
+    "summary": "Today we’re giving an update on ramping F.03 production at BotQ\n\nIn the last 120 days, Figure scaled manufacturing 24x - from 1 robot/day to 1 robot/hour\n\nWe will manufacture 55 humanoid robots this week"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "How Does Stretch See? | Ask A Roboticist | Boston Dynamics",
+    "url": "https://www.youtube.com/shorts/bgI1fp0TZIQ",
+    "published": "2026-04-29T09:48:11-05:00",
+    "summary": "Ethan Lauer, a software engineer, answers your questions about robot perception, world modeling, and what spooks our Stretch robot."
+  }
+]
