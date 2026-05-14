@@ -1,0 +1,32 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "F.03 Livestream",
+    "url": "https://www.youtube.com/watch?v=luU57hMhkak",
+    "domain": "www.youtube.com",
+    "published": "2026-05-13T11:44:14-05:00",
+    "summary": "Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "title": "Video. China’s Unitree unveils transformable humanoid ‘mecha’ robot with cockpit - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmx4T2xoTVZKRnhDYjJ1cDFBZF9LM1ZlbldQdy01czNmT1BKQXZvVFRQUmNRaEx0R01WbjlKd0JrRnF3R1g0cFprRTdEd3BIbDl6ZUJNdG5xb0Y1RUtSa1NsZU8zeTB2Rk9aUnBRQ2tlYTJQZkJGMGZETTM4OWpaWENEQWdfYXVfRUZ4S3I1QkxrU0t0X2JKNUxTRkZRSEZJSHJtVUFWU3ZVREE5ZUJyNEVR?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-05-13T01:45:50-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmx4T2xoTVZKRnhDYjJ1cDFBZF9LM1ZlbldQdy01czNmT1BKQXZvVFRQUmNRaEx0R01WbjlKd0JrRnF3R1g0cFprRTdEd3BIbDl6ZUJNdG5xb0Y1RUtSa1NsZU8zeTB2Rk9aUnBRQ2tlYTJQZkJGMGZETTM4OWpaWENEQWdfYXVfRUZ4S3I1QkxrU0t0X2JKNUxTRkZRSEZJSHJtVUFWU3ZVREE5ZUJyNEVR?oc=5\" target=\"_blank\">Video. China’s Unitree unveils transformable humanoid ‘mecha’ robot with cockpit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "title": "The Dark Side Of Unitree Robot Dogs - Hackaday",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibndJTzVEdVRMNzdLcF9uRlQ1cFY0UU0wVDhOeUhXbkdscEwwWC1CQzJUbWNSQXNHS0ZQR2tFWERrcWJPMFd1R0hwU3B1TDc3QkloaWM3THJrM1NYQzByS2ZLWnV3VVgyXzYtX2d4czJqV0tiQ0dn?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-05-12T21:00:00-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibndJTzVEdVRMNzdLcF9uRlQ1cFY0UU0wVDhOeUhXbkdscEwwWC1CQzJUbWNSQXNHS0ZQR2tFWERrcWJPMFd1R0hwU3B1TDc3QkloaWM3THJrM1NYQzByS2ZLWnV3VVgyXzYtX2d4czJqV0tiQ0dn?oc=5\" target=\"_blank\">The Dark Side Of Unitree Robot Dogs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hackaday</font>",
+    "source_feed": "google_news"
+  }
+]
