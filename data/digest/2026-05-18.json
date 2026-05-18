@@ -1,0 +1,42 @@
+[
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "How does Atlas learn? | Inside the Lab | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=xKK5ze3FukQ",
+    "domain": "www.youtube.com",
+    "published": "2026-05-18T07:01:36-05:00",
+    "summary": "Just months after its debut, Atlas is proving why it is the world’s most capable and dynamic humanoid robot, ready for real work. Lifting a mini-fridge is a feat of strength, but the true breakthrough is in the underlying reinforcement learning and controls systems. The robot is learning to navigate real world adaptability: handling heavy objects by bracing and accounting for the mass and inertia; using whole-body control, not just hands to maneuver; and demonstrating superhuman range of motion and balance. This marks a critical shift in robotics where humanoids move beyond the lab and into dynamic industrial settings.\n\nAlberto Rodriguez, Director of Robot Behavior for Atlas, Shane Rozen-Levy, Research Engineer, and Vinay Kamidi, Research Engineer share more about training Atlas and developing robust, dynamic behaviors on our blog: https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Atlas, can you bring me a drink? | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=3aQWvdCac9o",
+    "domain": "www.youtube.com",
+    "published": "2026-05-18T07:00:11-05:00",
+    "summary": "Everyone asks if Atlas can bring them a drink, but this robot can bring you the whole fridge. Using AI-driven behaviors, Atlas is doing hard work and coordinating its whole body to manage heavy objects, balancing complex contact points with accuracy and reliability.\nGo behind the scenes of this groundbreaking research: https://youtu.be/xKK5ze3FukQ\nLearn how we train Atlas with reinforcement learning: https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "Man 1 Machine 0: Intern defeats humanoid robot in 10-hour challenge - India Today",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQODBURVJkenhjTFNTNVlNVC1xd2RpN2VNbmpIdWdHSTBGd3kxM3FSMklVU05yRUxRV203Tk9iTi01cFkzNUdTeHpvdmQ1MU9mSFZ1cW9MYm9BaXZWSTl0RFpPd0J4U1BYOUo1Y2tHd2V2QlNvWV9BNkppSUk3YTVzRG1sUVpvU01FRnp6dHNZU2hBY3F3bDBoUUxpdnlYVU1xSUtPSjJybjhLcHpOa1NNTlRwZU80X3VNUW5zbnc0Y2JjNklzeEh0cWZkUnVSWVXSAdQBQVVfeXFMTjB4RXJ3TkFacFQtUXRlcWtTdFRjLWxoRHJrczFyaFpLbTJyMWwyZEUzTy1UTjdqMVAzR3lLSEx2d0RuYmZzQW5tcmp4ZFNOb2NpSmxySGxHcmQxZk9wWmx4QkZBbVNzM2t0ZnIwSGFTVnk4NXdONV9BOGx2WUxnc05GSzRBejl6aUxIUnl4cUpwVGlXQWVyaWoxeU9OaWl2djF2Z21maHduSWk0UmtpaU5QNml1SkxtSExzelFtbXM5azJCR29RX3hBeU1qMERmM1pOdnk?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-05-18T00:40:18-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQODBURVJkenhjTFNTNVlNVC1xd2RpN2VNbmpIdWdHSTBGd3kxM3FSMklVU05yRUxRV203Tk9iTi01cFkzNUdTeHpvdmQ1MU9mSFZ1cW9MYm9BaXZWSTl0RFpPd0J4U1BYOUo1Y2tHd2V2QlNvWV9BNkppSUk3YTVzRG1sUVpvU01FRnp6dHNZU2hBY3F3bDBoUUxpdnlYVU1xSUtPSjJybjhLcHpOa1NNTlRwZU80X3VNUW5zbnc0Y2JjNklzeEh0cWZkUnVSWVXSAdQBQVVfeXFMTjB4RXJ3TkFacFQtUXRlcWtTdFRjLWxoRHJrczFyaFpLbTJyMWwyZEUzTy1UTjdqMVAzR3lLSEx2d0RuYmZzQW5tcmp4ZFNOb2NpSmxySGxHcmQxZk9wWmx4QkZBbVNzM2t0ZnIwSGFTVnk4NXdONV9BOGx2WUxnc05GSzRBejl6aUxIUnl4cUpwVGlXQWVyaWoxeU9OaWl2djF2Z21maHduSWk0UmtpaU5QNml1SkxtSExzelFtbXM5azJCR29RX3hBeU1qMERmM1pOdnk?oc=5\" target=\"_blank\">Man 1 Machine 0: Intern defeats humanoid robot in 10-hour challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "Sanctuary AI: Humanoid Robots Will Hit Homes In 3-7 Years - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGNCQ3NjOWpNRFdHWGhNQzlnaDA1MGM0Y1M0QVhxbElnaWNRZjJUVGdfZVY1aHc2U0VEd3MtWUVpMDFmVXRqLUE3MFpDazZwNzVNMldCLWh6OUdYSmlwWUNtOTVLd25vVUhfTEstX1hUS2MyaFM3T3A1OWdjd0duLXdiT25GYld6d2hkS2dFVzZDSnBZRUtKZGVhT2xyQS04ejZucFlrTnJrSE9GNW0w?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-05-16T18:02:35-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGNCQ3NjOWpNRFdHWGhNQzlnaDA1MGM0Y1M0QVhxbElnaWNRZjJUVGdfZVY1aHc2U0VEd3MtWUVpMDFmVXRqLUE3MFpDazZwNzVNMldCLWh6OUdYSmlwWUNtOTVLd25vVUhfTEstX1hUS2MyaFM3T3A1OWdjd0duLXdiT25GYld6d2hkS2dFVzZDSnBZRUtKZGVhT2xyQS04ejZucFlrTnJrSE9GNW0w?oc=5\" target=\"_blank\">Sanctuary AI: Humanoid Robots Will Hit Homes In 3-7 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+    "source_feed": "google_news"
+  }
+]
