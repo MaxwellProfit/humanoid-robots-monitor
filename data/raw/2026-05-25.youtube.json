@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "F.03 Livestream: Day 9 (Hour 192-200)",
+    "url": "https://www.youtube.com/watch?v=JeeJJ42TKQU",
+    "published": "2026-05-23T09:57:07-05:00",
+    "summary": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "F.03 Livestream: Day 8 (Hour 180-192)",
+    "url": "https://www.youtube.com/watch?v=t3laRgQacFo",
+    "published": "2026-05-23T09:56:35-05:00",
+    "summary": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "youtube",
+    "title": "Conference Room Mess Cleanup Test: Unitree WVLA 2.0 Model🎉",
+    "url": "https://www.youtube.com/watch?v=zqqIpVsMYkE",
+    "published": "2026-05-25T02:18:25-05:00",
+    "summary": "Conference Room Mess Cleanup Test: Unitree WVLA 2.0 Model🎉\nThis video was recorded in a single take.\nMulti-task, fully autonomous operation. Strong external interference present.\n#unitree  #humanoidrobotics  #TaskExecution #worldmodel   #agi"
+  }
+]
