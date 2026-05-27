@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "School of Football | The Basics | Boston Dynamics x Hyundai",
+    "url": "https://www.youtube.com/watch?v=ITCklufC25Y",
+    "domain": "www.youtube.com",
+    "published": "2026-05-26T08:00:11-05:00",
+    "summary": "Atlas takes its first steps into the world of football\n\nFrom basic drills to celebrations - every step is a beginning\n\nNext Starts Now\n\n#Hyundai #NextStartsNow #Atlas #BostonDynamics #SchoolofFootball #Robotics",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "Watch: Figure’s humanoid robots work for 200 hours, process 250k packages without failure - Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGVUVWN6OUczQ1lOajVBdGhRalRia2pfYUdrbWRLdmR5V0hRMGJnbG80Y0ktRXVxU0ljZVZ5QV9qV2duUERURmFNZlpOenpYNDRlQy1GYW5kM2ZCN1RSd2xVRF9jbEhJUmI5dWVVTjkyYWlKa0plWEh4dkV2SlBYcWoyamRvRjlKUzBoNTFPMA?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-05-25T08:26:00-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGVUVWN6OUczQ1lOajVBdGhRalRia2pfYUdrbWRLdmR5V0hRMGJnbG80Y0ktRXVxU0ljZVZ5QV9qV2duUERURmFNZlpOenpYNDRlQy1GYW5kM2ZCN1RSd2xVRF9jbEhJUmI5dWVVTjkyYWlKa0plWEh4dkV2SlBYcWoyamRvRjlKUzBoNTFPMA?oc=5\" target=\"_blank\">Watch: Figure’s humanoid robots work for 200 hours, process 250k packages without failure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+    "source_feed": "google_news"
+  }
+]
