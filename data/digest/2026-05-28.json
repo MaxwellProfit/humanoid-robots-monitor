@@ -1,0 +1,42 @@
+[
+  {
+    "entity_id": "tesla_optimus",
+    "entity_name": "Tesla Optimus",
+    "title": "Tesla’s dedicated Optimus factory construction officially underway at Giga Texas - Teslarati",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0tzSVBFZElEclRlVFAtTzFiakZ3SkFYelcwVnpBSURLYWJBY2EtYUFCbW5XUEJrU2lvejgzMDFDUUV6N2JqSmJHdUNIVl9jUzU4RTZFd3EwRm5ZS0piTnpHWjlmcHozMExyMjJFSk5mTWptREkzcDVPOFZVMm1SUkhMcHRmZG1fUWJqR1FEOG9TZUl5V09CQ1BjTENhZVJadjQzMQ?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-05-27T20:05:45-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0tzSVBFZElEclRlVFAtTzFiakZ3SkFYelcwVnpBSURLYWJBY2EtYUFCbW5XUEJrU2lvejgzMDFDUUV6N2JqSmJHdUNIVl9jUzU4RTZFd3EwRm5ZS0piTnpHWjlmcHozMExyMjJFSk5mTWptREkzcDVPOFZVMm1SUkhMcHRmZG1fUWJqR1FEOG9TZUl5V09CQ1BjTENhZVJadjQzMQ?oc=5\" target=\"_blank\">Tesla’s dedicated Optimus factory construction officially underway at Giga Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teslarati</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Whirlybird | Atlas | Boston Dynamics",
+    "url": "https://www.youtube.com/shorts/RgXhCw7Qzac",
+    "domain": "www.youtube.com",
+    "published": "2026-05-27T09:51:56-05:00",
+    "summary": "Atlas goes for a spin and tries some new moves",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "Investing in the Exponential Humanoid Wave - ETF Database",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM0QtWEQzei1RWEs0dlR3aERRMXAtcHQ5b3lOV3dTMXAxUFE4dFV3RDJ5UzRNbjFCMFNDYktxTGxOSGFKeml4c0I4Tzc5Q2QtY2RGQWt2VnNRYkdNOE81akppb2R3V1JxN2VrM3VfUzlpc2ZrTHB3UVllUHRsOExrdTFjMkVBdmlxTzV2SXphWE0?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-05-27T08:29:31-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNM0QtWEQzei1RWEs0dlR3aERRMXAtcHQ5b3lOV3dTMXAxUFE4dFV3RDJ5UzRNbjFCMFNDYktxTGxOSGFKeml4c0I4Tzc5Q2QtY2RGQWt2VnNRYkdNOE81akppb2R3V1JxN2VrM3VfUzlpc2ZrTHB3UVllUHRsOExrdTFjMkVBdmlxTzV2SXphWE0?oc=5\" target=\"_blank\">Investing in the Exponential Humanoid Wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETF Database</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "School of Football | The Kicks | Boston Dynamics x Hyundai",
+    "url": "https://www.youtube.com/watch?v=kc-9GQB8EXQ",
+    "domain": "www.youtube.com",
+    "published": "2026-05-27T08:00:20-05:00",
+    "summary": "Atlas learns to kick the ball.\n\nAnd even a simple kick involves coordination, balance, precision, and power.\n\nNext Starts Now\n\n#Hyundai #NextStartsNow #Atlas #BostonDynamics #SchoolofFootball #Robotics",
+    "source_feed": "youtube"
+  }
+]
