@@ -1,0 +1,83 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure",
+    "url": "https://www.figure.ai",
+    "published": "2026-06-12T08:06:11.733189-05:00",
+    "summary": "Figure 03 is a general purpose humanoid robot for every day."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure 03 | Figure",
+    "url": "https://www.figure.ai/figure",
+    "published": "2026-06-12T08:06:11.854826-05:00",
+    "summary": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "News | Figure",
+    "url": "https://www.figure.ai/news",
+    "published": "2026-06-12T08:06:11.947237-05:00",
+    "summary": "Figure Signs Agreement with Catalyst Brands to Scale Humanoid Operations"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Company | Figure",
+    "url": "https://www.figure.ai/company",
+    "published": "2026-06-12T08:06:11.979880-05:00",
+    "summary": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Helix | Figure",
+    "url": "https://www.figure.ai/helix",
+    "published": "2026-06-12T08:06:12.112144-05:00",
+    "summary": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills."
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Apollo",
+    "url": "https://apptronik.com/apollo",
+    "published": "2026-06-12T08:06:12.638636-05:00",
+    "summary": "Apollo is modular and can be mounted to any mobility platform, stationary, or fully mobile with legs."
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Press Release",
+    "url": "https://apptronik.com/press-release",
+    "published": "2026-06-12T08:06:12.689754-05:00",
+    "summary": "Former Waymo, Boston Dynamics, and Amazon Leaders Join Apptronik; Dan Chu appointed as Chief Product Officer, alongside senior leaders across software, services, marketing, and people operations"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Humanoid Robots\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/collections/humanoid-robots",
+    "published": "2026-06-12T08:06:13.648284-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Product support\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/blogs/product-support",
+    "published": "2026-06-12T08:06:14.078717-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  }
+]
