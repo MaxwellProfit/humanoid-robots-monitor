@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Let there be Light Bar",
+    "url": "https://www.youtube.com/shorts/sh7XqNoeUAw",
+    "published": "2026-06-16T13:06:04-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Sanctuary AI Achieves 99.5%+ Success Rate on Wire Plugging Task",
+    "url": "https://www.youtube.com/watch?v=OIYL5nEG4rc",
+    "published": "2026-06-17T07:56:43-05:00",
+    "summary": "Sanctuary AI has achieved world-class performance on a complex wire plugging production task with a global Tier 1 automotive supplier.\n\nIn this demonstration, Sanctuary AI's Physical AI successfully performs a high-speed wire plug insertion task, achieving a validated task success rate of over 99.5% with a cycle time of just 2.54 seconds, meeting live production benchmarks established by the customer.\n\nThis milestone reflects Sanctuary AI's evolving strategy to deploy its Physical AI across existing and next-generation industrial robotic systems. By taking a hardware-agnostic approach, Sanctuary AI can accelerate the adoption of intelligent automation today while laying the foundation for the future of industrial robotics, including humanoid systems.\n\nLearn more at www.sanctuary.ai"
+  }
+]
