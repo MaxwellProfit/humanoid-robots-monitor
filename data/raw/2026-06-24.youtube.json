@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Tesla Home: Home Energy Management, Powered by AI",
+    "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo",
+    "published": "2026-06-23T12:40:05-05:00",
+    "summary": "Tesla Home comes standard with every Powerwall to automatically optimize your energy usage and help lower your electricity bills. Powered by Opticaster, our proven AI optimization software, it predicts your energy needs and adjusts usage across your home with no additional equipment needed.\n\nWorks with solar, storage, EV chargers and more. Set your energy goals in the Tesla app and let Tesla Home handle the rest.\n\nLearn more: www.Tesla.com/tesla-home"
+  },
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "How Tesla Vision Helps Deploy Airbags Earlier",
+    "url": "https://www.youtube.com/watch?v=Vb-OqxUWPDE",
+    "published": "2026-06-22T15:18:20-05:00",
+    "summary": "Tesla Vision allows us to deploy airbags up to 70 milliseconds earlier if your Tesla detects an unavoidable collision.  Impact sensors will continue to make the final decision of when to deploy — the airbags will not deploy based on Tesla Vision alone.\n\nThis can be the difference between a serious injury & walking away from a crash"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "youtube",
+    "title": "Unitree R1 | Price from $4,900, Ready Stock",
+    "url": "https://www.youtube.com/watch?v=mTMYfVD4zCw",
+    "published": "2026-06-24T06:53:23-05:00",
+    "summary": "Your Smart Robot Companion"
+  }
+]
