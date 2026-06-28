@@ -1,0 +1,65 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure",
+    "url": "https://www.figure.ai",
+    "published": "2026-06-28T07:26:53.718290-05:00",
+    "summary": "Figure 03 is a general purpose humanoid robot for every day."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure 03 | Figure",
+    "url": "https://www.figure.ai/figure",
+    "published": "2026-06-28T07:26:53.858580-05:00",
+    "summary": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "News | Figure",
+    "url": "https://www.figure.ai/news",
+    "published": "2026-06-28T07:26:54.022378-05:00",
+    "summary": "Figure Signs Agreement with Catalyst Brands to Scale Humanoid Operations"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Company | Figure",
+    "url": "https://www.figure.ai/company",
+    "published": "2026-06-28T07:26:54.043928-05:00",
+    "summary": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Helix | Figure",
+    "url": "https://www.figure.ai/helix",
+    "published": "2026-06-28T07:26:54.193849-05:00",
+    "summary": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Humanoid Robots\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/collections/humanoid-robots",
+    "published": "2026-06-28T07:27:00.313855-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Product support\n – K-robotics Shop",
+    "url": "https://www.k-robotic.com/blogs/product-support",
+    "published": "2026-06-28T07:27:00.857399-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  }
+]
