@@ -1,0 +1,38 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "F.03 at BMW",
+    "url": "https://www.youtube.com/watch?v=tv90GFM9RAo",
+    "published": "2026-06-30T10:00:30-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "youtube",
+    "title": "Welcome to Robot Park, where Apptronik is building the future with Apollo 2",
+    "url": "https://www.youtube.com/watch?v=iPyxwELiD9Q",
+    "published": "2026-06-30T07:00:07-05:00",
+    "summary": "Welcome to Robot Park, where we’re building the future with Apollo 2. Robot Park is where Apollo learns today, getting the experience needed to make a difference tomorrow.\n\nToday we’re announcing Robot Park, our nearly 90,000-square-foot facility where Apollo 2 is collecting real-world training data needed to advance autonomous humanoid robots. \n\nLearn more about Robot Park and Apollo 2 here: https://bit.ly/3R5TLyh"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Celebrating Soccer | Boston Dynamics",
+    "url": "https://www.youtube.com/shorts/SoK05VMIATA",
+    "published": "2026-06-29T15:16:52-05:00",
+    "summary": "Spot's celebrating with the global soccer community ⚽ With robots deployed on 6 continents and in 46 countries - including 20 in the round of 32 - Spot has a lot of home teams to root for this World Cup!"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Sanctuary AI's New Website",
+    "url": "https://www.youtube.com/shorts/_B6kZ8cmkwU",
+    "published": "2026-06-30T11:47:31-05:00",
+    "summary": "Sanctuary AI has expanded its Physical AI strategy to industrial robotics, deploying on existing commercial platforms to solve industrial labor challenges.\n\nOur new website tells that story.\n\nSee the new site, watch new technology demos, discover our team's capabilities, and learn what automation can achieve when powered with Physical AI: www.sanctuary.ai\n\n#physicalai #robotics  #automation  #ai"
+  }
+]
