@@ -1,0 +1,32 @@
+[
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "title": "Apptronik - Home",
+    "url": "https://apptronik.com/",
+    "domain": "apptronik.com",
+    "published": "2026-07-09T08:01:04.875911-05:00",
+    "summary": "Apollo is designed to bring AI into the physical world. With advanced mobility, dexterous manipulation, and the ability to learn new skills, Apollo can help take on physically demanding work in environments built for people. As industries f",
+    "source_feed": "official_site"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "title": "Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition",
+    "url": "https://www.youtube.com/watch?v=P8U_4v8SUOQ",
+    "domain": "www.youtube.com",
+    "published": "2026-07-09T04:59:26-05:00",
+    "summary": "Putting technology to the test through combat, and connecting the world through competition. The \"CMG 2026 Humanoid Robot Combat Competition\" invites you to witness a new chapter in the co-evolution of humans and AI. Stay tuned!",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Spot at Coca-Cola Europacific Partners | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=em5RQCq5zyc",
+    "domain": "www.youtube.com",
+    "published": "2026-07-08T08:00:49-05:00",
+    "summary": "Spot has arrived at Coca-Cola Europacific Partners (CCEP) in East Kilbride, Scotland! Avoiding downtime is paramount for manufacturers; CCEP GB is keeping their maintenance and reliability team a step ahead with the latest features in Spot® & Orbit. \n\n#BostonDynamics #CCEP #CocaCola",
+    "source_feed": "youtube"
+  }
+]

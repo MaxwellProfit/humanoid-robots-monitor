@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Autobidder | Tesla Megapack",
+    "url": "https://www.youtube.com/watch?v=NqQnHWa-Vxs",
+    "published": "2026-07-07T14:32:10-05:00",
+    "summary": "Autobidder is Tesla's energy trading and battery optimization service, designed for Megapack. With Autobidder, battery operators let Tesla handle energy trading for them and share the revenue from wholesale electricity markets. \n\nThe Chevire project is located in Nantes in the west of France on the site of a previous coal plant. Here Megapack provides clean, reliable and affordable energy for the local community.\n\nLearn more: https://www.tesla.com/megapack"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Spot at Coca-Cola Europacific Partners | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=em5RQCq5zyc",
+    "published": "2026-07-08T08:00:49-05:00",
+    "summary": "Spot has arrived at Coca-Cola Europacific Partners (CCEP) in East Kilbride, Scotland! Avoiding downtime is paramount for manufacturers; CCEP GB is keeping their maintenance and reliability team a step ahead with the latest features in Spot® & Orbit. \n\n#BostonDynamics #CCEP #CocaCola"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "youtube",
+    "title": "Unitree Invites You to Witness the 2026 Humanoid Robot Combat Competition",
+    "url": "https://www.youtube.com/watch?v=P8U_4v8SUOQ",
+    "published": "2026-07-09T04:59:26-05:00",
+    "summary": "Putting technology to the test through combat, and connecting the world through competition. The \"CMG 2026 Humanoid Robot Combat Competition\" invites you to witness a new chapter in the co-evolution of humans and AI. Stay tuned!"
+  }
+]
