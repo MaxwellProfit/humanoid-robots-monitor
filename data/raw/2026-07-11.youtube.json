@@ -1,0 +1,38 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "Figure 4 years",
+    "url": "https://www.youtube.com/watch?v=_WGNMkmvEls",
+    "published": "2026-07-09T10:41:51-05:00",
+    "summary": "4 years at Figure"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Viking Row | Atlas | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=tw0uJ1T5bzE",
+    "published": "2026-07-10T11:57:57-05:00",
+    "summary": "World Cup fever continues!"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Robots Doing Stuff #61 | Bimanual Nut Pick and Threading",
+    "url": "https://www.youtube.com/watch?v=Kg3hWbaioDA",
+    "published": "2026-07-09T11:42:33-05:00",
+    "summary": "This is a real customer task: one step in a longer multi-part sequence we’re training in our labs.\n\nThreading requires precise alignment, force control, and fine manipulation. These are foundational capabilities for industrial dexterity applications that are currently inaccessible with traditional automation.\n\nWe teleoperate these tasks to collect the data that trains our Physical AI. Next stop: autonomous.\n\nVisit www.sanctuary.ai to learn more about our Physical AI-enabled automation solutions. \n\n#Dexterity #DexterousHand #RobotHand #Robotics #RobotsDoingStuff #SanctuaryAI"
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "youtube",
+    "title": "NEO’s Hands",
+    "url": "https://www.youtube.com/watch?v=QRyXV3csReA",
+    "published": "2026-07-09T11:15:06-05:00",
+    "summary": "The new 25-DoF robotic hands for the NEO platform mark a fundamental leap in physical AI.\n\n1X has developed hands that achieve human-level dexterity, strength, safety, and reliability. With 25 fully actuated degrees of freedom in the fingers, palm, and thumb including a 3-DoF wrist, a closed-loop tendon-driven system, and high-resolution tactile sensing, these hands enable true in-hand manipulation and precision interaction across countless everyday tasks– from assembling LEGO and installing light bulbs to zipping jackets, pouring tea, and using tools with human-like adaptability (and infinitely more).\n\nStrong yet inherently safe and compliant, IP68 waterproof and food-safe, and built to endure millions of cycles, the new hands don’t just expand NEO’s capabilities. They unlock high-quality, real-world manipulation data at scale, accelerating the training of robust world models and bringing general-purpose autonomy closer than ever.\n\nAbout 1X: 1X is a leading U.S. based AI and robotics company, developing NEO–the home robot. 1X’s mission is to create an abundant future through safe, intelligent humanoids.\n\nConnect with 1X:\nWebsite: www.1x.tech\nX: https://x.com/1x_tech\nLinkedIn: https://www.linkedin.com/company/1x-technologies\nInstagram: https://www.instagram.com/1x.technologies"
+  }
+]
