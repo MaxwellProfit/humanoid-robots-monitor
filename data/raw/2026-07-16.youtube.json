@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Atlas' Journey to FIFA World Cup 2026™ | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=cCNkgD3qXvg",
+    "published": "2026-07-15T08:56:50-05:00",
+    "summary": "Following Atlas' first-of-its-kind live performance at the FIFA World Cup 2026™, we caught up with Seth Davis, senior program manager, to learn how this demonstration came together and what it takes to succeed in the field (and on the pitch).\n\nSee Atlas' halftime performance: https://www.youtube.com/watch?v=ezPLXk78Cfk\nRead the full interview: https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Going the Extra Mile with Spot | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=EI1zFxLVkrs",
+    "published": "2026-07-14T09:14:48-05:00",
+    "summary": "Boston Dynamics is testing a last-mile delivery solution. Spot will help get packages from van to doorstep with less strain and greater efficiency. \n\nLearn more about how and why we're taking on one of the biggest supply chain challenges: https://bostondynamics.com/blog/bridging-the-porch-gap/"
+  }
+]
