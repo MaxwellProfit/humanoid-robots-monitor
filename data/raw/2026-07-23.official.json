@@ -1,0 +1,65 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure",
+    "url": "https://www.figure.ai",
+    "published": "2026-07-23T07:31:25.719710-05:00",
+    "summary": "Figure 03 is a general purpose humanoid robot for every day."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure 03 | Figure",
+    "url": "https://www.figure.ai/figure",
+    "published": "2026-07-23T07:31:25.826746-05:00",
+    "summary": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "News | Figure",
+    "url": "https://www.figure.ai/news",
+    "published": "2026-07-23T07:31:26.071909-05:00",
+    "summary": "Figure Signs Agreement with Catalyst Brands to Scale Humanoid Operations"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Company | Figure",
+    "url": "https://www.figure.ai/company",
+    "published": "2026-07-23T07:31:26.275660-05:00",
+    "summary": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Helix | Figure",
+    "url": "https://www.figure.ai/helix",
+    "published": "2026-07-23T07:31:26.554405-05:00",
+    "summary": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills."
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Apptronik - Home",
+    "url": "https://apptronik.com/",
+    "published": "2026-07-23T07:31:27.114871-05:00",
+    "summary": "Apollo is designed to bring AI into the physical world. With advanced mobility, dexterous manipulation, and the ability to learn new skills, Apollo can help take on physically demanding work in environments built for people. As industries f"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Something went wrong",
+    "url": "https://www.k-robotic.com/blogs/product-support",
+    "published": "2026-07-23T07:31:35.499820-05:00",
+    "summary": "If the site still doesn't load, please try again in a few minutes."
+  }
+]

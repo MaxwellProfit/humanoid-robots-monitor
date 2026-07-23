@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Tesla Q2 2026 Financial Results and Q&A Webcast",
+    "url": "https://www.youtube.com/watch?v=9H5y9Uag8AA",
+    "published": "2026-07-22T17:39:10-05:00",
+    "summary": "Start of the call: https://youtu.be/9H5y9Uag8AA?t=356"
+  },
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Sensitive Seats | Model Y L",
+    "url": "https://www.youtube.com/shorts/GI8qKCGxN6I",
+    "published": "2026-07-21T11:49:47-05:00",
+    "summary": "When detecting an obstruction, Model Y Long Wheelbase powered seats & liftgate automatically pop back up"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Spot Mariana Minerals | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=KywMP9_SyRg",
+    "published": "2026-07-22T08:59:31-05:00",
+    "summary": "Mariana Minerals is the world's first software-first mining company, using rich data sources from the field to optimize their operations. They are deploying Spot at their Copper One facility in Utah to help capture the data they need, automating routine inspections and reducing strain on operators in the field."
+  }
+]
