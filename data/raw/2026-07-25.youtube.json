@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Robots Doing Stuff #62 | In-Hand Reorientation & Drilling",
+    "url": "https://www.youtube.com/watch?v=Ycv8N16XPPc",
+    "published": "2026-07-23T12:23:55-05:00",
+    "summary": "Part 2 of the customer task from episode #61. \n\nFastening with a power drill combines precise positioning, controlled force application, and coordinated tool use, all while maintaining a secure grasp on the tool and aligning the nut driver perfectly to target. \n\nThese are the kinds of dexterous manipulation skills required for industrial automation beyond the reach of traditional robotics. Collecting training data during these sessions is a key part in our policy training process. \n\nVisit www.sanctuary.ai to learn more about our Physical AI-enabled automation solutions.\n\n#Dexterity #DexterousHand #RobotHand #Robotics #RobotsDoingStuff #SanctuaryAI"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "youtube",
+    "title": "Unitree Super Athlete AS2-W",
+    "url": "https://www.youtube.com/watch?v=Xha2TJ_1C6Q",
+    "published": "2026-07-24T02:19:09-05:00",
+    "summary": "Fluid movement, compact yet exceptional. Supports a continuous 16kg payload, with 30+ km unloaded driving range"
+  }
+]
