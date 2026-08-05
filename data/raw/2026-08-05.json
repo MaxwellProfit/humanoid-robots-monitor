@@ -1,0 +1,56 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "google_news",
+    "title": "TSLA Stock Weakens As Elon Musk’s Optimus Faces New Challengers - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGwzZHM5WHFIWlIxbk0yNG9GRU9peXN6cFRJSWNnWjNGSDlkcG45MVNWSUV2Um5lU2ZyTnRyT3F4Q01YV1JHT1F1QV9FS1l2cFFnT1B1Y2Q2TFh1ZVFZWEwzeDVsN2pUOWM4NTFKU3pnbExSZUt2dWRYdHMwZ2o5RUhMb1F1emp1TlBrUEVhT19RR0llV2lKUS1LbVMxT2dZQV9lOGRlMkc2YnUxY3JjLV9UeUxnbVhUNklsRmZwWWxUNmc?oc=5",
+    "published": "2026-08-04T20:59:01-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGwzZHM5WHFIWlIxbk0yNG9GRU9peXN6cFRJSWNnWjNGSDlkcG45MVNWSUV2Um5lU2ZyTnRyT3F4Q01YV1JHT1F1QV9FS1l2cFFnT1B1Y2Q2TFh1ZVFZWEwzeDVsN2pUOWM4NTFKU3pnbExSZUt2dWRYdHMwZ2o5RUhMb1F1emp1TlBrUEVhT19RR0llV2lKUS1LbVMxT2dZQV9lOGRlMkc2YnUxY3JjLV9UeUxnbVhUNklsRmZwWWxUNmc?oc=5\" target=\"_blank\">TSLA Stock Weakens As Elon Musk’s Optimus Faces New Challengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Humanoids won’t scale on factory floors until costs drop - The Robot Report",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNyRF9wYW1LemQ3c0lKR0dRT2Fmek54MkJxVEQ3NzAyY201b2FuZFFwV0RGd2loYkVZelBwRmp2TWlVTGpxMEY3TnByM2h0TlhkU2FjaXF2dkIxV0NhUk9RaDludWtuLTJzY3FVYVNleHhUQllBVm9hVGQ5b0ZYRDl1WjdQU19fZ3VvSm4ySVU?oc=5",
+    "published": "2026-08-04T10:20:11-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNyRF9wYW1LemQ3c0lKR0dRT2Fmek54MkJxVEQ3NzAyY201b2FuZFFwV0RGd2loYkVZelBwRmp2TWlVTGpxMEY3TnByM2h0TlhkU2FjaXF2dkIxV0NhUk9RaDludWtuLTJzY3FVYVNleHhUQllBVm9hVGQ5b0ZYRDl1WjdQU19fZ3VvSm4ySVU?oc=5\" target=\"_blank\">Humanoids won’t scale on factory floors until costs drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Watch: Figure 03 humanoid climbs ladder autonomously in new robotics milestone - Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTFCQkhrTWMzZEZFamI0VWUyR0pxUFI2STJHVlo1elNDWjlnblEzcXFFQXdhRjdtWjBfem5SNm90ZXVfMVRFNDkzQ0Vyem9ZZDlEVVJWcnR2OThHR2xzZ0pfNUdwemIwSkJMdkF6ZjZxa3E2UmRyY0MwaXo5OWtjd1BQZmlPM2Y2MU80WkhqUlFaam0yTEc0d0hDWGNGdUZCTUx3Vk9VYlAwZGVJclRHX09VWVp4aG44aEJDMW10LXVrNmZP?oc=5",
+    "published": "2026-08-03T13:04:50-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTFCQkhrTWMzZEZFamI0VWUyR0pxUFI2STJHVlo1elNDWjlnblEzcXFFQXdhRjdtWjBfem5SNm90ZXVfMVRFNDkzQ0Vyem9ZZDlEVVJWcnR2OThHR2xzZ0pfNUdwemIwSkJMdkF6ZjZxa3E2UmRyY0MwaXo5OWtjd1BQZmlPM2Y2MU80WkhqUlFaam0yTEc0d0hDWGNGdUZCTUx3Vk9VYlAwZGVJclRHX09VWVp4aG44aEJDMW10LXVrNmZP?oc=5\" target=\"_blank\">Watch: Figure 03 humanoid climbs ladder autonomously in new robotics milestone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Figure 03 Humanoid Robot Climbs Ladder Autonomously in New Demo - eWeek",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OR09XUmdCYkFNZWFFVlVtZjVGXzV4U0ttWGk0SVFRTzg1bWlpRFlLRkU1Sl90Tl9Gb1hVRXBhQkwxQU5wVG5oQTdrYmlnMjBtODB4YU1HeklkVE1zLVdHTTdCRFlEaHNTWGlWVXVwbVItSnNDdEE?oc=5",
+    "published": "2026-08-04T16:18:19-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5OR09XUmdCYkFNZWFFVlVtZjVGXzV4U0ttWGk0SVFRTzg1bWlpRFlLRkU1Sl90Tl9Gb1hVRXBhQkwxQU5wVG5oQTdrYmlnMjBtODB4YU1HeklkVE1zLVdHTTdCRFlEaHNTWGlWVXVwbVItSnNDdEE?oc=5\" target=\"_blank\">Figure 03 Humanoid Robot Climbs Ladder Autonomously in New Demo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eWeek</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Figure 02 Robot: BMW Test & AI Speech Demo - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mdzVhUmg3Q0xTZ04xdWt5YTRlOVpOU2Iwc05tbXBIcmpDY3pEUFNJWGRhckU1TnQ3NUVHMUVoZDgwenViM0kxZ0UtdV9vMDR6dlJNVEl5MVJmZGt0aVFjbVJSeXV2eDRoODlueEgwbFBJekp5QmF5N0xkeno?oc=5",
+    "published": "2026-08-03T23:32:52-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5mdzVhUmg3Q0xTZ04xdWt5YTRlOVpOU2Iwc05tbXBIcmpDY3pEUFNJWGRhckU1TnQ3NUVHMUVoZDgwenViM0kxZ0UtdV9vMDR6dlJNVEl5MVJmZGt0aVFjbVJSeXV2eDRoODlueEgwbFBJekp5QmF5N0xkeno?oc=5\" target=\"_blank\">Figure 02 Robot: BMW Test & AI Speech Demo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NeoTeo</font>"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "google_news",
+    "title": "Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5",
+    "published": "2026-08-04T06:11:57-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5\" target=\"_blank\">Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+  }
+]

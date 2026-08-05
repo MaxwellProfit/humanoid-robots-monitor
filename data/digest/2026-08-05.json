@@ -1,0 +1,32 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "Humanoids won’t scale on factory floors until costs drop - The Robot Report",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNyRF9wYW1LemQ3c0lKR0dRT2Fmek54MkJxVEQ3NzAyY201b2FuZFFwV0RGd2loYkVZelBwRmp2TWlVTGpxMEY3TnByM2h0TlhkU2FjaXF2dkIxV0NhUk9RaDludWtuLTJzY3FVYVNleHhUQllBVm9hVGQ5b0ZYRDl1WjdQU19fZ3VvSm4ySVU?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-08-04T10:20:11-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNyRF9wYW1LemQ3c0lKR0dRT2Fmek54MkJxVEQ3NzAyY201b2FuZFFwV0RGd2loYkVZelBwRmp2TWlVTGpxMEY3TnByM2h0TlhkU2FjaXF2dkIxV0NhUk9RaDludWtuLTJzY3FVYVNleHhUQllBVm9hVGQ5b0ZYRDl1WjdQU19fZ3VvSm4ySVU?oc=5\" target=\"_blank\">Humanoids won’t scale on factory floors until costs drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Why Does Atlas Have A Head? #askaroboticist #bostondynamics",
+    "url": "https://www.youtube.com/shorts/VmBS2N1FzmE",
+    "domain": "www.youtube.com",
+    "published": "2026-08-04T08:55:11-05:00",
+    "summary": "Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a head, how the brain of the robot works, and how Atlas understands the world around it.",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "title": "Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-08-04T06:11:57-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzBJcnRzZ0xGcE5fanRrcmlXZGFYUG9WMDc0cFdNQmJCX2plV1h5anNuYk1zZVBKS1lpd29TSU5BS2ZMMWNobzhHUTVGdXhYMnRBcWx6cGwzdkVHaEJ1eGY5NlktVDdRZGZYRXU0MDV2LWh3aWFyanBnUWlUSlJoeTV2WkNzYXBMNFZua056aXBFeUI1RmtRcWgxTGR4a2pLYWpBbTRobC16dzQ0dkg3aVFTZ2lWTVVzTDlkSGp3Wlk2MHJ1Mi1HZFZPSUFlYnlx?oc=5\" target=\"_blank\">Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "source_feed": "google_news"
+  }
+]
