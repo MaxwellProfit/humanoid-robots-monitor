@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Figure 03 Humanoid Robot Climbs Ladder Autonomously in New Demo - TechRepublic",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVlFTDMyVzBQWTFmbjI4X2RPYkZLdjFzM3BYdmlua0oxTlh4OHV2TGhHeEhsNmhvdHZEenRpMC1VZGJRbjR6TERVbnZiMTVYbnR0cmZicTlqbEVYOC05WlRNazdtOE5jbWlwN01rbXJrUXptNGZoeUhHUGhnSXdJM29kTktiZWdWa0E?oc=5",
+    "published": "2026-08-10T19:47:40-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVlFTDMyVzBQWTFmbjI4X2RPYkZLdjFzM3BYdmlua0oxTlh4OHV2TGhHeEhsNmhvdHZEenRpMC1VZGJRbjR6TERVbnZiMTVYbnR0cmZicTlqbEVYOC05WlRNazdtOE5jbWlwN01rbXJrUXptNGZoeUhHUGhnSXdJM29kTktiZWdWa0E?oc=5\" target=\"_blank\">Figure 03 Humanoid Robot Climbs Ladder Autonomously in New Demo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "google_news",
+    "title": "AgiBot passes Unitree as top humanoid robot vendor - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaS14ZDV5Z05GQ3VBM1I5VDh0LTV6b21ZTl9YVnpaLWN6MWFTWFlaQVlUd0hZWGtFT0pSVEQ3WUhCQTVkdmVNNWFMSHFSbGRSb1BtSm1LRjJLU1BTVkozZFY2M0JOTlBCUkdPOExpWkJBVUhUclpVWnExNGw1SjZVMA?oc=5",
+    "published": "2026-08-10T17:11:53-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPaS14ZDV5Z05GQ3VBM1I5VDh0LTV6b21ZTl9YVnpaLWN6MWFTWFlaQVlUd0hZWGtFT0pSVEQ3WUhCQTVkdmVNNWFMSHFSbGRSb1BtSm1LRjJLU1BTVkozZFY2M0JOTlBCUkdPOExpWkJBVUhUclpVWnExNGw1SjZVMA?oc=5\" target=\"_blank\">AgiBot passes Unitree as top humanoid robot vendor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>"
+  }
+]
