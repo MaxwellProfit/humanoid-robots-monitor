@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "Robots Doing Stuff #63 | Failure Recovery Montage",
+    "url": "https://www.youtube.com/watch?v=bugnLIo-rQY",
+    "domain": "www.youtube.com",
+    "published": "2026-08-13T14:22:15-05:00",
+    "summary": "Why are some industrial tasks impossible to automate with traditional methods? Because real-world environments aren't perfectly repeatable. Parts shift and conditions change from cycle to cycle.\n\nOur production-ready Physical AI enables robotic systems to adapt to these changing conditions, helping recover from unexpected situations, reduce manual intervention, and maintain throughput. In short: our policies are as tenacious as we are.\n\nBack in June, we shared this plug insertion task achieving 99.5%+ success at a cycle time of 2.54 seconds. This week, we're showing another aspect of the same policy with a failure recovery montage.\n\n#SanctuaryAI #Robotics #PhysicalAI #Automation #IndustrialRobots #RobotsDoingStuff #SanctuaryAI\n\nVisit www.sanctuary.ai to learn more about our Physical AI-enabled automation solutions.",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "title": "Experts to discuss the state of humanoid robots at RoboBusiness - The Robot Report",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFN0SDVXbGhERFBZLThtN0xNNF9QSXNOdWI4SUdRbnN5WGVtR2lqRUsxTE1hcmRkX1pycTFKT2xUdWNRLWotbGc4bnQ5SERaOEdHRXY4Ujhra3FpZnA0R3h0MDd2T0QyNjB1OUt3dnBncjM1a3BzamRhVnMtUWVjalZhRVNYTnFjV3EwWDdkVjA?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-08-13T07:35:27-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFN0SDVXbGhERFBZLThtN0xNNF9QSXNOdWI4SUdRbnN5WGVtR2lqRUsxTE1hcmRkX1pycTFKT2xUdWNRLWotbGc4bnQ5SERaOEdHRXY4Ujhra3FpZnA0R3h0MDd2T0QyNjB1OUt3dnBncjM1a3BzamRhVnMtUWVjalZhRVNYTnFjV3EwWDdkVjA?oc=5\" target=\"_blank\">Experts to discuss the state of humanoid robots at RoboBusiness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>",
+    "source_feed": "google_news"
+  }
+]
