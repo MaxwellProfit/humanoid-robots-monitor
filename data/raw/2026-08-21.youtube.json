@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "BAMF",
+    "url": "https://www.youtube.com/shorts/O_Ndcx1LArU",
+    "published": "2026-08-20T13:43:27-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Curious what separates a great robotics demo from a production-ready system?",
+    "url": "https://www.youtube.com/shorts/-8DuygU_4nQ",
+    "published": "2026-08-19T14:24:44-05:00",
+    "summary": "Sanctuary AI Co-Founder, Chief Engineering & Operations Officer @Olivia Norton explains why the final few percent of performance can be the most challenging but most important when deploying Physical AI in industrial environments.\n\nLearn more about our commercial Physical AI solutions at sanctuary.ai.\n\nRecorded at the Humanoid Robot Forum during Automate 2026.\n\n#PhysicalAI #Robotics #Automation #AI #Manufacturing #SanctuaryAI"
+  }
+]
