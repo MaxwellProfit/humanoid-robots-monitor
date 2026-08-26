@@ -1,0 +1,74 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "google_news",
+    "title": "TSLA Stock Weakens As Elon Musk’s Optimus Faces New Challengers - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGwzZHM5WHFIWlIxbk0yNG9GRU9peXN6cFRJSWNnWjNGSDlkcG45MVNWSUV2Um5lU2ZyTnRyT3F4Q01YV1JHT1F1QV9FS1l2cFFnT1B1Y2Q2TFh1ZVFZWEwzeDVsN2pUOWM4NTFKU3pnbExSZUt2dWRYdHMwZ2o5RUhMb1F1emp1TlBrUEVhT19RR0llV2lKUS1LbVMxT2dZQV9lOGRlMkc2YnUxY3JjLV9UeUxnbVhUNklsRmZwWWxUNmc?oc=5",
+    "published": "2026-08-25T00:19:53-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGwzZHM5WHFIWlIxbk0yNG9GRU9peXN6cFRJSWNnWjNGSDlkcG45MVNWSUV2Um5lU2ZyTnRyT3F4Q01YV1JHT1F1QV9FS1l2cFFnT1B1Y2Q2TFh1ZVFZWEwzeDVsN2pUOWM4NTFKU3pnbExSZUt2dWRYdHMwZ2o5RUhMb1F1emp1TlBrUEVhT19RR0llV2lKUS1LbVMxT2dZQV9lOGRlMkc2YnUxY3JjLV9UeUxnbVhUNklsRmZwWWxUNmc?oc=5\" target=\"_blank\">TSLA Stock Weakens As Elon Musk’s Optimus Faces New Challengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Introducing Index: Building The World’s Largest and Most Diverse Physical Dataset - Figure",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82Y1ZiUmFmWXlBQTBud3BzS3k5dkFQQlNaMW1TR2J6Yzk1ZzlfQWdyZXYxU2tuTVlrWWpYaXR3WklSellZSlJCblh2TTY5NXBabF8yc09SMA?oc=5",
+    "published": "2026-08-24T19:00:00-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82Y1ZiUmFmWXlBQTBud3BzS3k5dkFQQlNaMW1TR2J6Yzk1ZzlfQWdyZXYxU2tuTVlrWWpYaXR3WklSellZSlJCblh2TTY5NXBabF8yc09SMA?oc=5\" target=\"_blank\">Introducing Index: Building The World’s Largest and Most Diverse Physical Dataset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Figure</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "BMW tests Figure 03 humanoid robot for logistics sequencing at Spartanburg plant - Automotive Logistics",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXhxZ3hvcDZyblhubVB4STlYdTdMaEJJd05HS3N2dW5YSXp0LTFIUWpHa3RDaFVwQjRFRFhDTTVfT0lrYjVZNGJKUmNSc2VLNEN5VU9TbHFyMDBJLXVwVlhKNV9TbENkRW1jc2ROT1k2blE1MU9PR2ZXeVQ4TU5RZmVHdlpYZ1JMdmYxNzYxYTY0dEF1VHREWUZkb3hvM2JJSWM3djVnUC1KeURYVjRJ?oc=5",
+    "published": "2026-08-25T05:23:05-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXhxZ3hvcDZyblhubVB4STlYdTdMaEJJd05HS3N2dW5YSXp0LTFIUWpHa3RDaFVwQjRFRFhDTTVfT0lrYjVZNGJKUmNSc2VLNEN5VU9TbHFyMDBJLXVwVlhKNV9TbENkRW1jc2ROT1k2blE1MU9PR2ZXeVQ4TU5RZmVHdlpYZ1JMdmYxNzYxYTY0dEF1VHREWUZkb3hvM2JJSWM3djVnUC1KeURYVjRJ?oc=5\" target=\"_blank\">BMW tests Figure 03 humanoid robot for logistics sequencing at Spartanburg plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive Logistics</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "EXCLUSIVE: Tesla Isn't Leading Humanoid Robotics—Figure AI Is, RoboStrategy CEO Says - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEh1V2MxY3h6STFyMHIxUlRlSkhubkVHbVJ2UjQ4TGVBY2tRdDFydTgtNWF2ZVhvM09GLWE4amFWMldHU0g1WW5PcUdJNE1Ja3lEN2VveFNLRl9ZYXRwU0FySVBMTU5KZGlVQUNHend0b09GanlkUFB6c3FJVnYzcWl3bHhXT2F4ZHFLRlFUd0J4R2xPM3dwQjV6NFItOFh4dlBQZlVRdlVialBiTWRIYmdxaw?oc=5",
+    "published": "2026-08-25T08:09:10-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEh1V2MxY3h6STFyMHIxUlRlSkhubkVHbVJ2UjQ4TGVBY2tRdDFydTgtNWF2ZVhvM09GLWE4amFWMldHU0g1WW5PcUdJNE1Ja3lEN2VveFNLRl9ZYXRwU0FySVBMTU5KZGlVQUNHend0b09GanlkUFB6c3FJVnYzcWl3bHhXT2F4ZHFLRlFUd0J4R2xPM3dwQjV6NFItOFh4dlBQZlVRdlVialBiTWRIYmdxaw?oc=5\" target=\"_blank\">EXCLUSIVE: Tesla Isn't Leading Humanoid Robotics—Figure AI Is, RoboStrategy CEO Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Tesla's Optimus Trails Figure AI in Production Race, RoboStrategy CEO Says - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpU3k0bmZHdWFpZ0hobzQwcEtadVoxdU8zN0RqM3RMQ1F2bDRjU2EzTzh4d1dGbFdVRGZEWldibXozV1l3NG4ycnI0eW84YWRpNU1idF9KcC1LTm9QMHF6M1V5Vmp1Ui1EcGF4Rk0tQmJIOGpoU3c?oc=5",
+    "published": "2026-08-25T13:21:00-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBpU3k0bmZHdWFpZ0hobzQwcEtadVoxdU8zN0RqM3RMQ1F2bDRjU2EzTzh4d1dGbFdVRGZEWldibXozV1l3NG4ycnI0eW84YWRpNU1idF9KcC1LTm9QMHF6M1V5Vmp1Ui1EcGF4Rk0tQmJIOGpoU3c?oc=5\" target=\"_blank\">Tesla's Optimus Trails Figure AI in Production Race, RoboStrategy CEO Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Figure AI Announces Index, a Crowdsourced Robot Training Dataset That Could Reshape the Labor Market - Glitchwire",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2Z0SE1HMGJxVVEtaFZtSnNoQnEyR3lzR1lGNmZVZjBlTzFHZi1IMEdVajFDVUJ0NjlGeW5JRVJiOGU1Z1Y4bVMzc3gtQXNNRWpPXzhmRFJwN1VNUnhUYjdKUEkxdnZicVlVWW5ESk5BLTEzNzhjUk1iTGpsWEU0N1J3U2xfYXVRY2JfYXNEMkszb0dndnNiekU2NE0xcXNJWTJDNXFrYTBrYThmeFE?oc=5",
+    "published": "2026-08-25T14:19:08-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2Z0SE1HMGJxVVEtaFZtSnNoQnEyR3lzR1lGNmZVZjBlTzFHZi1IMEdVajFDVUJ0NjlGeW5JRVJiOGU1Z1Y4bVMzc3gtQXNNRWpPXzhmRFJwN1VNUnhUYjdKUEkxdnZicVlVWW5ESk5BLTEzNzhjUk1iTGpsWEU0N1J3U2xfYXVRY2JfYXNEMkszb0dndnNiekU2NE0xcXNJWTJDNXFrYTBrYThmeFE?oc=5\" target=\"_blank\">Figure AI Announces Index, a Crowdsourced Robot Training Dataset That Could Reshape the Labor Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Glitchwire</font>"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "google_news",
+    "title": "China robot maker Unitree's post-listing slump sparks bubble fears - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5",
+    "published": "2026-08-25T05:35:17-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObXBJbUlia19faFRtRHd3UE5kUGlKRWdBUWRiSmlfTTYyTnRPVExndkE0ZXZ6YURodk5kSnpJTDJkc2doN01UZFk4VUI5RUFnbjd3TXJFVlo5YlJmWENIM0pra1E5bF9uT3NPOTFkaWwtNnFUd0p1WG93blBfZ241UnhabEJRbXprb0RvZjlYeDRsSlc4MkRKaTRSQ295RnVYX05mMThtRTRaR2pCM29sbWZvTThKVUtaWEE?oc=5\" target=\"_blank\">China robot maker Unitree's post-listing slump sparks bubble fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "google_news",
+    "title": "Unitree Claims New Humanoid Robot Outruns Usain Bolt - SingularityHub",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmNreWFQdUFKSXhTVmw1TjhGT0tMOTR1V2x1aFAzZkp3dGViVVo5UExQSnpqM3p5N05hY3JtVUhNQ2piM3F0SHJYMF92emNJRHRCd1gwNHJkUjBCREFwcnNfZnNQYkJsVHhjNzV2Mk5KXzB0SkdQMkZZSjUtMUlEQTFRZHBROW93dzhJSU5idWxsbmtXTEE?oc=5",
+    "published": "2026-08-24T17:52:36-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmNreWFQdUFKSXhTVmw1TjhGT0tMOTR1V2x1aFAzZkp3dGViVVo5UExQSnpqM3p5N05hY3JtVUhNQ2piM3F0SHJYMF92emNJRHRCd1gwNHJkUjBCREFwcnNfZnNQYkJsVHhjNzV2Mk5KXzB0SkdQMkZZSjUtMUlEQTFRZHBROW93dzhJSU5idWxsbmtXTEE?oc=5\" target=\"_blank\">Unitree Claims New Humanoid Robot Outruns Usain Bolt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SingularityHub</font>"
+  }
+]
