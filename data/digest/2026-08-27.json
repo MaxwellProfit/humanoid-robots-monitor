@@ -1,0 +1,32 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "title": "Pet Mode keeps your dog chillin’",
+    "url": "https://www.youtube.com/shorts/9D1FnEJ4_HU",
+    "domain": "www.youtube.com",
+    "published": "2026-08-27T15:39:28-05:00",
+    "summary": "",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "Robots Doing Stuff #64 | Delicate Object Handling",
+    "url": "https://www.youtube.com/watch?v=5RRBCJI2b78",
+    "domain": "www.youtube.com",
+    "published": "2026-08-27T14:10:27-05:00",
+    "summary": "Will you find crackers and grapes on the production floor? Probably not. But what you will find are tasks that require the manipulation of delicate, irregular, and easily damaged objects. Brittle crackers and soft grapes provide a simple way to put those capabilities to the test.\n\nHandling objects like these requires precise force control and continuous adjustment. The hand must maintain a secure grasp without crushing, cracking, or dropping each object as it transfers it to the plate.\n\nIt makes for a great demo… and a great snack.\n\n#Dexterity #DexterousHand #RobotHand #Robotics #RobotsDoingStuff #SanctuaryAI",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "What is a robot surgeon? #askaroboticist #bostondynamics #robotics",
+    "url": "https://www.youtube.com/shorts/A0VdM2S3vL4",
+    "domain": "www.youtube.com",
+    "published": "2026-08-27T09:22:34-05:00",
+    "summary": "Mark DiLeo, a member of Atlas repair team, shares how Boston Dynamics fixes problems that have never been seen before and what makes a good robot surgeon.",
+    "source_feed": "youtube"
+  }
+]
