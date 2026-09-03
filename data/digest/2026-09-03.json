@@ -1,0 +1,12 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "Scaling Compute",
+    "url": "https://www.youtube.com/watch?v=QbuIxdvViv4",
+    "domain": "www.youtube.com",
+    "published": "2026-09-03T08:06:47-05:00",
+    "summary": "Figure is partnering with Nscale to deploy up to 100,000 GPUs on the NVIDIA Vera Rubin Platform.  We're committing $3.5 billion initially, with plans to scale beyond $6 billion.  Bringing a robot into every home demands compute at an unprecedented scale.  The 100,000 GPUs targeted for initial deployment starting the second half of 2027 in Barstow, Texas.\n\nRead more at:\nhttps://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership",
+    "source_feed": "youtube"
+  }
+]
