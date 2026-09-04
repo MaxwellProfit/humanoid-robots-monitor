@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "The Future Has Arrived | Cybercab",
+    "url": "https://www.youtube.com/watch?v=grdt05okn3Q",
+    "published": "2026-09-03T19:35:04-05:00",
+    "summary": "Our Robotaxi vehicle lineup now includes Cybercab, our first purpose-built autonomous vehicle without a steering wheel or pedals — Now launching in Austin, Texas.\n\nDesigned for safety, accessibility and comfort, Cybercab is bringing autonomy to everyone and every ride. Schedule your next ride today to experience the future of autonomy for yourself—only available in the Robotaxi app. \n\nDownload the Tesla Robotaxi app:\niOS – https://apps.apple.com/us/app/tesla-robotaxi/id6744257048\nAndroid – https://play.google.com/store/apps/details?id=com.tesla.riders&amp;hl=en_US"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "Scaling Compute",
+    "url": "https://www.youtube.com/watch?v=QbuIxdvViv4",
+    "published": "2026-09-03T08:06:47-05:00",
+    "summary": "Figure is partnering with Nscale to deploy up to 100,000 GPUs on the NVIDIA Vera Rubin Platform.  We're committing $3.5 billion initially, with plans to scale beyond $6 billion.  Bringing a robot into every home demands compute at an unprecedented scale.  The 100,000 GPUs targeted for initial deployment starting the second half of 2027 in Barstow, Texas.\n\nRead more at:\nhttps://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Curious how robots manipulate objects they can’t fully see?",
+    "url": "https://www.youtube.com/shorts/O0_6ZSdpbtM",
+    "published": "2026-09-03T17:07:05-05:00",
+    "summary": "Sanctuary AI Co-Founder & Chief Engineering & Operations Officer Olivia Norton explains why touch and force feedback are critical for dexterous manipulation, especially when objects are occluded or outside a robot’s field of view.\n\nLearn more about our commercial Physical AI solutions at sanctuary.ai\n\nRecorded at the Humanoid Robot Forum during Automate 2026.\n\n#PhysicalAI #Robotics #Dexterity #Automation #AI #SanctuaryAI"
+  }
+]

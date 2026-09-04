@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "title": "The Future Has Arrived | Cybercab",
+    "url": "https://www.youtube.com/watch?v=grdt05okn3Q",
+    "domain": "www.youtube.com",
+    "published": "2026-09-03T19:35:04-05:00",
+    "summary": "Our Robotaxi vehicle lineup now includes Cybercab, our first purpose-built autonomous vehicle without a steering wheel or pedals — Now launching in Austin, Texas.\n\nDesigned for safety, accessibility and comfort, Cybercab is bringing autonomy to everyone and every ride. Schedule your next ride today to experience the future of autonomy for yourself—only available in the Robotaxi app. \n\nDownload the Tesla Robotaxi app:\niOS – https://apps.apple.com/us/app/tesla-robotaxi/id6744257048\nAndroid – https://play.google.com/store/apps/details?id=com.tesla.riders&amp;hl=en_US",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "Curious how robots manipulate objects they can’t fully see?",
+    "url": "https://www.youtube.com/shorts/O0_6ZSdpbtM",
+    "domain": "www.youtube.com",
+    "published": "2026-09-03T17:07:05-05:00",
+    "summary": "Sanctuary AI Co-Founder & Chief Engineering & Operations Officer Olivia Norton explains why touch and force feedback are critical for dexterous manipulation, especially when objects are occluded or outside a robot’s field of view.\n\nLearn more about our commercial Physical AI solutions at sanctuary.ai\n\nRecorded at the Humanoid Robot Forum during Automate 2026.\n\n#PhysicalAI #Robotics #Dexterity #Automation #AI #SanctuaryAI",
+    "source_feed": "youtube"
+  }
+]
