@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "POV Hailing a Cybercab",
+    "url": "https://www.youtube.com/shorts/bpPJbRjIpxg",
+    "published": "2026-09-06T13:52:43-05:00",
+    "summary": "📸 by @Gjeebs"
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "youtube",
+    "title": "Unitree Breakthrough: The World’s First Fully Autonomous Humanoid Robot Combat",
+    "url": "https://www.youtube.com/watch?v=qkIJELDgULA",
+    "published": "2026-09-07T07:03:23-05:00",
+    "summary": "UnifoLM-X2-1.0 breaks through world-action foundation models’ bottlenecks in instant planning, decision-making, and dynamic interactive execution, achieve high dynamics, strong interaction, real-time prediction and planning of the future, achieve fully autonomous combat for humanoid robots. This validates the fundamental feasibility of large-scale deployment of world model-driven humanoid robots."
+  }
+]
