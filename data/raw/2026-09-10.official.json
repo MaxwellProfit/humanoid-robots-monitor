@@ -1,0 +1,101 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure",
+    "url": "https://www.figure.ai",
+    "published": "2026-09-10T10:36:53.302980-05:00",
+    "summary": "Figure 03 is a general purpose humanoid robot for every day."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Figure 03 | Figure",
+    "url": "https://www.figure.ai/figure",
+    "published": "2026-09-10T10:36:53.389230-05:00",
+    "summary": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "News | Figure",
+    "url": "https://www.figure.ai/news",
+    "published": "2026-09-10T10:36:53.491390-05:00",
+    "summary": "Introducing Index: Building The World’s Largest and Most Diverse Physical Dataset"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Company | Figure",
+    "url": "https://www.figure.ai/company",
+    "published": "2026-09-10T10:36:53.523085-05:00",
+    "summary": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life."
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "official_site",
+    "title": "Helix | Figure",
+    "url": "https://www.figure.ai/helix",
+    "published": "2026-09-10T10:36:53.595931-05:00",
+    "summary": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills."
+  },
+  {
+    "entity_id": "apptronik",
+    "entity_name": "Apptronik (Apollo)",
+    "source_feed": "official_site",
+    "title": "Apptronik - Home",
+    "url": "https://apptronik.com/",
+    "published": "2026-09-10T10:36:53.881516-05:00",
+    "summary": "Apollo is designed to bring AI into the physical world. With advanced mobility, dexterous manipulation, and the ability to learn new skills, Apollo can help take on physically demanding work in environments built for people. As industries f"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "official_site",
+    "title": "The World’s Leading Robotics Company | Boston Dynamics",
+    "url": "https://bostondynamics.com/",
+    "published": "2026-09-10T10:36:57.597104-05:00",
+    "summary": "Discover practical robotics solutions designed to tackle today's and tomorrow's toughest automation challenges."
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "official_site",
+    "title": "News | Boston Dynamics",
+    "url": "https://bostondynamics.com/news/",
+    "published": "2026-09-10T10:36:57.706816-05:00",
+    "summary": "Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Humanoid Robots\n – K-Robotics Shop",
+    "url": "https://www.k-robotic.com/collections/humanoid-robots",
+    "published": "2026-09-10T10:37:03.645791-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "official_site",
+    "title": "Product support\n – K-Robotics Shop",
+    "url": "https://www.k-robotic.com/blogs/product-support",
+    "published": "2026-09-10T10:37:04.515579-05:00",
+    "summary": "For Universities & Schools: We support PO purchases and provide W-9 forms."
+  },
+  {
+    "entity_id": "1x",
+    "entity_name": "1x",
+    "source_feed": "official_site",
+    "title": "1X | Home Robots",
+    "url": "https://www.1x.tech",
+    "published": "2026-09-10T10:37:05.279170-05:00",
+    "summary": ""
+  }
+]
