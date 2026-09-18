@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "tesla_optimus",
+    "entity_name": "Tesla Optimus",
+    "title": "New drone video shows Tesla’s Optimus Factory reaching a turning point - Teslarati",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalBteVlhUjJodG5ERDlrOEZQWW1CcDV4RjJKeURhanpnc3FvbjMwMzRsZDRfM1VXa09NWHl0UmswNjdlZWlMS3hWRkRPa0tPTW5pYkN3RllDal91S201Y3BtbUV3VmVuTWduaVFHZ21NMHR5TWJ1S1R2ck1vQXNWTEx5bzYweTlPR0U2bDVuTFVNMVo3dDl1azZlMkc?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-09-18T08:33:07-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPalBteVlhUjJodG5ERDlrOEZQWW1CcDV4RjJKeURhanpnc3FvbjMwMzRsZDRfM1VXa09NWHl0UmswNjdlZWlMS3hWRkRPa0tPTW5pYkN3RllDal91S201Y3BtbUV3VmVuTWduaVFHZ21NMHR5TWJ1S1R2ck1vQXNWTEx5bzYweTlPR0U2bDVuTFVNMVo3dDl1azZlMkc?oc=5\" target=\"_blank\">New drone video shows Tesla’s Optimus Factory reaching a turning point</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teslarati</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "Helix 2.5 30-Home Generalization",
+    "url": "https://www.youtube.com/watch?v=lJpM_2a1zrE",
+    "domain": "www.youtube.com",
+    "published": "2026-09-17T13:44:32-05:00",
+    "summary": "Today we’re releasing Helix 2.5\n\nWe rented 30 homes in the Bay Area. The robots arrived with no additional training and started doing useful work",
+    "source_feed": "youtube"
+  }
+]
