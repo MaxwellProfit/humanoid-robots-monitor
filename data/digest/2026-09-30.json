@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "F.02 Decomission",
+    "url": "https://www.youtube.com/watch?v=pfAh5oQDPDM",
+    "domain": "www.youtube.com",
+    "published": "2026-09-30T10:17:29-05:00",
+    "summary": "We love Figure 02. It is an incredible robot. F.02 marked many firsts for the company: our first deployment at BMW, the birth of Helix, our first robot doing household chores, and our first logistics deployment. As our F.03 fleet grows, maintaining the F.02 fleet no longer makes sense.\n\nDecommissioning a fleet of robots full of custom-built actuators and other intellectual property is no easy task. We needed to dispose of the robots in a way that protected our proprietary hardware. Disassembling each robot would take our technical staff so much time that it would delay the launch of F.04.\n\nSo we asked the internet: what should we do? The resounding answer came from an unlikely source: Arnold Schwarzenegger, who told us to melt them. We reached out to Arnold, and when he said he wanted to be involved, we put everything in motion.\n\nRead more about it here:\nhttps://www.figure.ai/news/f-02-decommission",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios",
+    "url": "https://www.youtube.com/watch?v=CFS_zU1kWQw",
+    "domain": "www.youtube.com",
+    "published": "2026-09-30T03:00:08-05:00",
+    "summary": "Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating markets with Spot and Stretch. Now we're doing it again with Atlas: learning in real environments, designing for manufacturing at scale, and introducing a new era of physical intelligence.\n\nLearn more RMAC: https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/\nLearn more about Atlas: https://bostondynamics.com/products/atlas/",
+    "source_feed": "youtube"
+  }
+]
