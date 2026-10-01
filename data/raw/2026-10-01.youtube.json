@@ -1,0 +1,38 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "F.02 Decomission",
+    "url": "https://www.youtube.com/watch?v=pfAh5oQDPDM",
+    "published": "2026-09-30T10:17:29-05:00",
+    "summary": "We love Figure 02. It is an incredible robot. F.02 marked many firsts for the company: our first deployment at BMW, the birth of Helix, our first robot doing household chores, and our first logistics deployment. As our F.03 fleet grows, maintaining the F.02 fleet no longer makes sense.\n\nDecommissioning a fleet of robots full of custom-built actuators and other intellectual property is no easy task. We needed to dispose of the robots in a way that protected our proprietary hardware. Disassembling each robot would take our technical staff so much time that it would delay the launch of F.04.\n\nSo we asked the internet: what should we do? The resounding answer came from an unlikely source: Arnold Schwarzenegger, who told us to melt them. We reached out to Arnold, and when he said he wanted to be involved, we put everything in motion.\n\nRead more about it here:\nhttps://www.figure.ai/news/f-02-decommission"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "New Hands for Atlas | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=4whgw2gLBS8",
+    "published": "2026-10-01T08:59:20-05:00",
+    "summary": "This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work: https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios",
+    "url": "https://www.youtube.com/watch?v=CFS_zU1kWQw",
+    "published": "2026-09-30T03:00:08-05:00",
+    "summary": "Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating markets with Spot and Stretch. Now we're doing it again with Atlas: learning in real environments, designing for manufacturing at scale, and introducing a new era of physical intelligence.\n\nLearn more RMAC: https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/\nLearn more about Atlas: https://bostondynamics.com/products/atlas/"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Robotic Dexterity Explained | \"What is robotic dexterity?\"",
+    "url": "https://www.youtube.com/watch?v=7Wo36jSLSto",
+    "published": "2026-10-01T12:09:14-05:00",
+    "summary": "Robotic Dexterity Explained | \"What is robotic dexterity?\"\n\nIn Part 1 of Dexterity Explained, we break down what manual dexterity is, why it matters, and how robotic hands and Physical AI work together to bring greater skill, precision, and control to physical tasks.\n\nThe more dexterous robots become, the more complex industrial work they can take on.\n\nLearn more about our dexterous solutions: https://sanctuary.ai/solutions/\n\n#Explained #PhysicalAI #Dexterity #Robotics #RobotHand #SanctuaryAI"
+  }
+]

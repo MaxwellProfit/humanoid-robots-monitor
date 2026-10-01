@@ -1,0 +1,32 @@
+[
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "title": "Robotic Dexterity Explained | \"What is robotic dexterity?\"",
+    "url": "https://www.youtube.com/watch?v=7Wo36jSLSto",
+    "domain": "www.youtube.com",
+    "published": "2026-10-01T12:09:14-05:00",
+    "summary": "Robotic Dexterity Explained | \"What is robotic dexterity?\"\n\nIn Part 1 of Dexterity Explained, we break down what manual dexterity is, why it matters, and how robotic hands and Physical AI work together to bring greater skill, precision, and control to physical tasks.\n\nThe more dexterous robots become, the more complex industrial work they can take on.\n\nLearn more about our dexterous solutions: https://sanctuary.ai/solutions/\n\n#Explained #PhysicalAI #Dexterity #Robotics #RobotHand #SanctuaryAI",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "Atlas Humanoid Robot — Hyundai Preps Boston Dynamics AI Bot for Factory Floor - en.koreadaily.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYy0zM1BUenltYnJNOTdsQ2tPRVFSTm1KZUEyb0tiamhCS0FXR2ZNS0FRb1pTNnRjRU5NOGMtWXdVTnkyU3FUd0VXY3JmbDg3OFdQOS00bkpBaFBIb240M29FLVRtNVFlRkcxeG5PNEg?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-10-01T11:41:57-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYy0zM1BUenltYnJNOTdsQ2tPRVFSTm1KZUEyb0tiamhCS0FXR2ZNS0FRb1pTNnRjRU5NOGMtWXdVTnkyU3FUd0VXY3JmbDg3OFdQOS00bkpBaFBIb240M29FLVRtNVFlRkcxeG5PNEg?oc=5\" target=\"_blank\">Atlas Humanoid Robot — Hyundai Preps Boston Dynamics AI Bot for Factory Floor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">en.koreadaily.com</font>",
+    "source_feed": "google_news"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "title": "New Hands for Atlas | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=4whgw2gLBS8",
+    "domain": "www.youtube.com",
+    "published": "2026-10-01T08:59:20-05:00",
+    "summary": "This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work: https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work",
+    "source_feed": "youtube"
+  }
+]

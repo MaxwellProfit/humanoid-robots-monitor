@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "F.02 Decommission - Figure",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KR3kxQ2pJRFktUWZBTWFnRDZla1BVV1NXN2lobTREM0JYdGp5XzNxUGZ4MmdaTThWUGVnUEVpVHhUc3FuMFdIcEdIbG9xWnJYeG9wekhrUQ?oc=5",
+    "published": "2026-09-30T02:50:00-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KR3kxQ2pJRFktUWZBTWFnRDZla1BVV1NXN2lobTREM0JYdGp5XzNxUGZ4MmdaTThWUGVnUEVpVHhUc3FuMFdIcEdIbG9xWnJYeG9wekhrUQ?oc=5\" target=\"_blank\">F.02 Decommission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Figure</font>"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "google_news",
+    "title": "Atlas Humanoid Robot — Hyundai Preps Boston Dynamics AI Bot for Factory Floor - en.koreadaily.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYy0zM1BUenltYnJNOTdsQ2tPRVFSTm1KZUEyb0tiamhCS0FXR2ZNS0FRb1pTNnRjRU5NOGMtWXdVTnkyU3FUd0VXY3JmbDg3OFdQOS00bkpBaFBIb240M29FLVRtNVFlRkcxeG5PNEg?oc=5",
+    "published": "2026-10-01T11:41:57-05:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYy0zM1BUenltYnJNOTdsQ2tPRVFSTm1KZUEyb0tiamhCS0FXR2ZNS0FRb1pTNnRjRU5NOGMtWXdVTnkyU3FUd0VXY3JmbDg3OFdQOS00bkpBaFBIb240M29FLVRtNVFlRkcxeG5PNEg?oc=5\" target=\"_blank\">Atlas Humanoid Robot — Hyundai Preps Boston Dynamics AI Bot for Factory Floor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">en.koreadaily.com</font>"
+  }
+]
