@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Halloween is coming",
+    "url": "https://www.youtube.com/shorts/3SsXy3Mp_iM",
+    "published": "2026-10-01T17:36:19-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "youtube",
+    "title": "New Hands for Atlas | Boston Dynamics",
+    "url": "https://www.youtube.com/watch?v=4whgw2gLBS8",
+    "published": "2026-10-01T08:59:20-05:00",
+    "summary": "This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work: https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work"
+  },
+  {
+    "entity_id": "sanctuary_ai_phoenix",
+    "entity_name": "Sanctuary AI (Phoenix)",
+    "source_feed": "youtube",
+    "title": "Robotic Dexterity Explained | \"What is robotic dexterity?\"",
+    "url": "https://www.youtube.com/watch?v=7Wo36jSLSto",
+    "published": "2026-10-01T12:09:14-05:00",
+    "summary": "Robotic Dexterity Explained | \"What is robotic dexterity?\"\n\nIn Part 1 of Dexterity Explained, we break down what manual dexterity is, why it matters, and how robotic hands and Physical AI work together to bring greater skill, precision, and control to physical tasks.\n\nThe more dexterous robots become, the more complex industrial work they can take on.\n\nLearn more about our dexterous solutions: https://sanctuary.ai/solutions/\n\n#Explained #PhysicalAI #Dexterity #Robotics #RobotHand #SanctuaryAI"
+  }
+]
