@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Robot Digest — 2026-10-16</title>
+  <style>
+:root {
+  --bg: #0b0f14;
+  --card: #111824;
+  --text: #e6edf3;
+  --muted: #9fb0c0;
+  --link: #7dd3fc;
+  --border: #1f2a3a;
+  --chip: #0f2233;
+  --good: #22c55e;
+  --warn: #f59e0b;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: var(--bg);
+  color: var(--text);
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 18px 60px;
+}
+.header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.brand {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+}
+.sub {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 2px;
+}
+.nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.pill {
+  background: var(--chip);
+  border: 1px solid var(--border);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  color: var(--text);
+}
+.pill.active { outline: 2px solid rgba(125, 211, 252, 0.35); }
+
+.h1 {
+  font-size: 28px;
+  font-weight: 800;
+  margin: 16px 0 6px;
+}
+.small { font-size: 12px; color: var(--muted); line-height: 1.2rem; }
+
+.controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin: 14px 0 18px;
+}
+@media (min-width: 780px) {
+  .controls { grid-template-columns: 1.2fr 1fr; }
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px;
+  margin: 10px 0;
+}
+.kpi {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.kpi .pill { cursor: default; }
+.input {
+  width: 100%;
+  background: #0f1622;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+}
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.chk {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+  cursor: pointer;
+  user-select: none;
+  font-size: 12px;
+}
+.chk input { accent-color: #7dd3fc; }
+.section-title {
+  font-size: 16px;
+  font-weight: 800;
+  margin: 20px 0 10px;
+}
+.item-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  line-height: 1.25rem;
+}
+.meta {
+  font-size: 12px;
+  color: var(--muted);
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+}
+.badge.t1 { border-color: rgba(34,197,94,.35); }
+.badge.t2 { border-color: rgba(34,197,94,.22); }
+.badge.t3 { border-color: rgba(245,158,11,.25); }
+.footer {
+  margin-top: 30px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.daylist {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.hidden { display:none; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div>
+        <div class="brand">Humanoid Robots Monitor</div>
+        <div class="sub">Daily coverage across tracked humanoid-robot entities</div>
+      </div>
+      <div class="nav">
+        <a class="pill" href="/humanoid-robots-monitor/index.html">Latest</a>
+        <a class="pill" href="/humanoid-robots-monitor/history.html">History</a>
+        <a class="pill" href="https://github.com/MaxwellProfit/humanoid-robots-monitor" target="_blank" rel="noopener noreferrer">Repo</a>
+      </div>
+    </div>
+
+    <div class="h1">Robot Digest — 2026-10-16</div>
+
+    
+<div class="card">
+  <div class="kpi">
+    <span class="pill">Items shown: <strong id="shownCount">0</strong></span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="small">Top sources today</div>
+  <div class="filters" style="margin-top:10px;"><span class="pill">www.youtube.com <strong>(7)</strong></span></div>
+</div>
+<div class="section-title">All items</div>
+
+            <div class="card" data-entity="unitree__china" data-text="unitree introducing: uniuni intelligent swarm control system www.youtube.com unitree (china)">
+              <div class="item-title"><a href="https://www.youtube.com/watch?v=GQHx67tzVCo" target="_blank" rel="noopener noreferrer">Unitree Introducing: UniUni Intelligent Swarm Control System</a></div>
+              <div class="meta">
+                <span>2026-10-16 03:43</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Unitree (China)</span>
+              </div>
+              <div class="small">It enables rapid, intelligent choreography of swarm robot movements and formations, real-time device status monitoring, safety braking, and more.
+How many robots would you like to see perform together?</div>
+            </div>
+            
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="the 0-60 | roadster www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/watch?v=Zg9Q56t7bdo" target="_blank" rel="noopener noreferrer">The 0-60 | Roadster</a></div>
+              <div class="meta">
+                <span>2026-10-16 00:51</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              <div class="small">The 3rd live demo during the Roadster event — 0-60 mph in 0.81 seconds. 
+
+0.67 seconds (w/ rollout subtracted)</div>
+            </div>
+            
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="the kickflip | roadster www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/shorts/Uq_0kEthH3U" target="_blank" rel="noopener noreferrer">The Kickflip | Roadster</a></div>
+              <div class="meta">
+                <span>2026-10-15 22:14</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              
+            </div>
+            
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="the ramp | roadster www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/shorts/-yRQsurykGw" target="_blank" rel="noopener noreferrer">The Ramp | Roadster</a></div>
+              <div class="meta">
+                <span>2026-10-15 22:04</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              
+            </div>
+            
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="roadster | the last best driver&#039;s car www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/watch?v=cvKIR-c1SsU" target="_blank" rel="noopener noreferrer">Roadster | The Last Best Driver&#039;s Car</a></div>
+              <div class="meta">
+                <span>2026-10-15 20:34</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              <div class="small">Roadster is a true pilot&#039;s car: active aerodynamics, a multi-mode suction system &amp; cold-gas thrusters
+
+Reserve Roadster - https://www.tesla.com/roadster
+
+EXTERIOR:
+– Concealed headlights, full-length taillight &amp; flush-mounted surfaces for a minimalist, highly technical form
+
+– Super light wheels w/ thin spokes that reinforce structural strength when earthbound
+
+– Ano White paint brings an aerospace-derived finish w/ UV &amp; cryogenic protection, electrostatic dissipation &amp; corrosion resistance
+
+– Gold Glazed tinted glass mimicking the copper coating of spacesuit visors, w/ subtle titanium accents
+
+
+INTERIOR:
+– Ultrawhite interior w/ gray microsuede detailing &amp; seat bolsters for added grip
+
+– Manual controls &amp; a fixed seat position reduce overall vehicle mass
+
+– Lightweight, high-strength materials throughout, including magnesium, titanium &amp; carbon fiber help reduce it further
+
+This allows Roadster to respond to driver inputs almost instantly
+
+
+BEYOND THE LIMIT OF PHYSICS:
+– Multi-mode fan &amp; ground sealing system pulls air from beneath the vehicle, generating enough suction to hold it upside down while stationary
+
+– Powered fans &amp; active wings maximize traction and cornering speeds in all conditions, achieving massive downforce at zero speed
+
+– Advanced cold-gas thrusters w/ all-electric actuators make micro adjustments within a fraction of a second to stabilize the vehicle in flight</div>
+            </div>
+            
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="roadster event www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/watch?v=qt5p-_tE8d0" target="_blank" rel="noopener noreferrer">Roadster Event</a></div>
+              <div class="meta">
+                <span>2026-10-15 20:34</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              <div class="small">Buckle up. 
+
+https://www.tesla.com/roadster
+
+Ramp Demo: 6:03-10:55
+Kickflip Demo: 10:56-12:43
+Design: 12:47-14:38
+Aero: 14:38-15:57
+0-60 Demo: 15:58-19:26</div>
+            </div>
+            
+
+            <div class="card" data-entity="sanctuary_ai__phoenix" data-text="dexterity explained | how dexterity expands automation www.youtube.com sanctuary ai (phoenix)">
+              <div class="item-title"><a href="https://www.youtube.com/watch?v=U0akYA_lA6A" target="_blank" rel="noopener noreferrer">Dexterity Explained | How Dexterity Expands Automation</a></div>
+              <div class="meta">
+                <span>2026-10-15 12:08</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Sanctuary AI (Phoenix)</span>
+              </div>
+              <div class="small">Dexterity Explained | How Dexterity Expands Automation
+
+In Part 2 of Dexterity Explained, we look at how different levels of dexterity can unlock different kinds of automation.
+
+Not every task requires the same level of dexterity. At Sanctuary AI, we think about dexterity as a gradient—from vacuum and parallel grippers to highly dexterous robotic hands. The right solution depends on the task.
+
+For our robotic hands, the goal is clear: human-level capability, industrial reliability, and performance that can hold up in real-world environments.
+
+Learn more about our dexterous solutions: https://sanctuary.ai/solutions/
+
+#Explained #PhysicalAI #Dexterity #Robotics #RobotHand #SanctuaryAI</div>
+            </div>
+            
+
+    <div class="footer">Generated automatically.</div>
+  </div>
+
+<script>
+function applyFilters() {
+  const q = (document.getElementById('q')?.value || '').toLowerCase().trim();
+  const checked = Array.from(document.querySelectorAll('input[name="entity"]:checked')).map(x => x.value);
+  const items = Array.from(document.querySelectorAll('[data-entity]'));
+
+  let shown = 0;
+  for (const el of items) {
+    const ent = el.getAttribute('data-entity');
+    const text = el.getAttribute('data-text');
+    const entOk = (checked.length === 0) || checked.includes(ent);
+    const qOk = (!q) || (text && text.includes(q));
+    const ok = entOk && qOk;
+    el.classList.toggle('hidden', !ok);
+    if (ok) shown += 1;
+  }
+  const counter = document.getElementById('shownCount');
+  if (counter) counter.textContent = String(shown);
+}
+
+document.addEventListener('input', (e) => {
+  if (e.target && (e.target.id === 'q' || e.target.name === 'entity')) {
+    applyFilters();
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  applyFilters();
+});
+</script>
+
+</body>
+</html>
