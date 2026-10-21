@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Zero to sixty faster than you can read this",
+    "url": "https://www.youtube.com/shorts/BII3FrsTBlU",
+    "published": "2026-10-19T13:40:04-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "unitree_china",
+    "entity_name": "Unitree (China)",
+    "source_feed": "youtube",
+    "title": "Unitree Introducing: H2-X Kung Fu Legend Guardian",
+    "url": "https://www.youtube.com/watch?v=Y3zb4o47yqA",
+    "published": "2026-10-21T03:10:03-05:00",
+    "summary": "Powerful performance to serve and guard you, with a maximum endurance of approximately 8 hours.\nPlease use the robot safely and in a friendly manner."
+  }
+]
