@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Robot Digest — 2026-10-22</title>
+  <style>
+:root {
+  --bg: #0b0f14;
+  --card: #111824;
+  --text: #e6edf3;
+  --muted: #9fb0c0;
+  --link: #7dd3fc;
+  --border: #1f2a3a;
+  --chip: #0f2233;
+  --good: #22c55e;
+  --warn: #f59e0b;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: var(--bg);
+  color: var(--text);
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 18px 60px;
+}
+.header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.brand {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+}
+.sub {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 2px;
+}
+.nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.pill {
+  background: var(--chip);
+  border: 1px solid var(--border);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  color: var(--text);
+}
+.pill.active { outline: 2px solid rgba(125, 211, 252, 0.35); }
+
+.h1 {
+  font-size: 28px;
+  font-weight: 800;
+  margin: 16px 0 6px;
+}
+.small { font-size: 12px; color: var(--muted); line-height: 1.2rem; }
+
+.controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin: 14px 0 18px;
+}
+@media (min-width: 780px) {
+  .controls { grid-template-columns: 1.2fr 1fr; }
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px;
+  margin: 10px 0;
+}
+.kpi {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.kpi .pill { cursor: default; }
+.input {
+  width: 100%;
+  background: #0f1622;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+}
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.chk {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+  cursor: pointer;
+  user-select: none;
+  font-size: 12px;
+}
+.chk input { accent-color: #7dd3fc; }
+.section-title {
+  font-size: 16px;
+  font-weight: 800;
+  margin: 20px 0 10px;
+}
+.item-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  line-height: 1.25rem;
+}
+.meta {
+  font-size: 12px;
+  color: var(--muted);
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+}
+.badge.t1 { border-color: rgba(34,197,94,.35); }
+.badge.t2 { border-color: rgba(34,197,94,.22); }
+.badge.t3 { border-color: rgba(245,158,11,.25); }
+.footer {
+  margin-top: 30px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.daylist {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.hidden { display:none; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div>
+        <div class="brand">Humanoid Robots Monitor</div>
+        <div class="sub">Daily coverage across tracked humanoid-robot entities</div>
+      </div>
+      <div class="nav">
+        <a class="pill" href="/humanoid-robots-monitor/index.html">Latest</a>
+        <a class="pill" href="/humanoid-robots-monitor/history.html">History</a>
+        <a class="pill" href="https://github.com/MaxwellProfit/humanoid-robots-monitor" target="_blank" rel="noopener noreferrer">Repo</a>
+      </div>
+    </div>
+
+    <div class="h1">Robot Digest — 2026-10-22</div>
+
+    
+<div class="card">
+  <div class="kpi">
+    <span class="pill">Items shown: <strong id="shownCount">0</strong></span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="small">Top sources today</div>
+  <div class="filters" style="margin-top:10px;"><span class="pill">news.google.com <strong>(5)</strong></span><span class="pill">www.youtube.com <strong>(2)</strong></span></div>
+</div>
+<div class="section-title">All items</div>
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="encore www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/shorts/qFpRyEg2y5k" target="_blank" rel="noopener noreferrer">Encore</a></div>
+              <div class="meta">
+                <span>2026-10-21 20:05</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              
+            </div>
+            
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="tesla q3 2026 financial results and q&amp;a webcast www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/watch?v=tFezqXBF-gw" target="_blank" rel="noopener noreferrer">Tesla Q3 2026 Financial Results and Q&amp;A Webcast</a></div>
+              <div class="meta">
+                <span>2026-10-21 17:39</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              
+            </div>
+            
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="elon musk says training tesla&#039;s optimus robot is like raising a toddler - business insider news.google.com elon musk + optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWl4c2xjeEg3dnhZRDFEYkJVVDVXWTY0S09uTGp2bFVZNnBzRDBzOTJNZmc5TkdIV1RQYXg0cm5EM2hDdGhiV2hQRVRaamE4RkdiZmJSYUhSUTljNnRmaXE5OGd1QWxGaUZsS19RcHhOU2N1aTFtUzVPdDAwUXNrS0s3dm9VbXQzZUFBYmtTanI3MDFq?oc=5" target="_blank" rel="noopener noreferrer">Elon Musk says training Tesla&#039;s Optimus robot is like raising a toddler - Business Insider</a></div>
+              <div class="meta">
+                <span>2026-10-22 05:33</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWl4c2xjeEg3dnhZRDFEYkJVVDVXWTY0S09uTGp2bFVZNnBzRDBzOTJNZmc5TkdIV1RQYXg0cm5EM2hDdGhiV2hQRVRaamE4RkdiZmJSYUhSUTljNnRmaXE5OGd1QWxGaUZsS19RcHhOU2N1aTFtUzVPdDAwUXNrS0s3dm9VbXQzZUFBYmtTanI3MDFq?oc=5&quot; target=&quot;_blank&quot;&gt;Elon Musk says training Tesla&#039;s Optimus robot is like raising a toddler&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Business Insider&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="unitree__china" data-text="china’s unitree unveils ‘guardian’ robot that can disarm attackers, lift cars - south china morning post news.google.com unitree (china)">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTVzQ1pUazRJanZRV2I2aG5BM1FkcERRaWs4WVdnVWUyN3lSNmx3b1lGRXNGZzV4NnhjZzFTOXRacko3TmVGTjV5czFuQk1ucnNRRzFHdU9mWWlxQUF1b3V3M3NuT3dFVUhjQlo3aWtILXhlZUNrNGxCTGo4OUZlSkdESkdEcjdXamhpcHpxbGxDdUhTcUVGcjNxTTRxSlEwYUtDYlp3RERPLTBNNVA3dFBZam1nVklIYXlJR9IBvAFBVV95cUxNanpxLTBkMVF4d2g4QkpPczJRMFpkNzJWeHduRVpZX1dHMHkybXJtdGxKVUtyTXJzTmRrZVh0S2FKRlREUlJNc1o1Nzh3OXJkT1hkcTlVY0RtQm9fVkpZUDZnei0xSDBuRm9ETEhiM3ZobEJHME5Qc1hUcTkxanh1YVJHWU5BeGdRMk4wRUtkOWJyUWY4dVBsZjRGY2Zpb3ZSY3gtaWE1THdUQkx6b3ZPQVBBMWhtOWpjcGdPQQ?oc=5" target="_blank" rel="noopener noreferrer">China’s Unitree unveils ‘guardian’ robot that can disarm attackers, lift cars - South China Morning Post</a></div>
+              <div class="meta">
+                <span>2026-10-21 19:00</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Unitree (China)</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTVzQ1pUazRJanZRV2I2aG5BM1FkcERRaWs4WVdnVWUyN3lSNmx3b1lGRXNGZzV4NnhjZzFTOXRacko3TmVGTjV5czFuQk1ucnNRRzFHdU9mWWlxQUF1b3V3M3NuT3dFVUhjQlo3aWtILXhlZUNrNGxCTGo4OUZlSkdESkdEcjdXamhpcHpxbGxDdUhTcUVGcjNxTTRxSlEwYUtDYlp3RERPLTBNNVA3dFBZam1nVklIYXlJR9IBvAFBVV95cUxNanpxLTBkMVF4d2g4QkpPczJRMFpkNzJWeHduRVpZX1dHMHkybXJtdGxKVUtyTXJzTmRrZVh0S2FKRlREUlJNc1o1Nzh3OXJkT1hkcTlVY0RtQm9fVkpZUDZnei0xSDBuRm9ETEhiM3ZobEJHME5Qc1hUcTkxanh1YVJHWU5BeGdRMk4wRUtkOWJyUWY4dVBsZjRGY2Zpb3ZSY3gtaWE1THdUQkx6b3ZPQVBBMWhtOWpjcGdPQQ?oc=5&quot; target=&quot;_blank&quot;&gt;China’s Unitree unveils ‘guardian’ robot that can disarm attackers, lift cars&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;South China Morning Post&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="tesla_optimus" data-text="tesla&#039;s optimus robots are finally rolling off the production line - business insider news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5" target="_blank" rel="noopener noreferrer">Tesla&#039;s Optimus robots are finally rolling off the production line - Business Insider</a></div>
+              <div class="meta">
+                <span>2026-10-21 17:37</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5&quot; target=&quot;_blank&quot;&gt;Tesla&#039;s Optimus robots are finally rolling off the production line&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Business Insider&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="tesla_optimus" data-text="tesla starts optimus robot production in california as profit falls 43% - techcrunch news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOR3JTc1VMOXpkNFdBam10d21hV2doQmZwNk1LSEU1UjVDQThjY1h0T3BuUGdXSlZTVHZiYVgybWFuS0l2d3RGZERCdUxoREVCazQ2QUdqZ082UWdjcV9xakNxX2ZXX3pHamlNU1Q2blhTTHdHS0xkbjAxX3paQWRqZ3FnMVFKNUU2bGxnQjdleWw3Mlg0Mm4yYzhaWjlsVXBpVE56OWFDMA?oc=5" target="_blank" rel="noopener noreferrer">Tesla starts Optimus robot production in California as profit falls 43% - TechCrunch</a></div>
+              <div class="meta">
+                <span>2026-10-21 15:33</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMipwFBVV95cUxOR3JTc1VMOXpkNFdBam10d21hV2doQmZwNk1LSEU1UjVDQThjY1h0T3BuUGdXSlZTVHZiYVgybWFuS0l2d3RGZERCdUxoREVCazQ2QUdqZ082UWdjcV9xakNxX2ZXX3pHamlNU1Q2blhTTHdHS0xkbjAxX3paQWRqZ3FnMVFKNUU2bGxnQjdleWw3Mlg0Mm4yYzhaWjlsVXBpVE56OWFDMA?oc=5&quot; target=&quot;_blank&quot;&gt;Tesla starts Optimus robot production in California as profit falls 43%&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;TechCrunch&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="unitree__china" data-text="unitree unveils h2-x humanoid robot: meet the &#039;kung fu legend guardian&#039; - the news international news.google.com unitree (china)">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWZGUjl4NGVUc1AxdFdzS3lLaE1CZkN5ZWs4OFl4eW5BVWx3dDZyZ05HZVk4WDdtVkxKQjN0blBnU2dwTHg1dFNpaVVLWDl4RE43Wlg4bFF6UGdjU0hfdDU0TlhNMnpCeVVjWHJhWjAzaHdjMWphVDlhcVc4aURsd191eWZoU1hPTVdNY2FlODVZYWRDN09YWlU3LTlna1R6R2dfUGQxYzJUbkhUYTRB0gGrAUFVX3lxTE1pZDhvSUNXWHdZOGRXSlJqTWtPako4bzhKYUt6UVpTbUhScThPYWJ6eldBTGk4SEdwcGV3M2Fjb1F3OUlCcjFKSnRBQTFTOVNRZU85VC1CZjhweTBvczBVWFBDdWI0MHhLLXR6R3dLUWtPbGV2UXRSeHBxS2NNWFpsTnNvMENQWFZBdGc2SURVeVNkZEVlM0RVMnVJTzJUbmZwOEY0aDh2SDg1MA?oc=5" target="_blank" rel="noopener noreferrer">Unitree unveils H2-X humanoid robot: Meet the &#039;Kung Fu Legend Guardian&#039; - The News International</a></div>
+              <div class="meta">
+                <span>2026-10-21 04:56</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Unitree (China)</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWZGUjl4NGVUc1AxdFdzS3lLaE1CZkN5ZWs4OFl4eW5BVWx3dDZyZ05HZVk4WDdtVkxKQjN0blBnU2dwTHg1dFNpaVVLWDl4RE43Wlg4bFF6UGdjU0hfdDU0TlhNMnpCeVVjWHJhWjAzaHdjMWphVDlhcVc4aURsd191eWZoU1hPTVdNY2FlODVZYWRDN09YWlU3LTlna1R6R2dfUGQxYzJUbkhUYTRB0gGrAUFVX3lxTE1pZDhvSUNXWHdZOGRXSlJqTWtPako4bzhKYUt6UVpTbUhScThPYWJ6eldBTGk4SEdwcGV3M2Fjb1F3OUlCcjFKSnRBQTFTOVNRZU85VC1CZjhweTBvczBVWFBDdWI0MHhLLXR6R3dLUWtPbGV2UXRSeHBxS2NNWFpsTnNvMENQWFZBdGc2SURVeVNkZEVlM0RVMnVJTzJUbmZwOEY0aDh2SDg1MA?oc=5&quot; target=&quot;_blank&quot;&gt;Unitree unveils H2-X humanoid robot: Meet the &#039;Kung Fu Legend Guardian&#039;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The News International&lt;/font&gt;</div>
+            </div>
+            
+
+    <div class="footer">Generated automatically.</div>
+  </div>
+
+<script>
+function applyFilters() {
+  const q = (document.getElementById('q')?.value || '').toLowerCase().trim();
+  const checked = Array.from(document.querySelectorAll('input[name="entity"]:checked')).map(x => x.value);
+  const items = Array.from(document.querySelectorAll('[data-entity]'));
+
+  let shown = 0;
+  for (const el of items) {
+    const ent = el.getAttribute('data-entity');
+    const text = el.getAttribute('data-text');
+    const entOk = (checked.length === 0) || checked.includes(ent);
+    const qOk = (!q) || (text && text.includes(q));
+    const ok = entOk && qOk;
+    el.classList.toggle('hidden', !ok);
+    if (ok) shown += 1;
+  }
+  const counter = document.getElementById('shownCount');
+  if (counter) counter.textContent = String(shown);
+}
+
+document.addEventListener('input', (e) => {
+  if (e.target && (e.target.id === 'q' || e.target.name === 'entity')) {
+    applyFilters();
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  applyFilters();
+});
+</script>
+
+</body>
+</html>
