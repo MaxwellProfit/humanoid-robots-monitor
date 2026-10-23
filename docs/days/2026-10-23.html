@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Robot Digest — 2026-10-23</title>
+  <style>
+:root {
+  --bg: #0b0f14;
+  --card: #111824;
+  --text: #e6edf3;
+  --muted: #9fb0c0;
+  --link: #7dd3fc;
+  --border: #1f2a3a;
+  --chip: #0f2233;
+  --good: #22c55e;
+  --warn: #f59e0b;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: var(--bg);
+  color: var(--text);
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 18px 60px;
+}
+.header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.brand {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+}
+.sub {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 2px;
+}
+.nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.pill {
+  background: var(--chip);
+  border: 1px solid var(--border);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  color: var(--text);
+}
+.pill.active { outline: 2px solid rgba(125, 211, 252, 0.35); }
+
+.h1 {
+  font-size: 28px;
+  font-weight: 800;
+  margin: 16px 0 6px;
+}
+.small { font-size: 12px; color: var(--muted); line-height: 1.2rem; }
+
+.controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin: 14px 0 18px;
+}
+@media (min-width: 780px) {
+  .controls { grid-template-columns: 1.2fr 1fr; }
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px;
+  margin: 10px 0;
+}
+.kpi {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.kpi .pill { cursor: default; }
+.input {
+  width: 100%;
+  background: #0f1622;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+}
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.chk {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+  cursor: pointer;
+  user-select: none;
+  font-size: 12px;
+}
+.chk input { accent-color: #7dd3fc; }
+.section-title {
+  font-size: 16px;
+  font-weight: 800;
+  margin: 20px 0 10px;
+}
+.item-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  line-height: 1.25rem;
+}
+.meta {
+  font-size: 12px;
+  color: var(--muted);
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f1622;
+}
+.badge.t1 { border-color: rgba(34,197,94,.35); }
+.badge.t2 { border-color: rgba(34,197,94,.22); }
+.badge.t3 { border-color: rgba(245,158,11,.25); }
+.footer {
+  margin-top: 30px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.daylist {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.hidden { display:none; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div>
+        <div class="brand">Humanoid Robots Monitor</div>
+        <div class="sub">Daily coverage across tracked humanoid-robot entities</div>
+      </div>
+      <div class="nav">
+        <a class="pill" href="/humanoid-robots-monitor/index.html">Latest</a>
+        <a class="pill" href="/humanoid-robots-monitor/history.html">History</a>
+        <a class="pill" href="https://github.com/MaxwellProfit/humanoid-robots-monitor" target="_blank" rel="noopener noreferrer">Repo</a>
+      </div>
+    </div>
+
+    <div class="h1">Robot Digest — 2026-10-23</div>
+
+    
+<div class="card">
+  <div class="kpi">
+    <span class="pill">Items shown: <strong id="shownCount">0</strong></span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="small">Top sources today</div>
+  <div class="filters" style="margin-top:10px;"><span class="pill">news.google.com <strong>(7)</strong></span><span class="pill">www.youtube.com <strong>(1)</strong></span></div>
+</div>
+<div class="section-title">All items</div>
+
+            <div class="card" data-entity="elon_musk___optimus" data-text="roadster encore www.youtube.com elon musk + optimus">
+              <div class="item-title"><a href="https://www.youtube.com/shorts/qFpRyEg2y5k" target="_blank" rel="noopener noreferrer">Roadster Encore</a></div>
+              <div class="meta">
+                <span>2026-10-21 20:05</span>
+                <span>www.youtube.com</span>
+                <span><span class="badge t3">tier 3</span></span>
+                <span class="badge">Elon Musk + Optimus</span>
+              </div>
+              
+            </div>
+            
+
+            <div class="card" data-entity="tesla_optimus" data-text="tesla begins production of &#039;optimus&#039; humanoid robot - abc7 los angeles news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW9TMDZnOXA1SDU4MWxocjVwQ0FVNThUVFlDOFpoeXBmZW83SUtpOGlIekNHbjU2Vy02SWwtaTYzbnFkdFhIa0NfejBhYWpBaEZ5MTg4TjFFb3ZWOUFNM0RYTXZoNFlaaXRfeHZfUnV5dnVOanhYQTRpUmxCaV9nSlNsdzLSAYoBQVVfeXFMTnJPNThFeU0wc2lQcDVpV0V1TXhCcDNsSE9UTmJndWVVYXdOS2R0YnFTZUpkeElSaFNMb29Mck9RYmc2MTF3UlhNSVZuY2ZpOGNmVzdMZWw1WVFSMWdLenRRTGpZVEdZS0t0Ni1NekM0RzVIZlF2aUhBVlRRYUVTaURuNnhsVHBGdzFn?oc=5" target="_blank" rel="noopener noreferrer">Tesla begins production of &#039;Optimus&#039; humanoid robot - ABC7 Los Angeles</a></div>
+              <div class="meta">
+                <span>2026-10-22 23:38</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW9TMDZnOXA1SDU4MWxocjVwQ0FVNThUVFlDOFpoeXBmZW83SUtpOGlIekNHbjU2Vy02SWwtaTYzbnFkdFhIa0NfejBhYWpBaEZ5MTg4TjFFb3ZWOUFNM0RYTXZoNFlaaXRfeHZfUnV5dnVOanhYQTRpUmxCaV9nSlNsdzLSAYoBQVVfeXFMTnJPNThFeU0wc2lQcDVpV0V1TXhCcDNsSE9UTmJndWVVYXdOS2R0YnFTZUpkeElSaFNMb29Mck9RYmc2MTF3UlhNSVZuY2ZpOGNmVzdMZWw1WVFSMWdLenRRTGpZVEdZS0t0Ni1NekM0RzVIZlF2aUhBVlRRYUVTaURuNnhsVHBGdzFn?oc=5&quot; target=&quot;_blank&quot;&gt;Tesla begins production of &#039;Optimus&#039; humanoid robot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;ABC7 Los Angeles&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="apptronik__apollo" data-text="google deepmind uses gemini 4 argon to teach apptronik’s apollo humanoid new skills from video - robotics &amp; automation news news.google.com apptronik (apollo)">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSVEwaG5UMVNDWVduOE9scVhpVUw5azY3T1VERHVvbGJIbHFTR0t4bzNtNWd4alk0T3BoajlLSnlfVWhlcEFMNkdnVUNsLWQwVm5TU1FZeE81bFpHZkR4QjcwMjNxekRYZTN4aU1wZHhFYW9YWU1wNVlMSDJMS2NpX1ZfLTBWb24yWnNxaGx3bWo2MnVoWFVNZjhzSDBqb0NaMVR6bEZBZ0NoUnVTWjBzaHhzb0YyVWJVWkhBM3pSUnNGWWh5ZnhwOGlGdWZyZzRDcVliUmVJRVJKZnNxVUdxZnRXMTU?oc=5" target="_blank" rel="noopener noreferrer">Google DeepMind uses Gemini 4 Argon to teach Apptronik’s Apollo humanoid new skills from video - Robotics &amp; Automation News</a></div>
+              <div class="meta">
+                <span>2026-10-22 14:34</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Apptronik (Apollo)</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSVEwaG5UMVNDWVduOE9scVhpVUw5azY3T1VERHVvbGJIbHFTR0t4bzNtNWd4alk0T3BoajlLSnlfVWhlcEFMNkdnVUNsLWQwVm5TU1FZeE81bFpHZkR4QjcwMjNxekRYZTN4aU1wZHhFYW9YWU1wNVlMSDJMS2NpX1ZfLTBWb24yWnNxaGx3bWo2MnVoWFVNZjhzSDBqb0NaMVR6bEZBZ0NoUnVTWjBzaHhzb0YyVWJVWkhBM3pSUnNGWWh5ZnhwOGlGdWZyZzRDcVliUmVJRVJKZnNxVUdxZnRXMTU?oc=5&quot; target=&quot;_blank&quot;&gt;Google DeepMind uses Gemini 4 Argon to teach Apptronik’s Apollo humanoid new skills from video&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Robotics &amp; Automation News&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="tesla_optimus" data-text="tesla officially begins optimus robot production; demo coming soon - not a tesla app news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWRiTkdad3o2Rmt2cUVEckgzV21wa1FmVXBJbk1BLTNOTXRyQmhmMV85ZGZ4MVFNOEVPLUtmYkRlTU1VQVlsbk40Q25LdkhzM1RPQkhQVDVpc2QwZzI5VXBGWEx6elYwMk9uYVVpV1ZqV09GNFlza09nMFhISzlEWTZPbWxwLUUyMlR4UTI5bkk?oc=5" target="_blank" rel="noopener noreferrer">Tesla Officially Begins Optimus Robot Production; Demo Coming Soon - Not a Tesla App</a></div>
+              <div class="meta">
+                <span>2026-10-22 09:38</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWRiTkdad3o2Rmt2cUVEckgzV21wa1FmVXBJbk1BLTNOTXRyQmhmMV85ZGZ4MVFNOEVPLUtmYkRlTU1VQVlsbk40Q25LdkhzM1RPQkhQVDVpc2QwZzI5VXBGWEx6elYwMk9uYVVpV1ZqV09GNFlza09nMFhISzlEWTZPbWxwLUUyMlR4UTI5bkk?oc=5&quot; target=&quot;_blank&quot;&gt;Tesla Officially Begins Optimus Robot Production; Demo Coming Soon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Not a Tesla App&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="tesla_optimus" data-text="elon musk says tesla&#039;s optimus robot needs to learn like a toddler - yahoo finance news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWI1MDhEbHpzblJ3emdvaVVFblU2eDByNENBcmVlWC00ZzZLQXdqZVRweEpIR1NLcnN2MHMxV1NzU0p4NmFCME1ja1A3Nmt5eWQtUVhxRjczd3ktQUllN1lWMUVBeVRnSDFiUHVuamVzbGFfQ0NHSXZhbnAxel9KLThsS2hORVo5dXo4SS1UbC1idFdCR1RzMDJaaHlfYkdadFFOOUZBS2J3NXFPS3kzUzBtX05nOWhCUUpuWGZ4WHpWODg?oc=5" target="_blank" rel="noopener noreferrer">Elon Musk says Tesla&#039;s Optimus robot needs to learn like a toddler - Yahoo Finance</a></div>
+              <div class="meta">
+                <span>2026-10-22 08:58</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWI1MDhEbHpzblJ3emdvaVVFblU2eDByNENBcmVlWC00ZzZLQXdqZVRweEpIR1NLcnN2MHMxV1NzU0p4NmFCME1ja1A3Nmt5eWQtUVhxRjczd3ktQUllN1lWMUVBeVRnSDFiUHVuamVzbGFfQ0NHSXZhbnAxel9KLThsS2hORVo5dXo4SS1UbC1idFdCR1RzMDJaaHlfYkdadFFOOUZBS2J3NXFPS3kzUzBtX05nOWhCUUpuWGZ4WHpWODg?oc=5&quot; target=&quot;_blank&quot;&gt;Elon Musk says Tesla&#039;s Optimus robot needs to learn like a toddler&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Yahoo Finance&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="unitree__china" data-text="unitree unveils h2-x kung fu legend guardian, sparking discussion on potential of humanoid robots serving as security guards - global times news.google.com unitree (china)">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pMm44ektYWkFCWUZuMmdaUjE2M3dkeVdYQ181S1NocWp5a0lJb0J0QTlBV3IzRkVOYkVXQV9KcHpoYTMwLVVuMUdmT3M0cDZGWXFjZUx5d3NQQkRqV2ViVzBB?oc=5" target="_blank" rel="noopener noreferrer">Unitree unveils H2-X Kung Fu Legend Guardian, sparking discussion on potential of humanoid robots serving as security guards - Global Times</a></div>
+              <div class="meta">
+                <span>2026-10-22 03:59</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Unitree (China)</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pMm44ektYWkFCWUZuMmdaUjE2M3dkeVdYQ181S1NocWp5a0lJb0J0QTlBV3IzRkVOYkVXQV9KcHpoYTMwLVVuMUdmT3M0cDZGWXFjZUx5d3NQQkRqV2ViVzBB?oc=5&quot; target=&quot;_blank&quot;&gt;Unitree unveils H2-X Kung Fu Legend Guardian, sparking discussion on potential of humanoid robots serving as security guards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Global Times&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="unitree__china" data-text="unitree unveils humanoid robot designed to act as real-life guardian - interesting engineering news.google.com unitree (china)">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXRTOUhzTFBiMWZxUDFhQTFuUG5VaDg0NFFha2VMVFo3OS1yOEMxU1kzbDBZS2RYUnZLYTBqeU96eGFFRnNiWXdkNDNKZFFNeGZuaDNBNUw3b1VTQXVoaFV0ZTlIdGhLME5QbUpIRTF4dDVBQmNZMTdIWTJLVW4zNEFobUJEblFNajNqRg?oc=5" target="_blank" rel="noopener noreferrer">Unitree unveils humanoid robot designed to act as real-life guardian - Interesting Engineering</a></div>
+              <div class="meta">
+                <span>2026-10-22 03:18</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Unitree (China)</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXRTOUhzTFBiMWZxUDFhQTFuUG5VaDg0NFFha2VMVFo3OS1yOEMxU1kzbDBZS2RYUnZLYTBqeU96eGFFRnNiWXdkNDNKZFFNeGZuaDNBNUw3b1VTQXVoaFV0ZTlIdGhLME5QbUpIRTF4dDVBQmNZMTdIWTJLVW4zNEFobUJEblFNajNqRg?oc=5&quot; target=&quot;_blank&quot;&gt;Unitree unveils humanoid robot designed to act as real-life guardian&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Interesting Engineering&lt;/font&gt;</div>
+            </div>
+            
+
+            <div class="card" data-entity="tesla_optimus" data-text="tesla fires up optimus robot production with musk eyeing 20,000 units per week by 2027 - interesting engineering news.google.com tesla optimus">
+              <div class="item-title"><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3Atc1dERGs2OFNTVTNlNUtGSlBvRS1KTkNyQ082SzR3bG5Ra3FmNng2bUhaOGhfT0d2a2JSU2lhM0ZfT3V3YXBfREdhVnl2aGluU0VOa1FjUF9ZVHJOVVBnczVkMkFlclhhVUxDaUxQV3pLRWFvZERQZWl6TUZOZFF0RjFzaE5zUWJjNw?oc=5" target="_blank" rel="noopener noreferrer">Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027 - Interesting Engineering</a></div>
+              <div class="meta">
+                <span>2026-10-21 19:57</span>
+                <span>news.google.com</span>
+                <span><span class="badge t5">tier 5</span></span>
+                <span class="badge">Tesla Optimus</span>
+              </div>
+              <div class="small">&lt;a href=&quot;https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3Atc1dERGs2OFNTVTNlNUtGSlBvRS1KTkNyQ082SzR3bG5Ra3FmNng2bUhaOGhfT0d2a2JSU2lhM0ZfT3V3YXBfREdhVnl2aGluU0VOa1FjUF9ZVHJOVVBnczVkMkFlclhhVUxDaUxQV3pLRWFvZERQZWl6TUZOZFF0RjFzaE5zUWJjNw?oc=5&quot; target=&quot;_blank&quot;&gt;Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;Interesting Engineering&lt;/font&gt;</div>
+            </div>
+            
+
+    <div class="footer">Generated automatically.</div>
+  </div>
+
+<script>
+function applyFilters() {
+  const q = (document.getElementById('q')?.value || '').toLowerCase().trim();
+  const checked = Array.from(document.querySelectorAll('input[name="entity"]:checked')).map(x => x.value);
+  const items = Array.from(document.querySelectorAll('[data-entity]'));
+
+  let shown = 0;
+  for (const el of items) {
+    const ent = el.getAttribute('data-entity');
+    const text = el.getAttribute('data-text');
+    const entOk = (checked.length === 0) || checked.includes(ent);
+    const qOk = (!q) || (text && text.includes(q));
+    const ok = entOk && qOk;
+    el.classList.toggle('hidden', !ok);
+    if (ok) shown += 1;
+  }
+  const counter = document.getElementById('shownCount');
+  if (counter) counter.textContent = String(shown);
+}
+
+document.addEventListener('input', (e) => {
+  if (e.target && (e.target.id === 'q' || e.target.name === 'entity')) {
+    applyFilters();
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  applyFilters();
+});
+</script>
+
+</body>
+</html>

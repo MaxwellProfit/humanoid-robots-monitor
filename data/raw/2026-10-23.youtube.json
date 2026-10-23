@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Roadster Encore",
+    "url": "https://www.youtube.com/shorts/qFpRyEg2y5k",
+    "published": "2026-10-21T20:05:28-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Tesla Q3 2026 Financial Results and Q&A Webcast",
+    "url": "https://www.youtube.com/watch?v=tFezqXBF-gw",
+    "published": "2026-10-21T17:39:01-05:00",
+    "summary": ""
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "youtube",
+    "title": "Figure All Hands 2026",
+    "url": "https://www.youtube.com/watch?v=AoFwpf43wK0",
+    "published": "2026-10-22T10:31:17-05:00",
+    "summary": ""
+  }
+]
