@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "title": "Flight POV | Roadster",
+    "url": "https://www.youtube.com/watch?v=3NyyOZQzy_E",
+    "domain": "www.youtube.com",
+    "published": "2026-11-03T16:59:30-06:00",
+    "summary": "Footage recorded by Roadster’s onboard Tesla Vision cameras during the live event demoes on October 15th, 2026.\n\nhttps://www.tesla.com/roadster",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "title": "Video: Figure’s new humanoid robot workforce takes first steps outside US factory - Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzM4RWVnMndpYzJlTmswWjFKYzBKYzJwcGlNQW5xVC1nLUpSREVaUXVwYjZaM3FLYjhUWnBKY0VMUG5IWjhIc2p3OTZXS0dNNm82M0MxRDdCZnpENG0xeGtmQnJfampmaE4zNVp1bFlHREJmejJ4V1RpQXNxZkwxVzZBcXZSRnJMd21n?oc=5",
+    "domain": "news.google.com",
+    "published": "2026-11-03T07:28:00-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzM4RWVnMndpYzJlTmswWjFKYzBKYzJwcGlNQW5xVC1nLUpSREVaUXVwYjZaM3FLYjhUWnBKY0VMUG5IWjhIc2p3OTZXS0dNNm82M0MxRDdCZnpENG0xeGtmQnJfampmaE4zNVp1bFlHREJmejJ4V1RpQXNxZkwxVzZBcXZSRnJMd21n?oc=5\" target=\"_blank\">Video: Figure’s new humanoid robot workforce takes first steps outside US factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+    "source_feed": "google_news"
+  }
+]
