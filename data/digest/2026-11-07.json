@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "title": "Tesla Argentina Launch",
+    "url": "https://www.youtube.com/watch?v=FP25dmOnKb8",
+    "domain": "www.youtube.com",
+    "published": "2026-11-06T16:21:15-06:00",
+    "summary": "Llegamos a Argentina el 20 de Noviembre — Tesla arrives in Argentina on November 20th",
+    "source_feed": "youtube"
+  },
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "title": "Tesla Cybertruck Unveil",
+    "url": "https://www.youtube.com/watch?v=NcROXiN_cdE",
+    "domain": "www.youtube.com",
+    "published": "2026-11-06T13:52:58-06:00",
+    "summary": "00:00 - Event Begins\n02:59 - Keynote\n05:03 - Cybertruck Reveal\n14:11 - \"Are you sure?\"\n14:56 - Keynote Outro",
+    "source_feed": "youtube"
+  }
+]
