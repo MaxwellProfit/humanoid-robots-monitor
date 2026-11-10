@@ -1,0 +1,29 @@
+[
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Robotics company Figure AI is hiring a human to babysit humanoid robots overnight - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5",
+    "published": "2026-11-10T04:52:00-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5\" target=\"_blank\">Robotics company Figure AI is hiring a human to babysit humanoid robots overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "google_news",
+    "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control - The Robot Report",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZsNUU0b0tURkpENTdIRGt5NGNFZjQwWjBZOWkzUGFhUzRMeTFQak9FSlhwMzZ3ckd5ZHUyOHM3TFowVnY2WUxEcWZnaWJoMUYzd1NCTFpMeUt4UzEtUHJ0QkRzMzUxN0lLbmdhUXlrdmNHb25Rd05INlBpUDMtSDB5ZnVIdWJkRkxoM1lCa3dIWlJIOWIzbmhFZjFyUTNxTEhDWWI1Zw?oc=5",
+    "published": "2026-11-09T12:42:26-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZsNUU0b0tURkpENTdIRGt5NGNFZjQwWjBZOWkzUGFhUzRMeTFQak9FSlhwMzZ3ckd5ZHUyOHM3TFowVnY2WUxEcWZnaWJoMUYzd1NCTFpMeUt4UzEtUHJ0QkRzMzUxN0lLbmdhUXlrdmNHb25Rd05INlBpUDMtSDB5ZnVIdWJkRkxoM1lCa3dIWlJIOWIzbmhFZjFyUTNxTEhDWWI1Zw?oc=5\" target=\"_blank\">Boston Dynamics adds wheels to Atlas humanoid to test whole-body control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>"
+  },
+  {
+    "entity_id": "boston_dynamics_atlas",
+    "entity_name": "Boston Dynamics (Atlas)",
+    "source_feed": "google_news",
+    "title": "Boston Dynamics' Atlas robot performs a 360-degree jump on wheels - Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3pNRkI3cjB4SEVNX1N2NUcxemJtZFBwd2g5dTFTX2xhM2k3MEtGd2tUdFNiLTZhVDFPQURWTVd5cFdpNzBfZFVnMTFMM3RXVWJLNEJ6UHUyc0lwaU1OTG1DdHFQenZiX1hkSFlmM2FkRDRaUERzemFZWUFfYVVVNVlPeXkzTk53V2c?oc=5",
+    "published": "2026-11-09T19:44:00-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3pNRkI3cjB4SEVNX1N2NUcxemJtZFBwd2g5dTFTX2xhM2k3MEtGd2tUdFNiLTZhVDFPQURWTVd5cFdpNzBfZFVnMTFMM3RXVWJLNEJ6UHUyc0lwaU1OTG1DdHFQenZiX1hkSFlmM2FkRDRaUERzemFZWUFfYVVVNVlPeXkzTk53V2c?oc=5\" target=\"_blank\">Boston Dynamics' Atlas robot performs a 360-degree jump on wheels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>"
+  }
+]
