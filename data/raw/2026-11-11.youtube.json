@@ -1,0 +1,11 @@
+[
+  {
+    "entity_id": "elon_musk_optimus",
+    "entity_name": "Elon Musk + Optimus",
+    "source_feed": "youtube",
+    "title": "Bringing Megapack Online Faster",
+    "url": "https://www.youtube.com/watch?v=3Pdpo0Ps4kI",
+    "published": "2026-11-10T21:45:49-06:00",
+    "summary": "Tesla's Controller-Hardware-In-the-Loop (CHIL) is key to bringing Megapack sites online faster\n \nCHIL allows us to simulate the entire site in real time before it’s connected to the grid. We can see how the site will respond to faults, frequency changes or if a tree were to fall on a power line. \n\nCHIL validated 444 grid-forming Megapacks at Melbourne Renewable Energy Hub before grid connection, delivering 600 MW / 1.6 GWh of storage months ahead of schedule\".\n\nhttps://www.tesla.com/megapack"
+  }
+]
