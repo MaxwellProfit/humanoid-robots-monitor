@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "tesla_optimus",
+    "entity_name": "Tesla Optimus",
+    "source_feed": "google_news",
+    "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSVZBc2JNOVZ2aHJQYVNnVjZEbGNBTnRwbENMYzVGdEJfVUNLLUVzSmxtWFZUT2RJd3FtazgzUGxGUjV6NzF4Z2FSaGgtVEhPZGpqLUlxZGxlbjBaa3lscWdnUTBMWTYxMUhzOHI4RU0yelUwa0tqNmdramY?oc=5",
+    "published": "2026-11-21T20:27:13-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSVZBc2JNOVZ2aHJQYVNnVjZEbGNBTnRwbENMYzVGdEJfVUNLLUVzSmxtWFZUT2RJd3FtazgzUGxGUjV6NzF4Z2FSaGgtVEhPZGpqLUlxZGxlbjBaa3lscWdnUTBMWTYxMUhzOHI4RU0yelUwa0tqNmdramY?oc=5\" target=\"_blank\">What Robotics Experts Think of Tesla’s Optimus Robot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spectrum</font>"
+  },
+  {
+    "entity_id": "figure_ai",
+    "entity_name": "Figure AI (Figure 02)",
+    "source_feed": "google_news",
+    "title": "Figure AI patents wearable system for teaching humanoid robots through human movement - Robotics & Automation News",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObzNaWjAtc25MTHotS2xSekVYSDVURlRjeDYxbURiR0J2alNIdldRNUR6TzNrNW1VZ1ltbnZGX3VHRzVfdEhZc2d1cGg4MllaMVJNVFRoTFJPUGltZ2dBLXY0UFpheVlSeTRtUHJIWWowbFNZd3JxdWxyTGxiUDVIdWZSWUx2R21HbWIxeVFpeVNWbzBLQnN5TVVnamlJTXhoQ0YtTzJjeXVHX0VKZjBaeGdXOS1GaUhmNDFJeFBoUWQ4S3NnSG45U3ZzMk4zN08zeFdRdF9NZHNlQQ?oc=5",
+    "published": "2026-11-23T16:43:12-06:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxObzNaWjAtc25MTHotS2xSekVYSDVURlRjeDYxbURiR0J2alNIdldRNUR6TzNrNW1VZ1ltbnZGX3VHRzVfdEhZc2d1cGg4MllaMVJNVFRoTFJPUGltZ2dBLXY0UFpheVlSeTRtUHJIWWowbFNZd3JxdWxyTGxiUDVIdWZSWUx2R21HbWIxeVFpeVNWbzBLQnN5TVVnamlJTXhoQ0YtTzJjeXVHX0VKZjBaeGdXOS1GaUhmNDFJeFBoUWQ4S3NnSG45U3ZzMk4zN08zeFdRdF9NZHNlQQ?oc=5\" target=\"_blank\">Figure AI patents wearable system for teaching humanoid robots through human movement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Robotics & Automation News</font>"
+  }
+]
